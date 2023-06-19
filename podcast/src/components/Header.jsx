@@ -14,7 +14,7 @@ import MenuItem from '@mui/material/MenuItem';
 import HeadsetOutlinedIcon from '@mui/icons-material/HeadsetOutlined';
 
 
-const pages = ['Home', 'Comedy', 'Personal Growth', 'Business', 'Entertainment', 'Fiction', 'History', 'Investigative Journ'];
+const pages = [];
 
 
 function ResponsiveAppBar() {
@@ -42,7 +42,7 @@ function ResponsiveAppBar() {
         <Toolbar disableGutters>
           <HeadsetOutlinedIcon sx={{ display: { xs: 'none', md: 'flex' }, mr: 1 }} />
           <Typography
-            variant="h6"
+            variant="h4"
             noWrap
             component="a"
             href="/"
@@ -61,7 +61,7 @@ function ResponsiveAppBar() {
 
           <Box sx={{ flexGrow: 1, display: { xs: 'flex', md: 'none' } }}>
             <IconButton
-              size="large"
+              size="x-large"
               aria-label="account of current user"
               aria-controls="menu-appbar"
               aria-haspopup="true"
@@ -99,7 +99,7 @@ function ResponsiveAppBar() {
           </Box>
           <HeadsetOutlinedIcon sx={{ display: { xs: 'flex', md: 'none' }, mr: 1 }} />
           <Typography
-            variant="h5"
+            variant="h4"
             noWrap
             component="a"
             href=""
