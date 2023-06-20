@@ -3,7 +3,7 @@
 
 
 
-export default genre [
+export default [
   {
     "id": "10716",
     "title": "Something Was Wrong",
