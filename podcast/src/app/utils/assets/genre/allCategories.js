@@ -1,5 +1,5 @@
 
-export default allCategories[
+export default[
 
     {
         "id": 1,
