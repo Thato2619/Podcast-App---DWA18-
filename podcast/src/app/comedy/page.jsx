@@ -53,7 +53,7 @@ function ComedyShows() {
                         <span 
                     className='text-lg font-bold text-[#e9e2e7]'>From Commoner to Royalty</span> 
                         </p>
-                        <h5 className='text-lg font-bold text-[#a07e96]'> Diana to Meghan - Meghanomania</h5>
+                        <h5 className='text-lg font-bold text-[#a07e96]'> Diana to Meghan - Meet the Markles</h5>
                         <hp className='text-lg font-normal text-[#a07e96]'>Episode : 2</hp>
                         <audio key='6807'  preload='none' controls controlsList='nodownload' className='w-100'>
                             <source src="https://podcast-api.netlify.app/placeholder-audio.mp3" type='audio/mp3'/>
@@ -83,7 +83,7 @@ function ComedyShows() {
                         <span 
                     className='text-lg font-bold text-[#e9e2e7]'>From Commoner to Royalty</span> 
                         </p>
-                        <h5 className='text-lg font-bold text-[#a07e96]'> Diana to Meghan - Meghanomania</h5>
+                        <h5 className='text-lg font-bold text-[#a07e96]'>Diana to Meghan - Whatever 'in Love' Means</h5>
                         <hp className='text-lg font-normal text-[#a07e96]'>Episode : 3</hp>
                         <audio key='6807'  preload='none' controls controlsList='nodownload' className='w-100'>
                             <source src="https://podcast-api.netlify.app/placeholder-audio.mp3" type='audio/mp3'/>
@@ -113,7 +113,7 @@ function ComedyShows() {
                         <span 
                     className='text-lg font-bold text-[#e9e2e7]'>From Commoner to Royalty</span> 
                         </p>
-                        <h5 className='text-lg font-bold text-[#a07e96]'> Diana to Meghan - Meghanomania</h5>
+                        <h5 className='text-lg font-bold text-[#a07e96]'> Diana to Meghan - Battle Royale"</h5>
                         <hp className='text-lg font-normal text-[#a07e96]'>Episode : 4</hp>
                         <audio key='6807'  preload='none' controls controlsList='nodownload' className='w-100'>
                             <source src="https://podcast-api.netlify.app/placeholder-audio.mp3" type='audio/mp3'/>
@@ -143,7 +143,7 @@ function ComedyShows() {
                         <span 
                     className='text-lg font-bold text-[#e9e2e7]'>From Commoner to Royalty</span> 
                         </p>
-                        <h5 className='text-lg font-bold text-[#a07e96]'> Diana to Meghan - Meghanomania</h5>
+                        <h5 className='text-lg font-bold text-[#a07e96]'> Reporters Who Cover the Royals</h5>
                         <hp className='text-lg font-normal text-[#a07e96]'>Episode : 5</hp>
                         <audio key='6807'  preload='none' controls controlsList='nodownload' className='w-100'>
                             <source src="https://podcast-api.netlify.app/placeholder-audio.mp3" type='audio/mp3'/>
@@ -171,9 +171,9 @@ function ComedyShows() {
                         <h3 className='text-2xl font-bold text-[#e9e2e7] mb-3'>{comedy.title}</h3>
                         <p className='text-lg text-[#e9e2e7]'> 
                         <span 
-                    className='text-lg font-bold text-[#e9e2e7]'>From Commoner to Royalty</span> 
+                    className='text-lg font-bold text-[#e9e2e7]'>A Real Life 'Succession' Story</span> 
                         </p>
-                        <h5 className='text-lg font-bold text-[#a07e96]'> Diana to Meghan - Meghanomania</h5>
+                        <h5 className='text-lg font-bold text-[#a07e96]'> The Murdochs - Rupert</h5>
                         <hp className='text-lg font-normal text-[#a07e96]'>Episode : 1</hp>
                         <audio key='6807'  preload='none' controls controlsList='nodownload' className='w-100'>
                             <source src="https://podcast-api.netlify.app/placeholder-audio.mp3" type='audio/mp3'/>
