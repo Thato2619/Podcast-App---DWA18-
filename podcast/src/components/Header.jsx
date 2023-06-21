@@ -135,8 +135,9 @@ function ResponsiveAppBar() {
                   <input 
                   type="text"
                    placeholder='search' 
-                   className='bg-[#090708] flex-1 h-1-'/>
-                  <button className='h-10 w-26 flex items-center justify-center'>
+                   className='bg-[#090708] flex-1 h-1-'
+                   />
+                  <button className='h-10 w-26 flex items-center justify-center hover:bg-[#fefefe]'>
                       <SearchIcon className='h-5' />
                   </button>
               </div>
