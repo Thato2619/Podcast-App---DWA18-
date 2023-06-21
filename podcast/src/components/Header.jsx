@@ -9,9 +9,11 @@ import Menu from '@mui/material/Menu';
 import MenuIcon from '@mui/icons-material/Menu';
 import Container from '@mui/material/Container';
 import Button from '@mui/material/Button';
-
+import SearchIcon from '@mui/icons-material/Search';
 import MenuItem from '@mui/material/MenuItem';
 import HeadsetOutlinedIcon from '@mui/icons-material/HeadsetOutlined';
+
+
 
 
 const pages = [];
@@ -128,6 +130,17 @@ function ResponsiveAppBar() {
             ))}
           </Box>
 
+          <div className='flex items-center'>
+              <div className='flex w-[600px] items-center bg-[#090708]'>
+                  <input 
+                  type="text"
+                   placeholder='search' 
+                   className='bg-[#090708] flex-1 h-1-'/>
+                  <button className='h-10 w-26 flex items-center justify-center'>
+                      <SearchIcon className='h-5' />
+                  </button>
+              </div>
+          </div>
         </Toolbar>
       </Container>
     </AppBar>
