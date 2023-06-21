@@ -23,6 +23,7 @@ function AllShows() {
                         <span className='text-lg font-bold text-[#e9e2e7]'>Season:</span> 
                             {show.seasons}</p>
                         <h5 className='text-lg font-normal text-[#a07e96]'>{show.updated}</h5>
+                        
                         <div className='justify your flex items to the end by using justify-end inside your flex container'>
                             <Link href="/comedy">
                                 <button className='bg-[#fbfbf2] hover:bg-[#a39ba8] cursor-pointer border-2 border-[#090708] rounded-full text-center font-bold text-[#080708] px-3 py-1'> All Episodes</button>

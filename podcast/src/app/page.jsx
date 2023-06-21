@@ -17,7 +17,6 @@ export default function Home() {
     <Header />
     <GenreNav />
     <AllShowList />
-  <Link href="/comedy"><button>comedy</button></Link>
 </div>
    
   )
