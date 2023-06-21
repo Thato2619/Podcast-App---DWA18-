@@ -1,3 +1,5 @@
+//Jsdoc of all the type of what ech fetched item consists of
+
 export type preview = {
     id:string
     title: string
