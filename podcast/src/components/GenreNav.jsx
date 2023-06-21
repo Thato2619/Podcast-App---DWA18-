@@ -8,7 +8,7 @@ function GenreNav() {
           <Link href='/'>
             <button className="bg-[#090708] hover:bg-[#a07e96] cursor-pointer border-2 border-[#a07e96] rounded-full text-center px-3 py-1 ">Home</button>
           </Link>
-          <Link href='/comedy'>
+          <Link href='/personal-growth'>
             <button className="bg-[#090708] hover:bg-[#a07e96] cursor-pointer border-2 border-[#a07e96] rounded-full text-center px-3 py-1 ">Personal Growth</button>
           </Link>
           <Link href='/comedy'>
