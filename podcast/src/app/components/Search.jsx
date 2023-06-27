@@ -2,7 +2,7 @@
 
 import React from 'react'
 import {useState} from 'react'
-import {SHOWS} from '../app/utils/assets/genre/genres'
+import {SHOWS} from '../utils/assets/genre/genres'
 import SearchIcon from '@mui/icons-material/Search';
 
 

@@ -2,9 +2,12 @@ import React from 'react'
 import personalGrowth from '../utils/assets/showGenres/personalGrowth'
 import genres from '@/app/utils/assets/genre/genres';
 import Link from 'next/link'
+import {useRouter} from 'next/router'
 
 
 function page() {
+
+    
 
    const getImage = genres.map( genreImg => {
         genreImg.image
