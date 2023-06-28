@@ -1,5 +1,6 @@
 import React from 'react'
 import personalGrowth from '../utils/assets/showGenres/personalGrowth'
+import {growth} from './personalGrowth'
 import genres from '@/app/utils/assets/genre/genres';
 import Link from 'next/link'
 import {useRouter} from 'next/router'
@@ -7,7 +8,35 @@ import {useRouter} from 'next/router'
 
 function page() {
 
-    
+    const [buttonPod, setButtonPod ] = useState(['']);
+
+    const handlePodButtonClick = (id) => {
+        if (buttonPod.includes(id)){
+            let episodes = buttonPod.filter((el) => el !== id);
+            setButtonPod(episodes)
+        } else {
+            setButtonPod([...buttonPod, growth])
+        }
+    }
+
+
+    useEffect(() => {
+        allEpisodes(growth);
+    }, [buttonPod])
+
+    const allEpisdoes = () => {
+        if(buttonPod.length > 0){
+            let PodItems = growth.map((episode) => {
+                let temp = growth.filter((show) => show.id === episode)
+                return temp;
+            });
+            setButtonPod(PodItems.flat())
+
+        } else {
+            setButtonPod([...growth])
+        }
+    }
+
 
    const getImage = genres.map( genreImg => {
         genreImg.image
@@ -36,7 +65,12 @@ function page() {
                         <h5 className='text-lg font-normal text-[#a07e96]'>{growth.updated}</h5>
                         <div className='justify your flex items to the end by using justify-end inside your flex container'>
                             <Link href="/comedy">
-                                <button className='bg-[#fbfbf2] hover:bg-[#a39ba8] cursor-pointer border-2 border-[#090708] rounded-full text-center font-bold text-[#080708] px-3 py-1'>comedy</button>
+                                <button className='bg-[#fbfbf2] hover:bg-[#a39ba8] cursor-pointer border-2 border-[#090708] rounded-full text-center font-bold text-[#080708] px-3 py-1'>
+
+                                    {
+                                        
+                                    }
+                                </button>
                             </Link>
                         </div>
                     </div>
