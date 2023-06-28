@@ -3642,9 +3642,1295 @@ export default [
         "updated": "2022-11-03T13:07:51.000Z"
       },
 
-      
+      {
+        "id": "8256",
+        "title": "Catfish: The Podcast",
+        "description": "You finally find the person of your dreams, but there’s just one problem: you haven’t yet met them in real life. When you start to suspect something isn’t quite right, you need someone to help you find out the truth. That’s where “Catfish: The Podcast” comes in. A “Catfish” is someone who creates a false online identity to pursue romantic relationships. For eight seasons of the hit TV show, host Nev Schulman and his co-hosts have helped people track down their online love interests to uncover whether that person is real…or a catfish.   Now, from MTV and Wondery, “Catfish: The Podcast” brings you the most shocking episodes of the hit series, adapted for your ears for the very first time. Hosted by Nev Schulman.",
+        "seasons": [
+          {
+            "season": 1,
+            "title": "Season 1",
+            "image": "https://content.production.cdn.art19.com/images/ea/bd/50/e1/eabd50e1-4f51-4bb0-b8ba-ae02fae59ffe/6256f41f7d03c18ff9b398b9e26df24a38fa20253c09166eeebf30d6487234adb06bb85c144b367a29b623144ef43cf1eb45db770641d091d6d88ddf7911fb40.jpeg",
+            "episodes": [
+              {
+                "title": "Miracle/Javonni",
+                "description": "Host Nev Schulman is joined by special guest, Charlemagne, to solve the mystery of Miracle’s strange relationship with Javonni. Miracle has had a tough life. She is a single mother and feels like Javonni is the answer to her prayers. He is sweet and caring and makes her happier than she has ever been. But they are all in for a big surprise when they find out who Javonnis really is.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Colleen/Tony",
+                "description": "At just 20 years old, Colleen has already had a string of bad relationships. Tony makes her feel special and safe. After a very short time and without ever meeting face to face, they have gotten engaged. Nev and co-host Max have a sense that something is not right. So they go to work to find out the truth and land at the center of an intense family drama. ",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Kelsey/Brandon",
+                "description": "Kelsey has been talking to Brandon for three years. She met him online when she was engaged to another man and they were just friends. When she broke off her engagement, the heartbroken Kelsey leaned on Brandon for support and a strong bond formed. But whenever they plan to meet, something always goes wrong. Nev and Max set out to find Kelsey’s “Redneck Romeo” and get to the bottom of why he never shows up.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Robert/Ashley",
+                "description": "Robert has been in a wheelchair since he was a teenager. He has connected with Ashley over the internet and thinks she is the woman of his dreams. But, even though the feelings seem to be mutual, it is obvious to Nev and Max that Ashley is hiding something. When they do finally bring the two together, the outcome shocks even them.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Red/Jalisa",
+                "description": "On this episode, Max is joined by new co-host Kamie Crawford. They meet Red, who has been corresponding with Jalisa for many years. She has finally decided to travel to Los Angeles to track her down. Red’s friend is very concerned and reaches out to Nev and Kamie to help. When they find out the whole story, it’s even crazier than they expected.",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Alyssa/Tyler",
+                "description": "Alyssa met Tyler on a dating website. After texting for three months, Alyssa falls head over heels. But she begins to question if Tyler is real after he refuses to meet or videochat. Nev and Max help her untangle the story of the love of her life. Lurking beneath his profile is a massive bombshell.",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Lawrence/Cierra",
+                "description": "Cierra helped Lawrence through some of the darkest days of his life. But they've never met in real life. Lawrence reaches out to Nev and Max so he can finally meet his guardian angel. But Lawrence has a secret. Who is catfishing who?",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Traves/Candy",
+                "description": "Traves has fallen hard for Candy Red, a model living in Las Vegas. He wants to spend the rest of his life with her -- but they’ve never met IRL. There are so many warning signs on this one. But Nev and Max have never wanted to help someone more.",
+                "episode": 8,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Mandy/Jose",
+                "description": "Eighteen-year-old Quentin reaches out to Nev and Max to help him find out the truth about his mom's online love Jose. He thinks she's being Catfished and doesn't want to see her heartbroken. Nev and Max follow the clues to Jose's identity right down a rabbit hole. The final reveal is a shocker.",
+                "episode": 9,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Dylan/Sevinia",
+                "description": "Dylan has been talking to Sevenia for five years -- since he was fifteen years old. She has been there for him through some very hard times and she is the love of his life. But they have never met. He contacts Nev and Max to help him out. At the same time, Sevenia reached out to them saying that she wants to come clean because she isn’t who Dylan thinks she is. In this one, the truth is stranger than fiction.",
+                "episode": 10,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 2,
+            "title": "Season 2",
+            "image": "https://content.production.cdn.art19.com/images/ea/bd/50/e1/eabd50e1-4f51-4bb0-b8ba-ae02fae59ffe/6256f41f7d03c18ff9b398b9e26df24a38fa20253c09166eeebf30d6487234adb06bb85c144b367a29b623144ef43cf1eb45db770641d091d6d88ddf7911fb40.jpeg",
+            "episodes": [
+              {
+                "title": "Sheklia & Talli",
+                "description": "A concerned son reaches out when his mom's mysterious online boyfriend seems too shady for comfort. But Mom is hiding secrets of her own, and once Nev & Max find their man, things take a surprising turn that shocks even them.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Kiaira & Cortney",
+                "description": "Kiaira and Cortney had a baby together, but the two have never met. Kiaira knows that something doesn’t add up, but is desperate to meet her baby boy. Nev and Max are called in to bring the family together, but they worry this could be the greatest manipulation in catfish history.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Angel & Jordan",
+                "description": "Angel met Jordan on Tinder and ignited a fire that caused her to end a real-life relationship with her boyfriend Brandon in order to pursue him. Nev and his wife Laura are on the case to try and locate this mystery man and discover some shocking truths about Angel’s past that might derail her entire life.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Gemini and Myranda",
+                "description": "Tatyana writes to Nev and Kami to help her new boyfriend Gemini find Myranda. He has been chatting with Myranda online for seven years and Tatyana is sure that she is a Catfish. Tatyana just wants Gemini to find closure so that they can get on with their relationship. But no one expects what Nev and Kamie discover as they stage their first-ever intervention for a repeat catfish.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Kirsten and Alex",
+                "description": "Kirsten met Alex a month ago online while she was stuck living under quarantine with her ex fiancé. Alex almost immediately admitted that he was a Catfish. Kirsten is now fearful that this mystery person could be anyone she is interacting with and she needs to find out the truth so she can move on with her life.",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Ryan and Micah",
+                "description": "Looking for love, Ryan met Micah on Tinder and thought he'd found his quarantine bae. But when Kamie and Nev start to dig, they go down a deep hole and discover someone much more dangerous than just a Catfish.",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Dianela and Jose",
+                "description": "Dianela has been in a relationship with a man named Jose for four years. They are both from Venezuela but have moved to the United States to escape the dangerous political situation in their country. Dianela is madly in love even though Jose has disappointed her on numerous occasions. Kamie and Nev get to work to solve the mystery of this international romance.",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Brooklyn/Jason",
+                "description": "Brooklyn is a young mother of four children. She desperately wants to meet the man she will marry and settle down with forever. She met Jason online and was smitten very quickly to the point that she has even put off a relationship with a guy she met IRL. There are so many red flags that she refuses to see, including an ex-boyfriend and two young women with shady intent.",
+                "episode": 8,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Jay/Anna",
+                "description": "Jay met Anna online two months ago. She is a beautiful dancer from the Philippines, who now lives in Las Vegas. In this short time Jay is already aware of the red flags in the situation and wants the truth. The investigation leads to the Philippines and back again. And where it ends up shocks them all.",
+                "episode": 9,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Jake/Taylor",
+                "description": "Jake is an eighteen year-old TikTok star who has fallen deeply in love with a young woman named Taylor he met online four months ago. She seems to really care about him which he doesn’t often find in his world. But she refuses to show her face and has ghosted him numerous times when they plan to meet in person. She’s definitely hiding something, but the truth reveals that Jake has secrets of his own.",
+                "episode": 10,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          }
+        ],
+        "image": "https://content.production.cdn.art19.com/images/ea/bd/50/e1/eabd50e1-4f51-4bb0-b8ba-ae02fae59ffe/b1c64fa8376a10fc02357609b132d08706c95273f14b001927cfeecc290aac884c18c8202c2c30b70314ebc5296bf6ec93664ec56c1dc10f971f1afc5a73860c.jpeg",
+        "genres": [
+          "All",
+          "Entertainment",
+          "Featured",
+          "True Crime and Investigative Journalism"
+        ],
+        "updated": "2022-11-01T21:00:00.000Z"
+      },
 
+      {
+        "id": "8291",
+        "title": "Dirty John",
+        "description": "All episodes are available for free, with remastered ad-free episodes available for Wondery+ subscribers. Debra Newell is a successful interior designer. She meets John Meehan, a handsome man who seems to check all the boxes: attentive, available, just back from a year in Iraq with Doctors Without Borders. But her family doesn’t like John, and they get entangled in an increasingly complex web of love, deception, forgiveness, denial, and ultimately, survival. Reported and hosted by Christopher Goffard from the L.A. Times.",
+        "seasons": [
+          {
+            "season": 1,
+            "title": "Season 1",
+            "image": "https://content.production.cdn.art19.com/images/f5/cf/d8/37/f5cfd837-6c97-4422-a573-4ea06f2b2a13/129e1aa2908a3f47b8e2f28494ea5067ac6f96b6756e3c80f0ddcced5a43875af40077d78694f229a1cd9d5da05aba1cc6251b903e82e09ff73e05e861d453f5.png",
+            "episodes": [
+              {
+                "title": "The Real Thing",
+                "description": "Debra Newell, an interior designer in Southern California, meets John Meehan on an over-50 dating site. His profile looks exciting: Anesthesiologist, divorced, Christian. She falls in love fast. But her children dislike him and warn her that his stories don’t add up. A psychologist advises Debra to set firmer boundaries with her kids, saying she has a right to be happy.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Newlyweds",
+                "description": "After an intruder appears in John and Debra’s livingroom, John insists that they install security cameras. Debra begins to wonder whether he is spying on her. Her nephew, Shad, looks into John’s background and confronts him with what he finds. Debra’s vision of an idyllic marriage is shattered when she discovers a stash of paperwork in John’s home office.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Filthy",
+                "description": "Debra grapples with the question, “Who did I marry?” The story of John’s mysterious past unfolds through the eyes of his sisters, his law-school housemate, his ex-wife, and an Ohio cop who hunted him. The origins of John’s nickname are revealed. Bed-ridden in an Orange County hospital, he pleads with Debra to take him back.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Forgiveness",
+                "description": "Debra is in hiding, living out of hotels and disguising herself with a wig. Debra fears she will meet the fate of her sister Cindi, who was killed by her husband as she tried to escape a bad marriage. John has explanations for the accusations against him. He weeps and apologizes. Three decades earlier, that had helped Cindi’s killer walk out of prison. ",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Escape",
+                "description": "Episode 5: John finds a lawyer and plots to unleash a blizzard of lawsuits against his enemies, with the aim of proving to Debra that he is the victim, in case after case. The lawyer believes her life is in danger. As her painful isolation from her family deepens, she secretly plans her escape from the marriage. ",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Terra",
+                "description": "Jacquelyn and Terra Newell suspect that John has been watching them. When Jacquelyn tells her mother that he is in town, her mother believes she is mistaken. Jacquelyn warns Terra to carry her pocket knife. But Terra is preoccupied by a country-music concert, and she is watching for the wrong car. ",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Dirty John: Live at The Theatre at Ace Hotel",
+                "description": "In the months since “Dirty John” was released, more of John Meehan’s victims have told their stories. Carolina Miranda from the LA Times interviews Christopher Goffard, Debra and Terra Newell, and John Meehan’s first wife. Plus, a panel on coercive control and a special live performance by Tracy Bonham. Recorded live at the Ace Theatre.",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          }
+        ],
+        "image": "https://content.production.cdn.art19.com/images/f5/cf/d8/37/f5cfd837-6c97-4422-a573-4ea06f2b2a13/129e1aa2908a3f47b8e2f28494ea5067ac6f96b6756e3c80f0ddcced5a43875af40077d78694f229a1cd9d5da05aba1cc6251b903e82e09ff73e05e861d453f5.png",
+        "genres": [
+          "All",
+          "News",
+          "True Crime and Investigative Journalism"
+        ],
+        "updated": "2018-11-21T08:05:00.000Z"
+      },
 
+      {
+        "id": "5718",
+        "title": "Over My Dead Body",
+        "description": "Over My Dead Body is an anthology series about people who are pushed beyond their limits and do unspeakable things. Listen to Seasons 2 and 3 of Over My Dead Body exclusively, and ad-free, on Wondery+ or on Amazon Music with a Prime membership or Amazon Music Unlimited subscription. Join Wondery+ here: https://wonderyplus.com Season 3: Fox Lake - A small town cop is gunned down in a swamp in the summer of 2015. He quickly became a martyr in the national media, until a dogged investigator uncovered the officer's bizarre and dark past. When the truth comes out, the townspeople must reconcile betrayal, corruption and the secrets of an American hero. Season 2: Joe vs. Carole - Joe Exotic is a man who devoted his life to raising and breeding exotic animals, but throughout his career, he's made a lot of enemies. Most notably Carole Baskin. The feud between them gets messy, vicious, and outrageous -- until both of them are pushed far beyond their limits. To listen to Over My Dead Body Season 2: 'Joe vs. Carole' listen on Amazon Music or subscribe to Wondery+. Watch the television series based on the podcast 'Joe vs. Carole' streaming now on Peacock:  smarturl.it/Joe_vs_Carole Season 1: Tally - When this \"perfect\" couple's relationship falls apart, it leads to a bad breakup, a worse divorce, and a murder case involving a menagerie of high-priced lawyers and unexpected co-conspirators.",
+        "seasons": [
+          {
+            "season": 1,
+            "title": "Tally",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/e7/7f/ba/32/e77fba32-dee8-4cca-8336-f1820e2de901/71808d0a7956daac98ec6a4ae73a6e314b04e49f694ce654a4abb22b77894db0c6658e8fdeef3c91ce08a45abb6a49dfe539cb341bebe6512e24f60ae1847af5.jpeg",
+            "episodes": [
+              {
+                "title": "Tally | The Husband",
+                "description": "What makes a good marriage? Dan is smitten when he meets Wendi. But after a lavish wedding and a move to Tallahassee for Dan’s job, cracks in their relationship start to appear. Dan is blindsided when he comes home from a work trip and Wendi is gone. Maybe he should have read her novel.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Tally | The Former Wife",
+                "description": "Divorces between lawyers tend to be uglier than average, and Dan and Wendi’s divorce is especially vicious. She fights to leave Tallahassee. He fights just as hard to keep her there. And when both fail to get what they want, one of them ends up dead.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Tally | “Who Would Do This?”",
+                "description": "After the initial shock of the murder wears off, everyone -- friends, reporters and law enforcement -- tries to understand how this could have happened, and why. The police investigate a number of theories about who might have pulled the trigger, and the families cope with the fallout.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Tally | Tato and Tuto",
+                "description": "When are arrests are finally made, it’s not who anyone expected. The FBI and local police seem to be zeroing in on a group of suspects. And soon, the King will have to make an important decision.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Tally | The Maestro",
+                "description": "A mysterious stranger approaches Donna on the street in Miami. He asks for money to repay a favor that his family did for hers. Donna isn’t sure what to do, so she turns to the Maestro for help.",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Tally | Against Mercy",
+                "description": "The Tally police department is convinced they have the evidence to arrest four people in a murder conspiracy. But prosecutors only charge three. Why?",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Tally | 'Til Life Do Us Part",
+                "description": "Five years after Dan Markel's murder two people go on trial. But will his family finally get justice? ",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 2,
+            "title": "Joe vs Carole",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/04/91/38/cb/049138cb-bba1-4ef0-8041-b1419e9837a7/e917e7897b51ff1acf7ffe79f72e75b4a10abc781069ac75216ea9f6b36ea53d49a3883af3636e9ba824d08b50dec68971d900ed757419fba71e0322cb96750b.jpeg",
+            "episodes": [
+              {
+                "title": "Joe vs Carole | The Tiger King",
+                "description": "Joe Exotic throws a most unusual wedding that includes monkeys, lions, tigers, and bears. But someone is killing his animals, and he is determined to put an end to it.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Joe vs Carole | More Wicked Than A Bobcat",
+                "description": "Carole Baskin leaves her husband and meets a stranger who hands her a gun. Then an unsolved disappearance casts a shadow over everything.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Joe vs Carole | Cat and Mouse",
+                "description": "Joe goes on a helicopter mission to find more evidence but comes up short. Then someone hands him Carole’s diary.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Joe vs Carole | Joe Exotic TV",
+                "description": "Joe has high aspirations of becoming a reality TV star. But his plan are about to go up in flames.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Joe vs Carole | Straight to Hell",
+                "description": "A newcomer arrives at the zoo who might be able to help Joe finally solve his Florida problem. ",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Joe vs Carole | “Karma is a B****”",
+                "description": "Joe takes off for Florida, where he meets his match.",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 3,
+            "title": "Fox Lake",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/34/69/1e/41/34691e41-3c5c-40da-b7a8-d395e48afceb/e1f5359a8e20a2d8b21006c9085da8f04d63226d22db5e896e7dcfbffa75fe4bfb93062f6b8afd7c49c931edce783c6aca2e38be46e6d5389975b9323a07bb56.jpeg",
+            "episodes": [
+              {
+                "title": "Fox Lake | A Hero Dies",
+                "description": "An ordinary day in Fox Lake turns deadly after Joe calls in some suspicious activity As the town and his colleagues mourns, Detective George Filenko sets out to catch the killers.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Fox Lake | Bad Moon Rising",
+                "description": "Listen exclusively with Wondery+. Start your free trial at wonderyplus.com",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Fox Lake | What’s in the Box?",
+                "description": "Listen exclusively with Wondery+. Start your free trial at wonderyplus.com",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Fox Lake | FML",
+                "description": "Listen exclusively with Wondery+. Start your free trial at wonderyplus.com",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Fox Lake | The Exploders",
+                "description": "Old training videos from Joe’s youth police program lead George and his team back to the cement plant where Joe was found dead, and to a crucial clue.",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Fox Lake | Embrace the Suck",
+                "description": "It’s time to face the music. A singing policeman complicates plans. When the truth comes out George and Fox Lake must make some hard choices. ",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Fox Lake | Real Life Action Hero?",
+                "description": "Matt Baglio chats with Matthew Shaer, the host of Suspect, about the reporting, writing, and aftermath of the series. Matt shares what made the story a challenge, the larger themes at the heart of this small town story, and how they related to his own life growing up.",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          }
+        ],
+        "image": "https://content.production.cdn.art19.com/images/59/93/d1/5a/5993d15a-b461-4418-97e6-96736913b9f0/cda3367cea57818b96d72a71a8a0d3de9287679c68b4e9f8775f0f764b04da2e2699cbe689f70118d232dd99875acfe3d4b7e00b8c3155f613b7b55f9aa0193a.png",
+        "genres": [
+          "All",
+          "News",
+          "True Crime and Investigative Journalism"
+        ],
+        "updated": "2022-03-17T07:01:00.000Z"
+      },
 
+      {
+        "id": "5276",
+        "title": "Accused",
+        "description": "Binge all of Season 4 early and ad-free by subscribing to Wondery+. Season 4 : When Rhoda Nathan's lifeless body was discovered in her hotel room, it was assumed she'd had a heart attack. The autopsy proved otherwise: Nathan, 67, had been viciously beaten to death, punched so hard by her assailant that two of her teeth had been knocked out. Days later, a hotel employee went to the hospital to be treated for an infection in his hand, which was teeming with a bacteria most often found in human mouths. That, plus a pendant an officer said was discovered in the trunk of his car, sealed the fate of Elwood Jones, who awaits execution on Ohio's death row. For nearly 30 years, Jones has maintained his innocence -- and accused police of straight-up framing him. The journalists of Accused are reexamining the case to learn if Jones truly belongs on death row, or if a botched investigation let someone else get away with murder. Season 3: In 1984, a father of three disappeared while working at a mysterious Cincinnati plant. It turned out he’d met a gruesome fate: Pieces of bone, his eyeglasses and walkie-talkie were uncovered inside a vat that reached 1350 degrees Fahrenheit. Two months later, the Fernald Feed Materials Production Center was revealed to have been processing uranium – and polluting the region. The dead man’s children believe their father was murdered because he intended to expose how the plant had been releasing millions of pounds of uranium dust into the atmosphere. We’re hoping to figure out: Did 39-year-old David Bocks kill himself, as Fernald officials alleged, or was he more likely killed? Season 2: A soft-hearted prison minister was found killed in her Kentucky apartment, and Newport police zeroed in on an ex-convict she’d counseled. Thirty years later, the conviction is overturned and the case is once again unsolved. The Cincinnati Enquirer investigates: Was William Virgil wrongly convicted for murder? Season 1: When Elizabeth Andes was found murdered in her Ohio apartment in 1978, police and prosecutors decided within hours it was an open-and-shut case. Two juries disagreed. The Cincinnati Enquirer investigates: Was the right guy charged, or did a killer walk free?",
+        "seasons": [
+          {
+            "season": 1,
+            "title": "The Unsolved Murder of Elizabeth Andes",
+            "image": "https://content.production.cdn.art19.com/images/b3/37/52/bb/b33752bb-585a-47dc-a431-3aef17aacd66/ec9f26ab359c3f966c1aa610dd03ead97711314ea94553d1c2af9a881d2ac1040d6f999e4cb3a1fdf4c876d1ed11c7682078507389d1f68865546d4b524f72d8.jpeg",
+            "episodes": [
+              {
+                "title": "Chapter 1: The crime (S1)",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Chapter 2: The couple",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Chapter 3: The investigation (S1)",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Chapter 4: If not Bob, who? - Part 1",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Chapter 5: If not Bob, who? - Part 2",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Chapter 6: The strangers",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Chapter 7: The evidence",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Chapter 8: The aftermath",
+                "episode": 8,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Chapter 9: The update",
+                "episode": 9,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 2,
+            "title": "The Unsolved Murder of Retha Welch",
+            "image": "https://content.production.cdn.art19.com/images/b3/37/52/bb/b33752bb-585a-47dc-a431-3aef17aacd66/ec9f26ab359c3f966c1aa610dd03ead97711314ea94553d1c2af9a881d2ac1040d6f999e4cb3a1fdf4c876d1ed11c7682078507389d1f68865546d4b524f72d8.jpeg",
+            "episodes": [
+              {
+                "title": "Chapter 1: The first Sin City",
+                "description": "When 54-year-old Retha Welch is found murdered in Newport, Kentucky, police zero in on an acquaintance with a criminal past.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Chapter 2: The hooded figure",
+                "description": "Retha Welch’s boyfriend says he was mad enough to kill her the last time they were together — but he points police to a hooded figure in her hallway as the likely culprit.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Chapter 3: The case unfolds",
+                "description": "With physical evidence and eyewitnesses on their side, police begin compiling a case against William Virgil — but does it hold up under scrutiny?",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Chapter 4: The missing witness",
+                "description": "It appears more than one of the witnesses in Retha Welch’s murder case didn’t come clean on the stand. Someone knew more than his testimony implied.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Chapter 5: The lie",
+                "description": "After years of insisting a key witness perjured himself, William Virgil finds proof — but does the truth matter?",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Chapter 6: If not Virgil, Who?",
+                "description": "Newport police overlooked several interesting people worthy of scrutiny in this murder case, including one man they’d encountered themselves.",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Chapter 7: The battle continues",
+                "description": "William Virgil finds dedicated allies in the Kentucky Innocence Project, fierce opposition in the Commonwealth’s Attorney, and hope in new DNA testing.",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Chapter 8: After Innocence",
+                "description": "Since his release from prison, William Virgil’s life has been on hold. So has Retha Welch’s murder investigation.",
+                "episode": 8,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 3,
+            "title": "The Mysterious Death of David Bocks",
+            "image": "https://content.production.cdn.art19.com/images/b3/37/52/bb/b33752bb-585a-47dc-a431-3aef17aacd66/ec9f26ab359c3f966c1aa610dd03ead97711314ea94553d1c2af9a881d2ac1040d6f999e4cb3a1fdf4c876d1ed11c7682078507389d1f68865546d4b524f72d8.jpeg",
+            "episodes": [
+              {
+                "title": "Chapter 1: Disappearing dad",
+                "description": "A 39-year-old father of three goes to work and disappears. That’s strange enough. Adding in where he works makes this case more than strange. It’s the stuff conspiracies are made of. ",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Chapter 2: Testing the suicide theory",
+                "description": "Police dismissed the 1984 disappearance of David Bocks as a suicide, but the physics of the death make that theory seem unlikely. (Link updated Jan. 21, 2020, with water-content percentage of apples and humans corrected.)",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Chapter 3: The Cold War creeps",
+                "description": "As the world was embroiled in a race to stockpile nuclear weapons, little towns throughout the U.S. became hubs for cancer-linked plants.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Chapter 4: The truth about Fernald",
+                "description": "While managers and government officials outwardly assured Fernald workers that everything was safe at the plant, internal documents show many knew that wasn’t the case.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Chapter 5: The king of conspiracies",
+                "description": "In the 1990s, an indie reporter tried to expose Fernald and link managers to David Bocks’ death. His theories sounded outrageous, but some of them proved true.",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Chapter 6: Last day laid bare",
+                "description": "David Bocks’ final shift is pieced together through police statements and time cards.",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Chapter 7: A variance in views",
+                "description": "Two coworkers tell police that David Bocks seemed depressed on his last day of work. Or is it just one? ",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Chapter 8: The nuclear wrap-up",
+                "description": "Long after David Bocks’ children and grandchildren are dead, the legacy of his employer will remain, encased in concrete and buried deep beneath the earth. ",
+                "episode": 8,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 4,
+            "title": "The Impending Execution of Elwood Jones",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/1f/7f/4b/19/1f7f4b19-e2a3-473f-adc9-8eeff4735636/546d4382682db54aa88b7ee67a87133a996a7acfeb13699fd91273b8304bba9bf2197c33c17f5b081f6b3263933508fa8ae2a4d67a4d987b7fb43fd1ac94786c.jpeg",
+            "episodes": [
+              {
+                "title": "Chapter 1: The Crime",
+                "description": "When Elaine Shub opened the door to the hotel room she was sharing with her best friend of 48 years, she saw such a gruesome sight that she collapsed in the suburban hotel hallway. Rhoda Nathan, a kind-hearted New Jersey grandmother who had just stepped out of the shower, lay on the floor, unrecognizable from the vicious beating she’d endured. Who could have done this? What could have been the motive? Who had access? Who had motive? And why did Rhoda have to die?",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Chapter 2: The A-Hole",
+                "description": "The prosecutor handling the case against Elwood Jones had some choice words to describe the suspect on national television. In this episode, we explore: Who is Elwood Jones? Was he really an a-hole? Is being one now, steadfast as he is in refusing to cop to the 27-year-old crime? And does being an a-hole also mean he was a killer? ",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Chapter 3: The Investigation",
+                "description": "Investigating any crime scene requires finesse, but in the case of Rhoda Nathan’s 1994 beating death, at least some of the detectives arriving at the Embassy Suites hotel, many who had never investigated a murder before, thought they were dealing with a heart-attack victim. As such, they say they didn’t immediately secure the scene, allowing outsiders to tromp through a room that was already teeming with all kinds of hotel-user DNA.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Chapter 4: If Not Elwood, Who?",
+                "description": "While investigators testified at trial that Elwood Jones was always their best and only real suspect in the 1994 slaying of Rhoda Nathan, the police files say otherwise. Three people – two with violent criminal pasts on their records – seem equally as suspicious, so much so they were given lie-detector tests in the days after the murder. Do their alibis hold? And if Elwood as such a good suspect with such good evidence to indicate his guilt, what took the police and prosecutors a year to indict him?",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Chapter 5: The (Supposed) Confession",
+                "description": "More than a decade after Elwood Jones was convicted of killing Rhoda Nathan, he learned that a woman had stepped forward saying she knew who the real killer was. Tracking down this mysterious figure became something of an obsession for Elwood’s current defense team. And for us.",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Chapter 6: Deserving of Death?",
+                "description": "Hamilton County, Ohio, is known nationwide as having one of the highest capital punishment rates per capita – and a recent 25-year study shows that race plays a huge role in determining who’s sent to die. Elwood Jones is Black. His victim was white. If the pandemic had not intervened and last-minute attempts for a new trial put on hold, Jones would already have been dead. If he is innocent, that’s a tragedy. If he is not, did the punishment fit the crime? He is again scheduled to be executed in 2023. ",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Chapter 7: What Now?",
+                "description": "As adamant as police and prosecutors are that they properly handled the case against murder suspect Elwood Jones, a judge is expected to weigh whether Jones can get a new trial in the 1994 slaying of Rhoda Nathan. Elwood’s lawyers accuse prosecutors of withholding key information that could have changed jurors’ minds 25 years ago. ",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          }
+        ],
+        "image": "https://content.production.cdn.art19.com/images/b3/37/52/bb/b33752bb-585a-47dc-a431-3aef17aacd66/b68b3e4a2e030d4f7ac3a518f4872e2f2985d04a130064bfb41034afe3c15824adafcbd488ce90463876b5b20bc589ead5c8c87b1c614a409d3affe444b2a0e0.jpeg",
+        "genres": [
+          "All",
+          "True Crime and Investigative Journalism"
+        ],
+        "updated": "2022-05-31T07:01:00.000Z"
+      },
 
+      {
+        "id": "5964",
+        "title": "Man In The Window: The Golden State Killer",
+        "description": "In Man in the Window, Paige St. John, a Pulitzer Prize winning investigative reporter has uncovered never before revealed details about the man who would eventually become one of California's most deadly serial killers. From Wondery and the L.A. Times comes a new series that traces his path of devastation through his victims' eyes.",
+        "seasons": [
+          {
+            "season": 1,
+            "title": "Season 1",
+            "image": "https://content.production.cdn.art19.com/images/36/7d/69/27/367d6927-ff27-4a36-8140-c1a1af61886f/20646864b49d4c9b5e14a615ae7430ce3b71bbeca8039d12ecb0f95b6116d99197c864cd6071451713b7df9b66abae6cb788a63162846f88331aa6a5b194f844.jpeg",
+            "episodes": [
+              {
+                "title": "Phantom in the Fog",
+                "description": "Episode 1: A series of brutal dog killings in a small town in California is just the prelude to coming danger, and violence.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Victim Number One",
+                "description": "Episode 2: Police start to suspect there is a new serial rapist at large. They trace the attacks back to a small, one-story yellow house in Rancho Cordova.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Price of Silence",
+                "description": "Episode 3: A teenage girl sits down to play piano and is surprised by an intruder. As victims seek help, they find that the law and society are not always on their side.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Someone Else’s Problem",
+                "description": "Episode 4: Police believe they’ve identified the suspect. Then he ends up dead on a beach.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Bonnie and Joe",
+                "description": "Episode 5: Bonnie’s new boyfriend seems to take pleasure in scaring her. She decides not to marry him, and he turns on her. ",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "DNA Resurrection",
+                "description": "Episode 6: Even after technology can finally bring answers, precious evidence is headed to the trash bin. A surprising arrest brings back victims’ nightmares.",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Language of Rape",
+                "description": "Episode 7: Paige St. John sits down with fellow journalist Laura Beil to discuss why victims, police and the media struggle with how to talk about rape.",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Missing",
+                "description": "Episode 8: A group of victims finally break their silence. It begins with an early morning phone call.",
+                "episode": 8,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Many Faces of Joseph DeAngelo",
+                "description": "Police interrogators can’t pry answers from Joseph DeAngelo but hear him whispering when left alone. Is it all just an act? What is the true face of Joseph DeAngelo?",
+                "episode": 9,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Evil",
+                "description": "In court, Joseph DeAngelo looks like a broken shell of a man. The prosecution seeks to reveal a different man, one trying to manipulate the courts.. An explosive video shows what really happened in the interrogation room.",
+                "episode": 10,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          }
+        ],
+        "image": "https://content.production.cdn.art19.com/images/36/7d/69/27/367d6927-ff27-4a36-8140-c1a1af61886f/f3ca0ed80f92c424c2c833c880fe41a5a7791898fc61f1fd84e0cfb2c347ccf70d1fd11f0daa65d93ca86295cac86297eb6d8794968759934d4a2c6b7fbb11c3.jpeg",
+        "genres": [
+          "All",
+          "History",
+          "True Crime and Investigative Journalism"
+        ],
+        "updated": "2020-12-22T08:00:00.000Z"
+      },
+
+      {
+        "id": "6465",
+        "title": "The Sneak",
+        "description": "All episodes are available for free, with ad-free episodes available for Wondery+ subscribers. Season 3: The Disappearance of Mario Rossi - Set against the backdrop of NASCAR’s drug smuggling scandal in the early 1980’s, this season of The Sneak tells the story of the disappearance of one of the sport’s most brilliant engineers, a mystery that haunts racing to this day. The hosts will set out to finally answer the question: What really happened to Mario Rossi?  Season 2: Murders at Whiskey Creek - We follow world champion surfer Jack Roland Murphy as he pulls off the biggest jewel heist in American history. Things turn deadly as he is implicated in two murders afterwards. Interviews with him and his accomplices expose even more murders, and an even darker story. Season 1: DB Tuber - News of the crime spread across the internet like wildfire. The story of a football hero turned bank robber shocked the sleepy town where the heist occurred, and became a worldwide sensation. People were aghast as the disgraced athlete told his incredible story. There was only one problem. It wasn’t the whole story. Not by a long shot.  From USA Today & Wondery comes The Sneak. A show that digs into spectacular true crime stories from the world of sports. New episodes every Tuesday. ",
+        "seasons": [
+          {
+            "season": 1,
+            "title": "The DB Tuber Heist",
+            "image": "https://content.production.cdn.art19.com/images/0b/0f/02/5d/0b0f025d-bd2a-4686-bc86-a7bbddba74f3/541f7e007a7b1e2801348dd876fbca1e83a598bca1bcc9ccf73602d5b707e6a3884fd528530d182c06d1c2c6cecd08b643d43abb4f1997977b07bdc42bc50b8d.jpeg",
+            "episodes": [
+              {
+                "title": "The Witness",
+                "description": "It’s September 30, 2008, hours before the U.S. government votes to bail out some of the largest banks in our country. In a small suburb 30 minutes outside of Seattle, local realtor Mitch Ruth witnesses what appears to be a city employee violently attack a Brink’s truck employee and sprint off with over $400,000. Ruth pursues the robber into a park … until he vanishes into thin air.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Tip",
+                "description": "Detective Tim Buzzell catches a major break in the case thanks to a local homeless man, who witnessed a dry run of the outlandish crime. The police key in on a main suspect.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Plan",
+                "description": "We meet the eccentric criminal mastermind, known in the media as “D.B. Tuber.” A stunning realization pivots our entire investigation.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Heist",
+                "description": "Anthony walks us through the crime’s harrowing play-by-play, revealing extraordinary details about previously unreported accomplices. ",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Arrest",
+                "description": "Detective Buzzell loses his primary suspect when Anthony bolts to Las Vegas for a lavish getaway. Thanks to a lucky break, the police finally nab their man.",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The SHU",
+                "description": "Anthony is sentenced to six years in prison, where he experiences a waking nightmare in solitary confinement.",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Accomplices",
+                "description": "We dig into the big question: Who helped Anthony Curcio? And how have they avoided prosecution?",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Source",
+                "description": "One of Anthony’s accomplices comes forward and speaks publicly for the first time.",
+                "episode": 8,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Aftermath",
+                "description": "Anthony makes a small fortune in a surprising way. The town of Monroe reckons with what happened back in 2008. We examine how everyone involved has changed since the robbery. ",
+                "episode": 9,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 2,
+            "title": "Murders at Whiskey Creek",
+            "image": "https://content.production.cdn.art19.com/images/0b/0f/02/5d/0b0f025d-bd2a-4686-bc86-a7bbddba74f3/541f7e007a7b1e2801348dd876fbca1e83a598bca1bcc9ccf73602d5b707e6a3884fd528530d182c06d1c2c6cecd08b643d43abb4f1997977b07bdc42bc50b8d.jpeg",
+            "episodes": [
+              {
+                "title": "Crossing the Line",
+                "description": "Jack Murphy, a childhood violin prodigy who played in symphony orchestras and earned a full scholarship for tennis to the University of Pittsburgh, drops out and heads to Florida. There, he quickly rises to the upper echelons of the booming sport of surfing, and earns his nickname – Murf the Surf. After a failed marriage, however, his mood turned south, and he made a decision to enter into a life of crime.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Heist",
+                "description": "Murphy and an accomplice, Alan Kuhn, head to New York City, where they decide to pull off what was at that time the largest jewel heist in American history — robbing the JP Morgan gem collection from the Museum of Natural History.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Hunt",
+                "description": "After the heist, a wild manhunt ensues, led by a renegade public prosecutor from New York City. After their capture, Murphy and Kuhn quickly become two of the most famous criminals in America.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "A Visit to Crystal River",
+                "description": "We visit Jack Murphy now, and get to know the man who is somehow out of prison, and preaching the gospel of his lord and savior, Jesus Christ. But a few actions suggest Murphy may not be quite the saved man he proclaims to be.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Murders at Whiskey Creek",
+                "description": "Murf the Surf offers his explanation for what happened at Whiskey Creek, where two young women were found bludgeoned, shot, and stabbed. And the last man they were seen with was Jack Murphy.",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Trial",
+                "description": "More headlines as Murf the Surf is tried for murder, and tries to escape punishment by reason of insanity. We also get to know Salvatore “Sonny” Grech, the state’s star witness who made a run for it when it came time to testify.",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "A Man of God",
+                "description": "Despite a double life sentence plus twenty years, Jack Murphy convinces the state parole board that he has changed his life and found God. Now out, we speak to several of his friends to ask the question: Is it real, or just his latest con?",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Rusty and Cataño",
+                "description": "Jack Murphy offers his explanation for how his story about Whiskey Creek changed ... but things aren’t adding up.",
+                "episode": 8,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Reckoning",
+                "description": "We finally track down the family members of one of the Whiskey Creek murder victims, who agree to speak on the record for the first time in 52 years. And, we confront Jack Murphy in one final, explosive interview.",
+                "episode": 9,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 3,
+            "title": "The Disappearance of Mario Rossi",
+            "image": "https://content.production.cdn.art19.com/images/0b/0f/02/5d/0b0f025d-bd2a-4686-bc86-a7bbddba74f3/541f7e007a7b1e2801348dd876fbca1e83a598bca1bcc9ccf73602d5b707e6a3884fd528530d182c06d1c2c6cecd08b643d43abb4f1997977b07bdc42bc50b8d.jpeg",
+            "episodes": [
+              {
+                "title": "The Disappearance",
+                "description": "Just after New Year’s Day 1983, Bill Rossi was called to his family’s house in New Jersey. There, his loved ones gave him heartbreaking news: His father, Mario Rossi, had died in a plane crash. Yet from the start, the story wasn’t making sense.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Spartanburg",
+                "description": "The crew heads to Spartanburg, SC to meet the Rossi family. Yet the Rossi family is having second thoughts … and then a surprising conversation shows why their fears may be justified.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Betty",
+                "description": "The Rossi family received most of their information about Mario’s disappearance from a mysterious woman on the phone, Betty. Which begs the question: Who on earth is Betty?",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "A Couple of Very Hard Men",
+                "description": "The Rossi family suspects that Mario’s disappearance may have something to do with Black Thursday, a drug smuggling scandal that rocked NASCAR just months before he was last seen",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Informant",
+                "description": "An ex-FBI agent connects the crew with a confidential informant, who gives a wild tour of the seedy racing underworld of the 1980s, and gives a new understanding of how dangerous Mario’s associates were.",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "George and Carlos",
+                "description": "A surprising old friend comes back and provides a moment of clarity about Mario Rossi. Plus, it’s time to talk to the DEA.",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Hot Shoe",
+                "description": "Gary “Hot Shoe” Balough tells his side of the story, clarifies what he knows about the final day of Mario Rossi … and then gets mad. Really, really mad. ",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Final Resting",
+                "description": "In the season finale, we find that Gary’s stories aren’t all adding up, and have one final, explosive phone call with the man who once called Mario Rossi a friend. ",
+                "episode": 8,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          }
+        ],
+        "image": "https://content.production.cdn.art19.com/images/0b/0f/02/5d/0b0f025d-bd2a-4686-bc86-a7bbddba74f3/d1bba784d3bd42b85b0784574b2b44f2ce1786e8193d5a69842c9c5720f21450ea2478546a8786ee7071017089fcf073ef5d988e0e5003d32beb0a7bec64235e.png",
+        "updated": "2021-05-20T07:00:00.000Z"
+      },
+
+      {
+        "id": "5320",
+        "title": "Felonious Florida",
+        "description": "Beyond the beaches, the theme parks, the palm trees and the warm breezes lies the dark side of the Sunshine State. Wondery and the South Florida Sun Sentinel present a true-crime podcast that bring you stories of some of Florida’s most notorious and stunning crimes. Hosted by EmmaKate Austin, Season 2 will take you through some of the darkest corners we’ve explored yet. New episodes are coming Oct. 2 and will be released every Tuesday. Visit FeloniousFlorida.com.",
+        "seasons": [
+          {
+            "season": 1,
+            "title": "Season 1",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/7a/08/06/e4/7a0806e4-24cc-4781-adc3-74c81badaa0d/bd4f5c5f70c7d67353740a2f88f14f343a500dca8ff195bb0a43c4a801b951854754397fd73bef96b8be50f12cc4192adcbe3ae56be1cfe13278f4743d85e5ed.jpeg",
+            "episodes": [
+              {
+                "title": "THE EXECUTIONS",
+                "description": "Casimir Sucharsky Jr. — or Butch Casey, as he's known — is the flashy, well-known owner of the popular South Florida nightclub Casey’s Nickelodeon. After a night out at his bar in June 1994, he invites two young, attractive women back to his house for an after-hours party. As they share a bottle of wine, two intruders with a machine gun burst into the house and slay all three. Police discover the crime has been caught on a remarkable, 22-minute surveillance video. What they see on the tape is brutal and terrifying — and sets investigators on a frantic chase for suspects. Subscribe today so you don’t miss an episode. Visit FeloniousFlorida.com.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "O.J. AND THE MOB",
+                "description": "Theories around the killing of Butch Casey and his female guests begin to spin around. The public is consumed by talk of a connection to the murders days earlier of Nicole Brown Simpson and Ronald Goldman — and the arrest of Butch’s long-time friend, O.J. Simpson. But police are looking elsewhere and probe possible connections to the mob. Then, a violent home invasion not far away in Miami-Dade County breaks the case open. Subscribe today so you don’t miss an episode. Visit FeloniousFlorida.com.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "THE FACES OF THE KILLERS",
+                "description": "Was Pablo Ibar the man who showed his face to a security camera during the murders of Butch, Sharon and Marie? Police think so and begin to gather a case against him. Meanwhile, their search for the second killer surfaces two names — Alex Hernandez and Seth Penalver. But as prosecutors bring their suspects to trial, the apparent mountain of evidence they gathered begins to break down. The case is in jeopardy. Subscribe today so you don’t miss an episode. Visit FeloniousFlorida.com.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "PABLO",
+                "description": "Seth Penalver is a free man, acquitted by a jury in the brutal 1994 Casey's Nickelodeon Murders after spending six years on Death Row. Pablo Ibar spent 16 years on Death Row before his conviction was thrown out. Soon, he'll get another chance to convince a jury of his innocence. Supporters in his father's native Spain have rallied to fund his defense, raising nearly $800,000. Can they overcome a solid eyewitness who says he saw Pablo driving away from the murder scene? And now there's new evidence: Pablo's DNA was found on a shirt left behind at Butch Casey's house, prosecutors say.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "THE KIDNAP KIT",
+                "description": "A mother and her 7-year-old daughter are kidnapped from a mall in Boca Raton, Florida, after an afternoon of Christmas shopping in December 2007. They’re found executed in the back seat of their SUV, still parked in the mall lot. As police piece together details of the shocking crime, they realize the unthinkable: This child killer has struck before — at the same mall, that same year. Only that time, the mom and son survived to tell about it. Subscribe today so you don’t miss an episode. Visit FeloniousFlorida.com.",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "RANDI",
+                "description": "The mom who survived the terrifying kidnapping at the Boca Raton mall is frustrated when police doubt her wild story. They think she may have made it up to make her boyfriend angry. Then, just two months later, Nancy Bochicchio and her 7-year-old daughter are kidnapped and shot to death at the same mall. And it gets worse: The crimes lead police back to another kidnapping and murder that happened earlier that same year — at the same mall. Now a terrified public wants to know: Is there a serial killer on the loose in South Florida? Subscribe today so you don’t miss an episode. Visit FeloniousFlorida.com.",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 2,
+            "title": "Season 2",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/db/f3/84/c4/dbf384c4-8a0f-4030-b1a4-b465d9738f30/c8164db01fb52861ee87bf79abd8e9409a3d2f1ba461d57f88525d03717fafd6e87fa7194d1b5a383d864d66c5173e9bcd50413cf7453321446400e70fd7b2bf.jpeg",
+            "episodes": [
+              {
+                "title": "The Encino Murders, Part 1",
+                "description": "On a warm summer night in August 2009, an intruder shot Camile Hamilton in the face inside a suburban Florida home. A staggering 14 hours after the attacker fled, Camile wakes up — barely alive and with a bullet still inside her neck. Three others, including Camile’s teenage daughter, are dead. The crime scene is brutal and complicated, and neighbors didn't see anything. The search is on for a killer.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Encino Murders, Part 2",
+                "description": "Camile Hamilton is starting to remember what happened to her that brutal night in August 2009. A tiny piece of evidence and a series of breaks leads the Encino Street triple murder investigation to a homeless man with a criminal history named Kevin Pratt. But our investigative reporter finds inconsistencies in Camile's recollections that lead to questions about how reliable they are. And there's one more major disappointment for investigators.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Encino Murders, Part 3",
+                "description": "In the conclusion of The Encino Murders, Camile Hamilton confronts Kevin Pratt after an in-person lineup — and the encounter is explosive. Kevin insists he didn’t kill anybody, but when the DNA evidence gets stronger he faces the death penalty. As the years go on, problems with the investigation are uncovered — and suddenly, the case against Kevin isn’t as strong as once thought.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Disappearance of Lisa Spence, Part 1",
+                "description": "The text came in to Paul Edwards’ cell phone from his girlfriend, Lisa Spence. “Just wait till I got better,” it said. But it wasn’t so much what the text said, but that it had been sent at all. A month earlier, in October 2009, Lisa had vanished after a night shift at a beauty supply store and hadn’t been seen again. When other friends and family start getting texts from Lisa, police begin to wonder if Lisa was actually the person sending the texts, or whether this case was more than a simply missing person.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Disappearance of Lisa Spence, Part 2",
+                "description": "Police looking into the disappearance of Lisa are convinced there's foul play involved. With nothing else to go on, they devise an unusual plan to crack the case. Within days, their text from the grave pays off — it leads them to a gruesome discovery in an empty field near Miami and to the man they say brutally murdered Lisa Spence.",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Killer Clown of Wellington, Part 1",
+                "description": "When Marlene Warren answered a morning knock on her front door on Memorial Day weekend in 1990, a clown delivering flowers and balloons was smiling back at her. But her delight instantly turned to horror when the clown pulled a gun and put a bullet in her face. Police jumped on the trail of the killer clown almost immediately, and our reporters found that the investigation led them into the darkest corners of the Sunshine State — from loansharking and drug smuggling to prostitution and seedy affairs. But as a mountain of circumstantial evidence piled up and two possible suspects emerged, the case went ice cold.",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Killer Clown of Wellington, Part 2",
+                "description": "The early days of the search for the killer clown focus on Marlene Warren's husband, Michael, and the repo woman who worked on his used car lot, Sheila Keen. There appeared to be motive: An insurance payout, investment properties, a lavish home and an affair. But there's little or no hard evidence. As Michael goes to prison for illegal activities on his lot, the investigation into his wife's murder goes ice cold. Until 27 years later, when the secret lives of a married Virginia couple are exposed, and the alleged killer clown is finally unmasked.",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          }
+        ],
+        "image": "https://content.production.cdn.art19.com/images/15/88/a1/71/1588a171-e383-4500-bc00-a540c3efa1bd/a4dc4fa5df62ce0485a96b9b9fcfa81f3a02fc372928d2f085abdb7df23a665c05da6b4d640284543a0ddf5c2ef58f17edf1dc76ced5bd11770ab393b0c65a53.jpeg",
+        "genres": [
+          "All",
+          "History",
+          "True Crime and Investigative Journalism"
+        ],
+        "updated": "2019-01-23T05:00:00.000Z"
+      },
+
+      {
+        "id": "6451",
+        "title": "Detective Trapp",
+        "description": "Anaheim investigator Julissa Trapp is not like other detectives. She’s the only woman on the homicide squad, and a skilled chameleon: undercover cop in vice stings, crime-scene commander, patient confidante of killers. A master interrogator, she invokes her personal experience – and deepest griefs – as a tool to elicit confessions. When a young woman’s body is found at a trash-sorting plant, Trapp learns the murder may be linked to the disappearance of three other women in nearby Santa Ana. Trapp embarks on a dark journey that brings her face to face with a man who takes “a little piece of her soul.” The series is about a singular detective on a relentless, sometimes lonely quest for answers. From the Los Angeles Times and Wondery, “Detective Trapp” is a new story from Christopher Goffard, the writer and host of “Dirty John.”",
+        "seasons": [
+          {
+            "season": 1,
+            "title": "Season 1",
+            "image": "https://content.production.cdn.art19.com/images/db/ee/b4/b5/dbeeb4b5-40f6-4b03-8d99-2a81b5cf8e33/012e1a354192659178c1ed28171d0f24c5b181265e9225dd24b03382dc171aa1efb55699ad29e4616d81aff6de051cfb36b91020cdd63320291f9c97466c3ef8.jpeg",
+            "episodes": [
+              {
+                "title": "All the Missing",
+                "description": "Episode 1: Detective Julissa Trapp fights her way onto the homicide unit in her hometown of Anaheim, California — and strives amid personal struggles to understand God’s plan for her. In a nearby city, women begin vanishing.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Circuits",
+                "description": "Episode 2: Detective Trapp finds a young woman’s body at a recycling plant. The investigation leads to the dangerous streets where the victim worked. Is her death connected to the disappearances of three other women?",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Partners",
+                "description": "Episode 3:  After weeks of frustration, Anaheim detectives break a murder case wide open —and find it larger and stranger than anyone could have anticipated.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Interview",
+                "description": "Episode 4:  Detective Trapp comes face-to-face with a suspected serial killer during a harrowing 13 1/2-hour interview that tests all her skill and endurance. To win, she must trick her adversary.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Secret Graves",
+                "description": "Episode 5: A serial killer’s trial does not end the case for Detective Trapp. In its aftermath, she finds herself on a quest all her own.",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Behind The Scenes",
+                "description": "Christopher Goffard talks with Matthew Shaer, host of Over My Dead Body, about the journey from Dirty John to Detective Trapp.",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          }
+        ],
+        "image": "https://content.production.cdn.art19.com/images/db/ee/b4/b5/dbeeb4b5-40f6-4b03-8d99-2a81b5cf8e33/3661121915afa366ce97e923e54003290a0cf6f67a9e52eba050514df5276702b51e4c13f5af4feab8410c29b21aeece9d96af3e0464bcd24a603a42a3755ef9.png",
+        "genres": [
+          "All",
+          "True Crime and Investigative Journalism"
+        ],
+        "updated": "2022-04-05T20:18:06.000Z"
+      },
+
+      {
+        "id": "5692",
+        "title": "FRAMED: An Investigative Story",
+        "description": "A true crime podcast that seeks to go beyond the narrative and discover the truth. Both sides have facts, which picture comes into focus depends on how those facts are Framed.",
+        "seasons": [
+          {
+            "season": 1,
+            "title": "Season 1",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/fc/35/4c/1c/fc354c1c-abac-40c8-a53e-3a4b2bf302e9/65a472806748248c1eac791c6567d21868c8d6b73677bf6764806847828e3cbe8644bce77503f75506583a2ab40e3e01a7d1af77ef7f768565d8a42099c5feb5.jpeg",
+            "episodes": [
+              {
+                "title": "Brian Carrick",
+                "description": "On December 20th of 2002, Brian Carrick disappeared, leaving nothing behind but a pool of blood and a trail of clues to follow. Two theories have divided the once close-knit community of Johnsburg, Illinois. Fifteen years later, people are still asking… Who killed Brian Carrick?",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Motives",
+                "description": "We’ve met our suspects. It’s time to understand their motives. Who had reason to harm Brian Carrick?",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Southeast Corner",
+                "description": "A frightened witness comes forward with information, but is the information reliable? What happened that night in the southeast corner of Val’s Foods?",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Fifteen Minutes",
+                "description": "Brian Carrick walks into Val's Foods and never leaves again. Who sees him? Brian’s coworkers tell us where they were and what they saw during the last fifteen minutes of Brian’s life.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Drugs, Money, & Blood",
+                "description": "A suspect on the run. A police chase like none other ends along a partially frozen creek. On the suspect, the police find drugs, money, and blood.",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Four Felons",
+                "description": "It was an accident. Things got out of hand. That was the testimony of four felons looking for deals...",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "JPD",
+                "description": "Two small town detectives with personal ties to the people involved were assigned to this case. One knew the victim’s family and was working tirelessly to solve this mystery. The other…",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Duplicity",
+                "description": "A tale of deceit, double-dealing, and manipulation. “Criminals flock together. They don’t ordinarily commit their crimes in broad daylight.” – Patrick Kenneally",
+                "episode": 8,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Twelve Twenty",
+                "description": "We walk you through Brian Carrick’s last day, from an early morning kiss from mom, to the moment he drew his last breath. We have all the pieces, now it’s time to solve this puzzle.",
+                "episode": 9,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Final Piece",
+                "description": "We’re still missing the biggest piece of all. Where is Brian Carrick’s body? Can you help us finish this puzzle and finally lay Brian to rest? This is the final episode of season one.",
+                "episode": 10,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 2,
+            "title": "Season 2",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/28/22/55/a4/282255a4-e534-43d5-8063-259e74f7a708/d8c20a588d90317ce20a2a2d443385ad1cbc928e4a7e7282632bb8da572a168170101466e4c787ae7486d4b44c0abcd236637d837fc7d41f23f5c1c37799e7c2.jpeg",
+            "episodes": [
+              {
+                "title": "Wat Promkunaram",
+                "description": "The deadliest mass shooting in Arizona's history occurred on August 10th, 1991. Nine victims were executed in the Wat Promkunaram Buddhist Temple, located in Waddell, Arizona. Twenty-one shots were fired in total. The gunmen didn’t miss once. By the time the bodies were discovered they were cold to the touch. The shooters had long since fled the scene, leaving, as it seemed, without a trace. As news of the slayings spread, temple members gathered outside the crime scene, anxious to know the answer to one question. Why? Why did they have to kill them?",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Tucson Four",
+                "description": "A tip came in on the hotline that promised to bust this case wide open. In three days time, the task force had five suspects in custody... but each suspect had a different story to tell. In a case where everything depends on what people say, how do you decide who you're going to believe?",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Marlin",
+                "description": "On October 23, 1991, the task force received some good news. The crime lab had identified the murder weapon. It was a Marlin twenty-two-caliber long rifle. The owner of the weapon was brought in for questioning.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "JD",
+                "description": "\"It wasn't me! It must have been the guy I loaned my rifle to...\" A new suspect enters the interrogation room.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "No Witnesses",
+                "description": "\"It's time to give it up. I want you to start telling me what happened on August 9th, what your involvement was, and who all was there at the Temple. Let's just get this out and get it over with.\"",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "After Midnight",
+                "description": "On this episode we’re going to focus on those individuals who fall somewhere between witnesses and suspects; a group often referred to by law enforcement as “persons-of-interest.”",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "House on the Hill",
+                "description": "On this episode of Framed, we’re going to focus on our material fact witnesses. The girlfriends, and ex-girlfriends. The close confidants, the classmates, the acquaintances, and the rivals.",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Snitches",
+                "description": "The task force interviewed every single person that spent time with their three juvenile suspects. Literally hundreds of inmates were interviewed and, by our count, at least forty of them provided relevant information to the task force. We aren’t going to go over every single statement from every single snitch, but we will go through enough of them to help you see the bigger picture.",
+                "episode": 8,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Veredictum",
+                "description": "The rules that govern what evidence is admissible and what is inadmissible can be complicated. Often times our common sense understanding of what a relevant fact is doesn’t line up with what the law allows jurors to hear. The gap between the two views can be vast. In this case, the evidence the jury used to reach their verdict was remarkably different than the evidence we’ve covered so far. On this episode of Framed, we’re going to explore why.",
+                "episode": 9,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Where There’s Smoke – Part 1",
+                "description": "The Framed Team has assembled the pieces to this jigsaw puzzle in a way that no one ever has, to reveal a picture no one’s ever seen. To the question, what exactly happened inside the Wat Promkunaram temple on a warm summer night in 1991… we have an answer, and we think we can prove it.",
+                "episode": 10,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          }
+        ],
+        "image": "https://content.production.cdn.art19.com/images/80/9b/b1/23/809bb123-130c-4254-a9c1-e66cd2bc9d33/fe06b76bdce09c87166118a932e175e0fc893cf18ade7a553d88b00b1b6f162bf926fd32d722fca969d57e5f46362ea855609da4af886d3e14b766f38444a39b.png",
+        "updated": "2021-01-06T09:00:00.000Z"
+      },
+
+      {
+        "id": "6430",
+        "title": "The City",
+        "description": "USA TODAY’s critically acclaimed investigative podcast about power in American cities. Season 1, Chicago: A black neighborhood fights back when a mysterious man with mob ties builds an illegal dump across the street from an elementary school. Along the way they confront corrupt politicians, apathetic bureaucrats—and a secret undercover FBI investigation. Season 2, Reno: A surprising proxy battle for the future of Reno pits a brash strip club kingpin against power brokers in city hall. The winner-takes-all fight could remake the city—and ruin lives in the process.",
+        "seasons": [
+          {
+            "season": 1,
+            "title": "Season 1",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/cf/9b/40/fe/cf9b40fe-cf15-46ad-8255-88ac8d49be2d/6d3dbe86916577aa5835f94cd33a83df1c8faaeedcfd949eefbf3a2e8454e3bd0f22c72b1a77c6bbd8978bbd373a6df8a1b43cf5cbe9845d27a12ba1d1293880.jpeg",
+            "episodes": [
+              {
+                "title": "Six Stories",
+                "description": "Chicago, 1990. A guy with a loud sweater, manicured nails and connections to some very powerful people idles in a limousine near a vacant lot. A fleet of dump trucks unloads literal tons of busted concrete—and keep coming back. Neighborhood residents take action. The mess becomes much bigger than a six-story pile of rubble.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Life in the Shadow of the Mountain",
+                "description": "Lawyers debate whether 31,000 truckloads of debris is or isn’t “waste.” Justice is delayed. A mountain rises and casts its long shadow.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "\"Mount Henry\"",
+                "description": "The neighborhood turns to a beloved ward boss—but his own agenda comes first. A man in the know offers some valuable advice on power.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "A Tale of Two Cities",
+                "description": "Four years in, \"Mount Henry\" has become a magnet for hazardous waste—both literal and figurative. A new illegal dump appears in a white neighborhood. A trusted advocate may not be who he seems.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The \"Forrest Gump\" of Chicago Crime",
+                "description": "A bank failure unearths a connection to the mysterious man in the limo—and suddenly, he’s everywhere. Bribery, fraud and violence are just ways of doing business. The FBI is on the case—but which one? And whose?",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Operation Silver Shovel",
+                "description": "A criminal flips and wears a wire. Aldermen accept small sums of large bills. The FBI’s investigation may be tainted. \"Mount Henry\" grows, but shrinks from memory.",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Takedown",
+                "description": "A reporter scoops the FBI. Politicians get taken down in \"Mount Henry’s\" shadow. The six-story debris pile remains.",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Houston",
+                "description": "An illegal dump in Chicago has seeds in a legal one in Houston. The numbers reveal an unsettling pattern. A movement takes root. The president gives an order.",
+                "episode": 8,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Cleanup",
+                "description": "The illegal dump is finally eradicated—but at whose expense?",
+                "episode": 9,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Present, The Future",
+                "description": "The uncertain fate of the lots in North Lawndale, and what that says about a city like Chicago. ",
+                "episode": 10,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 2,
+            "title": "Season 2",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/e0/7e/1f/12/e07e1f12-3d9f-47d0-933c-15e6f942e0d8/ceef7ea0eee9baf76db4cd8ad715fcdad2074579b5728e277be46f68a0a9a126ee3f11fcf99b1b92f04784fac94dada1c23e8ab27f331dbfc4f408f5b2a66e80.jpeg",
+            "episodes": [
+              {
+                "title": "Battlelines",
+                "description": "In a changing Reno, city boosters concoct a plan to force strip clubs out of downtown. But Reno’s strip club kingpin won’t go quietly. As the city tightens its grip, it’s dancers who feel the squeeze.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "If They Want War, We'll Give 'Em War",
+                "description": "A secret report on strip clubs is revealed, but it’s no smoking gun. As Midtown changes, residents of a weekly hotel make their fury known to a council that says they’re just pawns in a bigger game.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Pendulum",
+                "description": "Big-game hunters in town for an annual safari convention go to the Wild Orchid looking to let loose. But city police have other plans, marking Reno’s latest swing from permissiveness to restrictiveness.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "West World",
+                "description": "We go 20 miles east of Reno, to a mountainous landscape full of wild horses, brothels, and Tesla’s futuristic Gigafactory. City boosters say it’s the engine driving the New Reno. But the truth of what that means is darker and more complicated than it first appears. ",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Behind the Curtains",
+                "description": "A mysterious device shows up at the Wild Orchid, and Kamy is paranoid the city is out to get him. Everyone wants to know what’s happening in the strip club’s VIP rooms—including the courts. ",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "A New Reno",
+                "description": "As old Reno disappears around them, Kamy, Stephanie, and Velma all try to find their bearings. ",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          }
+        ],
+        "image": "https://content.production.cdn.art19.com/images/c5/f8/e7/fa/c5f8e7fa-4b3d-44b5-83f8-30b04dd28293/74283c27dfd3bd1ce61e9aa0fa2e9c8d6f4847152fa4b7e9a38e8fa87b42aaf33ca247af6994bff4304a85ea7c82e7513ded581456b4474b5790320b916f798f.jpeg",
+        "updated": "2020-07-29T07:30:00.000Z"
+      }
 ]

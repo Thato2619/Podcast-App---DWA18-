@@ -4745,12 +4745,2566 @@ export default [
           "History"
         ],
         "updated": "2022-11-03T07:01:00.000Z"
+      },
+
+      {
+        "id": "8364",
+        "title": "Business Movers",
+        "description": "Behind every successful business is a story. It starts with a vision and a leap of faith. Along the way, leaders make bold decisions, ride booms and busts, and sometimes, they reach new heights. From Wondery, the makers of the hit series  Business Wars , and Lindsay Graham, the host of  American History Tellers  and  American Scandal , comes a weekly podcast that brings you the true stories of the brilliant but all-too-human businesspeople who risked it all. From Walt Disney’s creation of a theme park in Orlando, to the colossal failure of New Coke,  Business Movers  will explore the triumphs, failures and ideas that transformed our lives. Wondery+ subscribers get 1-week early access to new episodes. Listen ad-free on Wondery+ or on Amazon Music with a Prime membership or Amazon Music Unlimited subscription.",
+        "seasons": [
+          {
+            "season": 1,
+            "title": "Building a Better Theme Park",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/70/71/8a/fa/70718afa-7359-4c4e-8796-f0cd42ed8ae8/27659de964053688cc967ae2934a1d054d9304a3ee3310ce9b2d44796a40a6d3ede3aab19754ea4e6418121373c75a13ae4e690646725c7cf491624b83e8a20c.jpeg",
+            "episodes": [
+              {
+                "title": "Walt Disney: Building a Better Theme Park | Project Future",
+                "description": "As Walt Disney sets out to build a second theme park in Florida, he quietly works to keep the top secret project out of the public eye. To make his dream a reality, and to keep Project Future under wraps, Walt will rely on a close-knit team of lawyers, executives, and former World War Two spies. This is the first in our four-episode series on Walt’s efforts to create a second theme park that would correct the errors of his first. ",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Walt Disney: Building a Better Theme Park | Secrets and Spies",
+                "description": "With the help of a former World War Two spy named Paul Helliwell, Walt Disney fights to keep Project Future out of the papers as he navigates a local labyrinth of closed door deals, nosy politicians and intrepid reporters. But Walt’s biggest secret isn’t Project Future—it’s a private battle he’s fighting with his own body. ",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Walt Disney: Building a Better Theme Park | The Genius and his Brother",
+                "description": "As Walt Disney fights to overcome his failing body, he and his brother Roy battle over the future of Walt’s latest obsession, and his biggest idea yet: an Experimental Prototype Community of Tomorrow; or as Walt calls it, EPCOT.  ",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Walt Disney: Building a Better Theme Park | End of the Line",
+                "description": "On the next episode of Business Movers: In the aftermath of Walt’s death, Roy Disney fights to fulfil his brother’s legacy and carry Project Future over the finish line. To get the job done, Roy will have to run the gauntlet of Florida politics, labor troubles, and his own declining health.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Walt Disney: Building a Better Theme Park | Author Chad Denver Emerson on the Success, or Failure, of “Project Future”",
+                "description": "For Disney World expert Chad Denver Emerson, the Walt Disney World Resort is more than entertainment. It’s one of his greatest passions. Chad is the author of multiple books on Disney World, including Project Future: The Inside Story Behind the Creation of Disney World. He’s also an expert on city and urban planning, which makes him uniquely qualified to answer the question: Does the Walt Disney World Resort live up to the highest ideals of Walt’s vision for a City of Tomorrow? ",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 2,
+            "title": "Coca-Cola’s Greatest Mistake",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/cb/46/19/b7/cb4619b7-c24d-4522-aab4-ef5ff09be86d/7875be73cbb404cd8e1e73a22c5b83f87d5d7b8dbb6eeb64a442c27d90ba60f7665f62002a8157ed153378e35b10fb4e6856416efe4561b7aaac787789f53bb2.jpeg",
+            "episodes": [
+              {
+                "title": "Coca-Cola’s Greatest Mistake | Out With The Old",
+                "description": "In 1985, when Coca-Cola eliminated its signature soft drink, “Coke”, and replaced it with a new and improved version called “New Coke”, the American people revolted. In this series premiere, we go back to the beginning of the story and meet the man responsible for Coca-Cola’s biggest blunder: Roberto Goizueta, a brilliant Cuban immigrant who started from the bottom and rose to the highest rung of Coca-Cola’s corporate ladder. ",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Coca-Cola’s Greatest Mistake | Agent of Change",
+                "description": "Newly appointed Coca-Cola chairman Roberto Goizueta gains lost ground in the Cola Wars with several bold maneuvers, including the launch of a brand new diet soft drink. As he strives to beat Pepsi, Roberto fights to remake the culture of Coca-Cola and take the company in a bold new direction by putting an emphasis on taste and quality over image and brand. ",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Coca-Cola’s Greatest Mistake | Don't Blink",
+                "description": "As Roberto and the Project Kansas team work in secret to launch New Coke, PepsiCo’s CEO Roger Enrico gets ready to fight back. In the aftermath of New Coke’s launch, Enrico launches a counter attack in the media that he hopes will put an end to the Cola Wars and make PepsiCo the victor.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Coca-Cola’s Greatest Mistake | Strategic Retreat",
+                "description": "n the aftermath of the New Coke rollout, Coca-Cola chairman Roberto Goizueta deals with an onslaught of bad press, angry phone calls and nasty letters from Coke fans who want their old soft drink back. In this moment of crisis, Roberto sees opportunity in adversity and uses data as a weapon to fight back.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Coca-Cola’s Greatest Mistake | Who Killed New Coke?",
+                "description": "Tim Murphy, a senior reporter at Mother Jones, normally writes about national politics, not soda. In this interview episode on Coca-Cola’s Greatest Mistake, Tim will explain how New Coke is a story about both. According to Tim, New Coke didn’t fail. It was murdered in a culture war that has many parallels to today.",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 3,
+            "title": "The Rise and Fall of Uber",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/eb/50/d5/56/eb50d556-24e8-4f58-a6b7-4bd1550e2663/de27ee66e5d6b44707d28c22e9bd19e337e611c138ab8889a50b4b471c4ccce8e54f9148e3a806b33d63ebe032e5cff5f7567c96a84650e7b077f52b232bcd68.jpeg",
+            "episodes": [
+              {
+                "title": "The Rise and Fall of Uber | #Winning",
+                "description": "Uber's spectacular rise wasn’t the smoothest ride. The world-changing ride sharing app broke more than a few rules--and laws--on it’s way to the top, and its controversial co-founder Travis Kalanick fostered a toxic corporate culture that eventually caught up to him. This is the first in our four-episode series on the rise and fall of Uber.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Rise and Fall of Uber | A Very Strange Year",
+                "description": "Susan Fowler’s blistering story reveals a systemic problem at Uber, and it’s the first of a series of scandals that damages Uber’s already rocky reputation, and places CEO Travis Kalanick under the microscope of public scrutiny.  ",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Rise and Fall of Uber | Greyball",
+                "description": "New York Times journalist Mike Issac’s story about a secret spying program at Uber puts Travis in the crosshairs of Uber’s board of directors and threatens to deprive the infamous leader of the company he helped create.  ",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Rise and Fall of Uber | Principled Confrontation",
+                "description": "Former Uber engineer Susan Fowler battles threats from all directions as Travis Kalanick grapples with the aftermath of a personal tragedy that brings him to his knees. ",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Rise and Fall of Uber | Get Super Pumped About Meeting Mike Isaac",
+                "description": "Mike Isaac, the author of Super Pumped: the Battle for Uber, is more than a technology writer for the New York Times. He’s a character in the Uber story. Mike sits down with host Lindsay Graham to tell the behind the scenes story of how he broke some of Uber’s darkest secrets.",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 4,
+            "title": "The Myth of John Delorean",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/7b/ca/f9/ec/7bcaf9ec-90a2-40b8-8bff-61882af76c38/035d3101d09ec0107b3cd1a876243cc5eef6b7fba3252ed05db049a29f137c5c1f6778416f2f2bfa8a66e76a27892b2530e9be400696cdec84e376cc3acc383a.jpeg",
+            "episodes": [
+              {
+                "title": "The Myth of John DeLorean | The Prophet",
+                "description": "The name “DeLorean” isn’t just synonymous with the 1985 blockbuster film Back to the Future, it’s also infamous for its connection to two uniquely American innovations: the sportscar and the drug trade. John DeLorean was a legend of the automobile industry who rose to the highest levels within General Motors. But his ambition for more than what Detroit could offer brought him to Hollywood, where he became entangled in a web of drugs, betrayal—and the FBI.  ",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Myth of John DeLorean | Betrayal",
+                "description": "As pressure grows in Northern Ireland to get the DMC-12 ready for mass-production, John seeks out Colin Chapman, the man behind Lotus Cars. A partnership with Chapman leads John to turn against some of his closest friends and engage in a questionable financial deal that could bilk investors out of millions.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Myth of John DeLorean | Wax Wings",
+                "description": "Desperate to raise millions and save his company, John DeLorean cuts a backroom deal with a drug smuggler and a crooked banker. Little does John know, he’s fallen into an elaborate trap set by the United States government.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Myth of John DeLorean | The Trials",
+                "description": "John DeLorean faces off with the United States government in a massive trial that gains attention all over the world. But just as it looks like John might be able to beat the drug charges against him, it becomes clear that charges of financial fraud are just around the corner.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Myth of John DeLorean | Framing John DeLorean",
+                "description": "Filmmaker Tamir Ardon’s lifelong obsession with DeLorean led him to join forces with fellow filmmakers Sheena Joyce and Don Argott to create a hit documentary. Sheena, Don and Tamir sit down with host Lindsay Graham to talk about how they chose to frame John DeLorean.",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 5,
+            "title": "The Enlightenment of Steve Jobs",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/e2/fe/db/35/e2fedb35-0882-4f02-afe1-6d49a867c0dc/449460324655e5390049c36f7702b198e0b4c0a753b876f7e8ed17b19a1814afc0d7bbfa5e92d02b38edb157606cd12bb244d403086ab098b49fab3132d718a7.jpeg",
+            "episodes": [
+              {
+                "title": "The Enlightenment of Steve Jobs | Little Black Cubes",
+                "description": "After Steve Jobs is fired by Apple in 1985, he sets out to build the computer of the future and prove himself a worthy leader. So he founds a new computer company called NeXT and purchases a little known animation studio called Pixar. In order to succeed, Steve is forced to confront the mistakes of his past and chart a new course for the future. ",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Enlightenment of Steve Jobs | The Other Side of the Table",
+                "description": "As Steve’s company NeXT fails to make waves in the computer industry, Steve refocuses his time and energy on Pixar. While many people think his star has faded, Steve bides his time and makes a triumphant return that nobody sees coming.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Enlightenment of Steve Jobs | Metamorphosis",
+                "description": "Steve Jobs returns to Apple and revolutionizes the company by applying lessons from the past, looking beyond computers and introducing a new product that will forever change the way people consume music: the iPod. ",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Enlightenment of Steve Jobs | Staring Off into the Future",
+                "description": "In the wake of his cancer diagnosis, Steve Jobs seeks to secure Pixar’s future, reward those who have stayed loyal to him, and transform Apple with the launch of the iPhone.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Enlightenment of Steve Jobs | Becoming Steve Jobs",
+                "description": "In this interview episode, Rick Tetzeli, co-author of the New York Times Bestseller Becoming Steve Jobs provides an inside look at what drove Steve, what stood in his way, and how he was able to mature as a leader.",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 6,
+            "title": "Back from the Dead",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/f8/99/34/23/f8993423-ee14-4ba1-b4a5-0cc5499c8e50/b3ba6bb18ab77bc80c3b019eda9ba1c36d2b18d790cf2cdce773a17800db085556edd39d7569eb2788da6014904d6d5c4915115e2cb15c18a1895246e1e9f6d6.jpeg",
+            "episodes": [
+              {
+                "title": "General Motors: Back from the Dead | In With the New",
+                "description": "General Motors is America’s carmaker, an empire that helped build Detroit Motor City. Since 1908, General Motors has been a key driver of the workforce, the economy and American culture. But in 2008, the once-thriving car business came to a screeching halt. In the wake of the Great Recession, an engineer turned human resources executive named Mary Barra [BAR-uh] rises to power at General Motors and helps bring America’s automaker back from the dead.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "General Motors: Back from the Dead | Fatal Flaws",
+                "description": "General Motors’ brand new CEO Mary Barra navigates a crisis unlike any other as General Motors recalls thousands of vehicles after investigations reveal they caused the deaths of dozens of drivers.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "General Motors: Back from the Dead | Winds of Change",
+                "description": "In the face of disruptive changes in the automobile industry, Mary Barra throws out the old GM playbook and writes a new one for making the cars of tomorrow.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "General Motors: Back from the Dead | Electric Destiny",
+                "description": "As Mary Barra races toward an electric future against the likes of Tesla, she will have to reckon with tough decisions involving GM’s workforce. ",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "General Motors: Back from the Dead | David Welch Sees General Motors’ Future",
+                "description": "David Welch, Bloomberg’s Detroit bureau chief, gives a crash course on all things GM, including how he successfully predicted GM’s bankruptcy four years before it happened.",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 7,
+            "title": "The Mind Behind Marvel",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/23/f3/d8/f9/23f3d8f9-6c7a-4df0-9345-ca63ddd62d23/a31d0bcb8de32b2cd61a4e12cbca462e4ba9f7c99d7cc39009816d6c0a24684e706dde6c573ba7e5fe1d1b9b1355e5afb73597531ac4a28a5224dfad3973b424.jpeg",
+            "episodes": [
+              {
+                "title": "Stan Lee: The Mind Behind Marvel | Origin Story",
+                "description": "Comic book legend Stan Lee co-created some of the world’s most iconic superheroes including Spider-Man, the X-Men, the Fantastic Four, and the Avengers. His creations helped give birth to the legendary Marvel Comics. But in the early 2000’s, Stan went to war with the company he helped create. His lawsuit was the beginning of a revenge story right out of a comic book.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Stan Lee: The Mind Behind Marvel | Excelsior!",
+                "description": "Stan Lee combines his creative powers, his vision for business, and his growing skills as a pitchman to create Spider-Man, expand Marvel’s reach, and push his company to become the next Disney.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Stan Lee: The Mind Behind Marvel | The Belly of the Beast",
+                "description": "Stan Lee heads to Hollywood in the hopes of bringing Marvel superheroes to the big screen. There, Stan finds himself battling movie producers, studio execs, and even his old partner, Jack Kirby.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Stan Lee: The Mind Behind Marvel | The Cameo King",
+                "description": "Stan finds himself in a legal battle with Marvel that will lead the company to take Hollywood by storm and launch the modern version of the Marvel Cinematic Universe.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Stan Lee: The Mind Behind Marvel | Bob Batchelor Knows the Man Behind Marvel",
+                "description": "Bob Batchelor, cultural historian and author of the definitive biography, Stan Lee: The Man Behind Marvel breaks down Stan’s career, the controversy surrounding Stan and his closest collaborators, and Stan Lee’s legacy in American entertainment.",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 8,
+            "title": "The Collapse of Lehman Brothers",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/b3/2e/1a/25/b32e1a25-4114-4166-9fd5-99a85c800196/6b842f8e4ab676d39ba4ca831aa5829daadcbbbc30a5a6e3e08a49aa9005a4d9ebfb2bf9e5b324a39de15ee7999a6385ec0fd2472bebd39038a5f6ac5b2be3dd.jpeg",
+            "episodes": [
+              {
+                "title": "The Collapse of Lehman Brothers | Lawrence and Larry",
+                "description": "Lehman Brothers, the world’s 4th largest investment bank, recorded billions in profits year after year, until September of 2008 when the Wall Street giant was forced to declare Chapter 11 bankruptcy, triggering a global financial meltdown. The collapse of Lehman Brothers is a cautionary tale of too much risk, not enough regulation and plenty of greed. The story starts with two traders who tried to save the company they loved.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Collapse of Lehman Brothers | Mike and Alex",
+                "description": "Mike Gelband, and his deputy Alex Kirk, fight their way to the 31st floor to challenge Lehman’s CEO. But to save the company they love, Mike and Alex will have to risk everything; even their careers.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Collapse of Lehman Brothers | Bart",
+                "description": "Bart McDade leads a corporate coup designed to oust Joe Gregory, reign in Dick Fuld, and rescue Lehman Brothers from the throes of disaster.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Collapse of Lehman Brothers | Dick",
+                "description": "Lehman’s last hope is a potential acquisition, but Dick Fuld’s ego gets in the way, and sends the firm down its ultimate path of destruction.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Collapse of Lehman Brothers | Author Vicky Ward and the Devil’s Casino",
+                "description": "Vicky Ward, author of The Devil’s Casino: Friendship, Betrayal and the High Stakes Games Played Inside Lehman Brothers, explores the dramatic story of Lehman’s downfall, and the people responsible for one of the greatest financial failures in history.",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 9,
+            "title": "Saving Starbucks",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/c7/15/ed/8e/c715ed8e-7fb1-4ddd-8bc9-c9dbed941d2b/e4eed2238fe5dd884c37ed3240126bec27da4f82404a52bc829cbb583b3e71c63e4a29470c496e8e371b35bd2f85aa7bbcefaf932ffde4b953aab343956ee85d.jpeg",
+            "episodes": [
+              {
+                "title": "Howard Schultz: Saving Starbucks | The Third Place",
+                "description": "Howard Schultz bought a small Seattle coffee company called Starbucks in 1987. By the time he stepped down as Starbucks’ CEO in 2000, Howard had transformed the six-store operation into the largest coffee brand in the world. But in the late 2000s, Starbucks descended into a financial spiral, and Howard came back to save the company he’d built from the brink of disaster.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Howard Schultz: Saving Starbucks | The Perfect Shot",
+                "description": "Howard’s decision to shut down all of Starbucks’ American stores leads to genuine concerns about the company’s chances for survival. In the face of declining sales and mounting criticism, Howard focuses on transforming the company by reconnecting with his customers and restoring a sense of community.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Howard Schultz: Saving Starbucks | Culture and Community",
+                "description": "Howard gets into the advertising game and battles his own Board to prove his belief that companies can work ethically and still make a major profit. Howard’s patience and trust in his vision starts to pay off as Starbucks fights its way out of financial turmoil.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Howard Schultz: Saving Starbucks | The Green Apron",
+                "description": "Howard works to expand in China, increase the range of benefits available to his partners, and secure the future of the company he loves before bidding Starbucks goodbye and resigning as CEO.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Howard Schultz: Saving Starbucks | Author Eric Scigliano Tells the Other Side of the Starbucks Story",
+                "description": "Seattle Writer Eric Scigliano, who has written for The New York Times,The Wall Street JournalandHarper’s, goes beyond the spin to expose the other side of Howard’s Starbucks Experience. ",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 10,
+            "title": "Fighting for MySpace",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/26/11/60/5c/2611605c-cf39-44b8-a84b-65f67a3f1bdf/b6995f8422372d011564c1f973d7fdce4d4cbf7599e4b4312a90a8a6baf819b152ee0b76a0e2b44bcd68a9734db8a20d4da7d5fb78ec5c0eeec5e337b58fb500.jpeg",
+            "episodes": [
+              {
+                "title": "Fighting for MySpace | Millions of Emails",
+                "description": "Chris DeWolfe and Tom Anderson had no intention of starting a tech revolution. But when their website, MySpace, took off in 2003, it changed social media and the internet forever. As MySpace grows into one of the biggest sites in the world and attracts media giants like Rupert Murdoch, Chris and Tom will have to fight to keep control of their own creation.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Fighting for MySpace | Unintended Consequences",
+                "description": "As MySpace starts to take off, thanks to a mistake and Tila Tequila, Chris and Tom fail to see the potential dangers of the site.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Fighting for MySpace | To Sell or Not to Sell",
+                "description": "The success of MySpace Music, and the site's influence on pop culture, attracts big time potential buyers like media mogul, Rupert Murdoch.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Fighting for MySpace | Corporatization",
+                "description": "As Chris and Tom fight for independence under the News Corp regime, they push to expand MySpace’s footprint overseas and overcome the growing popularity of Facebook.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Fighting for MySpace | Dr. Larry Rosen Diagnoses Social Media",
+                "description": "In this interview episode, Dr. Larry Rosen, author of The Distracted Mind: Ancient Brains in a High-Tech World, talks about the past, present and future of social media.",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 11,
+            "title": "Creating a Hollywood Empire",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/83/04/19/e7/830419e7-3950-4cdd-9eb4-bf1b6e4fcbe1/0fdeb73e81ee2da89badd0dcfafc62019a66d63d755335aec6ffd6321f98392b0c65dde8ecacf12fd79686ad515c4fd0c9f54ead5820ef5dfb8da3ae51dc497c.jpeg",
+            "episodes": [
+              {
+                "title": "George Lucas: Creating a Hollywood Empire | A New Hope",
+                "description": "Filmmaker George Lucas created the most successful movie franchise of all time. Star Wars revolutionized cinema, taught Hollywood the true value of merchandise and turned a niche film genre into a billion dollar industry. To build his own empire, George will defy the odds, risk it all and walk away one of the richest men on the planet.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "George Lucas: Creating a Hollywood Empire | I Have a Bad Feeling About This",
+                "description": "A nostalgic return to his childhood takes George on a life-changing journey to a galaxy far, far away.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "George Lucas: Creating a Hollywood Empire | Betting the Ranch",
+                "description": "With Star Wars a runaway success, George uses his new-found power to build an empire on Skywalker Ranch.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "George Lucas: Creating a Hollywood Empire | The Empire",
+                "description": "As George wraps up his Star Wars saga with three more films, he feels the time is right to retire and sell Lucasfilm. But the Walt Disney Corporation takes his beloved franchise in a controversial new direction.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "George Lucas: Creating a Hollywood Empire | Biographer Brian Jay Jones Explores the Life of George Lucas",
+                "description": "Biographer Brian Jay Jones, author of George Lucas: A Life, explores the iconic filmmaker’s life and legacy.",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 12,
+            "title": "The Sumner Redstone Story",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/81/a1/e0/b6/81a1e0b6-5e09-4070-972d-70d1621063ac/8de7e729f3589547e3ca7ab7f23f3758ee62652340906b2c2da06e1d23d984d53c951127367630178f8a73b62942bf070c93df716892ec446a9042729e0318b3.jpeg",
+            "episodes": [
+              {
+                "title": "Hostile Takeover: The Sumner Redstone Story | The Family Business",
+                "description": "Boston-born media executive Sumner Redstone turns a small family business into a media juggernaut, acquiring companies like Viacom, Paramount and CBS along the way, sometimes by force. But Sumner’s rise to mogul status leaves important relationships, business and familial, in shambles.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Hostile Takeover: The Sumner Redstone Story | The Battle for Viacom",
+                "description": "Sumner Redstone takes the next step in his vertical integration strategy, and moves to the front of the Hollywood assembly line, by launching a bidding war for control of Viacom.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Hostile Takeover: The Sumner Redstone Story | A Taste of Medicine",
+                "description": "Sumner uses the weight of his growing media empire to try and acquire Paramount. But when his plans are thwarted by another buyer, Sumner - the man who took Viacom by force - finds himself on the defense.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Hostile Takeover: The Sumner Redstone Story | Legacy",
+                "description": "Sumner’s succession plans set him on a collision course with his own daughter, Shari Redstone.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Hostile Takeover: The Sumner Redstone Story | Author Keach Hagey Examines the King (and Queen) of Content",
+                "description": "Journalist and author Keach Hagey explores Sumner’s reign as the “King of Content”, and examines what his daughter Shari must do to survive the “Streaming Wars”.",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 13,
+            "title": "Warren Buffett’s Biggest Bet",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/ea/31/69/1d/ea31691d-bc1b-46fb-a1fa-19f608d3839e/8f01d84cd3b73fa9607a49094dc8e648a2daa3b8190c95c01ee220aeaab8660b8b833c4ed107cbde5bc2f5dca8804aaf7d0fe14e154b555dc1945612fb1e3502.jpeg",
+            "episodes": [
+              {
+                "title": "Warren Buffett’s Biggest Bet | The Salad Oil King",
+                "description": "In 1963, a New Jersey conman named Anthony “Tino” De Angelis pulls off “The Great Salad Oil Swindle”, one of the largest financial frauds in Wall Street’s history. De Angelis’ actions cause American Express stock to plummet and puts a young midwest investor named Warren Buffett in a position to make one of the most important deals of his career.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Warren Buffett’s Biggest Bet | The Golf Ball Thief",
+                "description": "Throughout his early life, Warren Buffett tries to strike a balance between being rational and reckless as he pursues his goal of “becoming a millionaire by the age of 35.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Warren Buffett’s Biggest Bet | Control",
+                "description": "Warren Buffett battles his partners, and conventional wisdom, to invest heavily in American Express. But to protect his investment, Warren will take a hands on approach and push the failing credit card company to change its ways.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Warren Buffett’s Biggest Bet | The Buffett Brand",
+                "description": "Warren Buffett battles Seabury Stanton for control of Berkshire Hathaway, a struggling textile company. Warren wins the battle, but finds himself saddled with a failing business that he can’t unload. In order to turn things around, Warren will have to transform Berkshire into an entirely different company.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Warren Buffett’s Biggest Bet | Author Robert Hagstrom Explores the Warren Buffett Way",
+                "description": "Robert Hagstrom, the Chief Investment Officer of EquityCompass, and the author of multiple Buffett books, explores the secret of the Warren Buffett Way.",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 14,
+            "title": "The HP Spying Scandal",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/26/26/95/ec/262695ec-538f-482a-bf1f-af7c270a3f58/744319d72b8fce2a872b52c034a6cc93ee52f07bee460e089c29a15968bd28a0b6d4d1b6be249fdac3ecc45a94455d160340bff4740d14aa000a9f060b1ea9e4.jpeg",
+            "episodes": [
+              {
+                "title": "The HP Spying Scandal | The HP Way",
+                "description": "When Hewlett-Packard chair Patricia Dunn begins a spy campaign to discover the source of an internal leak, she sets off a chain of events that will lead to a national scandal and criminal prosecution.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The HP Spying Scandal | Mayhem",
+                "description": "In the wake of Carly’s departure, Pattie’s hunt for a new CEO starts a war on HP’s board of directors.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The HP Spying Scandal | Natural Enemies",
+                "description": "A confidential disclosure to the media sparks panic within HP and renews Pattie’s desire to track down the mystery leaker. The unmasking leads to an explosive confrontation that will haunt Pattie, and taint her reputation, for the rest of her life.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The HP Spying Scandal | Spygate",
+                "description": "Pattie Dunn finds herself at the center of a media firestorm after HP’s spying scandal is revealed to the public.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The HP Spying Scandal | Author Chuck House Examines the HP Way",
+                "description": "Chuck House, a Hewlett-Packard veteran and author of “The HP Phenomenon,” examines the evolution of the company and its lauded HP Way.",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 15,
+            "title": "The King of Booze",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/e9/fc/dc/96/e9fcdc96-c71c-43a7-8a55-28d1a84cc396/82ba0e6ee1e204823126045c94e4e515d3251500359a93a50035d15598667c7bb850e5429f7cfbd9b82bd6293ebac2b4ffcc749dbc41b25d403234d5b166c8a9.jpeg",
+            "episodes": [
+              {
+                "title": "The King of Booze | Unspoken Rules",
+                "description": "In the early-20th Century, George Remus works his way from successful pharmacist to one of the most famous lawyers in Chicago. But greed, love, and Prohibition soon turn George’s sights to bootlegging, leading him into a world of opulence and violence.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The King of Booze | Rumrunner or Rockefeller?",
+                "description": "George begins to grow his bootlegging empire, gathering an army of loyal soldiers to protect his investments and crush his rivals.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The King of Booze | The Dream Palace",
+                "description": "George’s bootlegging operation reaches new heights as he strengthens his connections in Washington, DC. But a powerful enemy threatens to bring George’s business crashing down.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The King of Booze | Boats Against the Tide",
+                "description": "George Remus tries to keep his bootlegging operation up and running from behind bars with the help of his wife Imogene. But an unexpected betrayal soon destroys the bootlegger’s business and his marriage, setting George on a quest for revenge.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The King of Booze | Cultural Historian Bob Batchelor Breaks Down the King of Booze",
+                "description": "Cultural historian and author of The Bourbon King, Bob Batchelor explores the life and legacy of George Remus, examining the upbringing and culture that turned a poor German immigrant into America’s most successful bootlegger. ",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 16,
+            "title": "Southwest",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/67/bc/45/1a/67bc451a-888a-4a9d-8f39-d0d2719e6a56/7b93e4d83c30f1bf8326f5210832d5305cff7fff0b4e129cbe2651731973b2c72a4fdfcea3b7cb7074fea678fe98489d264b15c671e74767132053a40899e584.jpeg",
+            "episodes": [
+              {
+                "title": "Southwest | Preparing for Takeoff",
+                "description": "Grounded by lawsuits waged by its competitors, the newly-conceived Southwest Airlines struggles to stay in business in the 1960s. But the company’s co-founder, Herb Kelleher, refuses to give up on his mission to democratize air travel, vowing to fight for the airline’s right to fly and for freedom in the sky. ",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Southwest | The Warrior Spirit",
+                "description": "Herb Kelleher fends off rival airlines waging a brutal ground war against Southwest. But, soon two new foes grow determined to use the courts to drive the young airline out of its home. ",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Southwest | The Chairman of the Board",
+                "description": "After Lamar Muse departs Southwest Airlines, Herb Kelleher becomes chairman, and eventually CEO. But as Herb fights to expand Southwest, he finds himself up against congressmen, new competitors, and even his own pilots. ",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Southwest | Herbie the LUV Bug",
+                "description": "Herb oversees his airline’s largest period of growth to date. But as Southwest thrives, Herb has to battle new competition, the threat of government regulation, and federal law to secure his legacy at Southwest and protect the corporate culture he’s worked to build.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Southwest | Author Joe Guinto Reveals the Secrets to Southwest’s Success",
+                "description": "Writer, editor, and Southwest guru Joseph Guinto talks about the current state of Southwest, and the legacy Herb Kelleher left behind. ",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 17,
+            "title": "Taking Microsoft Into the Cloud",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/02/38/b9/c4/0238b9c4-3826-482c-bae2-5cc7eb92e1ec/25685cd3bbf965e01dfd615b9cd5859731d33a6ffbb4d2e1368672eabf6b684b2248ebbec2806f85e8e8a40491808225ef0ee884e3b829e57e329b7408062a9d.jpeg",
+            "episodes": [
+              {
+                "title": "Taking Microsoft Into the Cloud | Crossroads",
+                "description": "A young engineer carves his path to becoming Microsoft’s third CEO, determined to launch a technological and cultural revolution that will change the company and the world. ",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Taking Microsoft Into the Cloud | Warring Factions",
+                "description": "Satya leads the development of Bing, one of Microsoft’s first businesses born in the cloud. But, before he can turn his attention to the technology, Satya must face the internal conflicts and competitive culture that threaten to tear Microsoft apart. ",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Taking Microsoft Into the Cloud | The Evangelist",
+                "description": "Satya gets to work uniting Microsoft with a fresh vision, but internal resistance and a public blunder make it difficult for the new CEO to build the trust necessary for a true cultural renaissance.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Taking Microsoft Into the Cloud | Culture Eats Strategy",
+                "description": "As Satya prepares for some of Microsoft’s most ambitious launches yet, the CEO finds a new set of challenges and pressures waiting for him, both in and out of the office.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Taking Microsoft Into the Cloud | How Bill Gates Fumbled the Future of Microsoft",
+                "description": "Author David Bank delves deeper into the antitrust trial that sent Bill Gates falling from grace and nearly broke Microsoft apart. ",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 18,
+            "title": "Beating Rockefeller",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/20/13/0d/db/20130ddb-d5e2-4405-b9df-815652b52cf7/bba7c8c1ac22303e31c85652aa22caae85552078c6a5301975372410acf5c8c296a49b746cabce4360809065408efecdae43343433827667db0551c372db04d8.jpeg",
+            "episodes": [
+              {
+                "title": "Beating Rockefeller | God and Money",
+                "description": "In the 19th Century, J.D. Rockefeller's Standard Oil vanquishes the competition on its way to the top of the oil industry. Rockefeller is truly untouchable, until two rival competitors from overseas join forces and merge their companies to take him down.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Beating Rockefeller | He Sells Seashells",
+                "description": "John D. Rockefeller attempts to expand Standard Oil’s operations in Asia. But an English merchant, a Dutch oilman, and members of one of the wealthiest families in the world are ready to take on John and claim the Asian oil market for themselves.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Beating Rockefeller | The Most Hated Man in America",
+                "description": "The United States government and the public turn on John D. Rockefeller, leaving Standard Oil vulnerable to their biggest overseas competitors, Shell and Royal Dutch. ",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Beating Rockefeller | The Devil and John D. Rockefeller",
+                "description": "With the Supreme Court and Royal Dutch/Shell waging war on Standard Oil, John watches the company he’s spent his life building fall apart. But the break-up of Standard nets John more money than he’s ever had, and he spends much of the rest of his life trying to give it away. ",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Beating Rockefeller | How the Gilded Age Transformed American Capitalism",
+                "description": "Professor Greg Jackson, host of the podcast History That Doesn’t Suck, discusses the rise of business tycoons during America’s Gilded Age and the legacy of their reign over society. ",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 19,
+            "title": "Driving Chrysler Through Inflation",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/fe/7e/fb/05/fe7efb05-c095-4e55-9703-03750cdf6431/4881a641e9b1a183a970e18f00f0ea2691e42863ba3b3098f01d9177c280b706f1ddd727768b07332d6e383dfb6ccd0c6ca813f3b9c1df7942c4f41b24125434.jpeg",
+            "episodes": [
+              {
+                "title": "Driving Chrysler Through Inflation | A Ford Man",
+                "description": "During a time of rising inflation, Lee Iacocca rises through the ranks of the Ford Motor Company, eventually becoming its President. But reaching the top brings him into conflict with the erratic and jealous Chairman of the company, Henry Ford Junior.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Driving Chrysler Through Inflation | The Crash",
+                "description": "Lee Iacocca takes charge at Chrysler and finds a company on the brink of collapse. But his attempts to turn the automaker around are undermined by a new and unforeseen global economic crisis.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Driving Chrysler Through Inflation | The Bailout",
+                "description": "In the wake of the 1979 Oil Shock, Lee Iacocca goes to Washington to fight for a rescue package to keep his company alive. But getting the politicians to agree is only half the battle. To save Chrysler, Lee will also have to convince two very different constituencies: the unions and the banks.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Driving Chrysler Through Inflation | Payback",
+                "description": "In the face of stubbornly high inflation, Lee Iacocca launches a new product he hopes will transform the fortunes of the Chrysler Corporation. But when the launch doesn't go according to plan, Lee is forced to consider an alliance with an old enemy.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Driving Chrysler Through Inflation | Author David Bahnsen Takes on Mis-Inflation",
+                "description": "In this interview episode, economist and author David Bahnsen separates fact from fiction when it comes to one of the most pressing economic challenges of the day: inflation.",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 20,
+            "title": "Animating Pixar",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/25/5b/2a/60/255b2a60-55a4-497c-8153-2dc7ab14ee8b/4404eb18f98a1000e02a0ae01bbda41e69724306d82581f5bbf1562c0ec3e634f29abae1a4472c89ff8b3a42d5c7bb07a46ae13a9ee61a90868d7ddf32c1d8d2.jpeg",
+            "episodes": [
+              {
+                "title": "Animating Pixar | The Benefactor",
+                "description": "Ed Catmull’s dream is to make the first ever computer-animated movie. But in 1986, Ed’s world is turned upside down when tech icon Steve Jobs purchases the animation studio he helped create. As co-founder of Pixar, Ed must fight to protect the integrity of his work, and keep his dream alive.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Animating Pixar | The Unmade Future",
+                "description": "Pixar prepares to make history with the world’s first computer-animated movie. But the project quickly heads south as external interests and internal tensions turn Ed’s dream project into a nightmare.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          }
+        ],
+        "image": "https://content.production.cdn.art19.com/images/2e/ab/54/9a/2eab549a-c1c6-4674-a57a-8b85e67d405e/f3c68e8913738d8d31c3b97434e27ac44619b273972960ed9ba7b2b6da610f6cfdd30bd96f73d4418475b081b3cf0cdbddc49799f0b3d11d3d37c77e6b13529b.png",
+        "genres": [
+          "All",
+          "Business",
+          "Featured",
+          "History"
+        ],
+        "updated": "2022-11-03T07:01:00.000Z"
+      },
+
+      {
+        "id": "8188",
+        "title": "Little Stories Everywhere",
+        "description": "New episodes come out every Tuesday for free, with 1-week early access for Wondery+ Kids subscribers. A good story can take you anywhere. Every week Little Stories Everywhere will bring you magical, adventurous, fantastical tales to excite your imagination and carry you and your family members to new places around the world. Hosted by Oscar-nominated actor Virginia Madsen and celebrated voice actor Robbie Daymond, stories will include timeless classics as well as brand-new tales.",
+        "seasons": [
+          {
+            "season": 1,
+            "title": "Classic Christmas Tales",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/7c/42/30/0e/7c42300e-39be-4d8e-a375-11cdd37fab1d/7e25fee7e7b687860d427d307c70a06edf925fa0ac6616a6b79e883ccf4b865152e61821e9e5c7304ccb3ea175a4a3f42fef4317f9e4c46271403191d4ce5150.jpeg",
+            "episodes": [
+              {
+                "title": "A Merry Christmas - Part One",
+                "description": "A heart-warming chapter from Little Women. In part one, the four March sisters discover the meaning of charity just before Christmas. Written by Louisa May Alcott.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "A Merry Christmas - Part Two",
+                "description": "In part two, the March sisters perform a magical play and discover an enchanting surprise on Christmas day. Written by Louisa May Alcott.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Tilly's Christmas",
+                "description": "A tender-hearted girl rescues a small creature, and a mysterious neighbor rewards her on Christmas day. Written by Louisa May Alcott.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Butterflyflutterby & Flutterbybutterfly - Part One",
+                "description": "In part one, a charming uncle invents a fairytale for his niece and nephew, but in order to continue the story the children must remember tiny details. Written by William Dean Howells.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Butterflyflutterby & Flutterbybutterfly - Part Two",
+                "description": "In part two, the uncle spins an elaborate yarn that only the niece and nephew have the power to end or keep going, forever. What will they do? Written by William Dean Howells.",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Kate's Choice - Part One",
+                "description": "In England, a teenage girl named Kate is orphaned and sent to live in America. She must decide which of her American relatives to live with as her immediate family. Written by Louisa May Alcott.",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Kate's Choice - Part Two",
+                "description": "In part two, Kate throws a Christmas party and makes her choice, and her decision brings her extended American family closer. Written by Louisa May Alcott.",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Santa Claus and Little Billee - Part One",
+                "description": "In part one, a small boy finds himself lost in a toy department in New York City while shopping with his mother on Christmas Eve. When he searches for help, he meets Santa Claus. But it turns out Santa Claus needs help too. Written by John Kendrick Bangs.",
+                "episode": 8,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Santa Claus and Little Billee - Part Two",
+                "description": "In part two, Little Billee asks Santa for help finding his way home. As they go searching for Billee’s family, the boy learns about Santa’s mysterious past.  Written by John Kendrick Bangs.",
+                "episode": 9,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 2,
+            "title": "Season 2",
+            "image": "https://content.production.cdn.art19.com/images/1e/74/fd/d4/1e74fdd4-78cf-40db-96df-2132bce7e286/755571ea75f982304b013333c026987825fea82152a0fbbdbd0d3992d956bf7d8e2abf741d541321c5c5727ad84ca076141ae7348269d871d7bb253d8aaecfd7.jpeg",
+            "episodes": [
+              {
+                "title": "Game of Griffins - Part One",
+                "description": "Nine-year-old Bea wakes up one morning as a character inside her favorite television series for grown-ups, Game of Griffins. But there’s one problem: she missed a crucial episode! Now she has no idea where this adventure will take her.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Game of Griffins - Part Two",
+                "description": "In the second and final part of Game of Griffins, Bea and Philpott march toward the Volcano of Fear for a final showdown with the evil king. Bea must free the griffins, but there’s one problem: she still has no plan. ",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Adventures with Eli the Cat",
+                "description": "In an animal shelter, a curious cat named Eli dreams of being rescued from his purple cage. One day, after many long days, Eli finds a loving home but he still feels trapped. Eager to explore, Eli decides to let his curiosity lead the way.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Crazy for Hats!",
+                "description": "Caroline has six weeks to turn her passion into a career. As the streets of Paris buzz with excitement, the young girl embarks on a journey to become the city’s premier hat maker. Caroline wants her designs to sparkle as bright as the Eiffel Tower, but perfection takes time, and her mother has given her a strict deadline. How will she ever be able to save enough money to buy her own shop?",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "It'll Make You Happy!",
+                "description": "Parents can be embarrassing. No one knows this better than Sippy Brown. Her dad is an eccentric painter with a knack for the unconventional. But when he turns the family car into a canvas for his designs, Sippy's life is turned upside down. ",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Alfred and the Fairies of Iceland",
+                "description": "Alfred struggles to embrace his new life after moving from sunny California to Iceland. Everything feels strange, and he misses his friends. But when playing outside alone in the garden, Alfred stumbles upon magical fairies desperate for help. The fairies plot to save their endangered home –– and Alfred joins their quest.",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Wendell's Wonderful Worrisome Day",
+                "description": "Wendell takes the bus to school every day. He treats it like a ritual. But one day his rule-abiding driver leaves town and is replaced with a quirky farmer—Wendell buckles in for a bumpy ride that offers many surprises along the way. ",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "My Father’s Dragon - Part One",
+                "description": "In part one, an adventurous boy named Elmer Elevator runs away from home to rescue a captured baby dragon held on a mysterious and forbidden Island.",
+                "episode": 8,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "My Father’s Dragon - Part Two",
+                "description": "Elmer arrives on Wild Island but he must learn how to maneuver past its ferocious inhabitants in order to rescue the baby dragon.",
+                "episode": 9,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "My Father’s Dragon - Part Three",
+                "description": "Elmer musters up courage he didn't know he had as he tries to outwit his foes in a final mighty battle to free the baby dragon.",
+                "episode": 10,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 3,
+            "title": "Season 3",
+            "image": "https://content.production.cdn.art19.com/images/1e/74/fd/d4/1e74fdd4-78cf-40db-96df-2132bce7e286/755571ea75f982304b013333c026987825fea82152a0fbbdbd0d3992d956bf7d8e2abf741d541321c5c5727ad84ca076141ae7348269d871d7bb253d8aaecfd7.jpeg",
+            "episodes": [
+              {
+                "title": "Flyaway Baby",
+                "description": "Sebastian has had it with his baby brother Arnold. The crying, the fussing, the messes. He can’t take it anymore. Sebastian just wants him gone and to get his old family back. But Arnold is no ordinary baby and soon he’ll make Sebastian regret that he ever wished him away.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Lost on Mars - Part One",
+                "description": "Most kids would be upset when their parents tell them they’re moving, but not Gaia. Her family is on a mission to Mars, where she’s the first kid to ever to live on the red planet. The only problem is, it’s not quite the adventure she was promised. With the help of her robot friend, TwoBit, Gaia finds a way to take part in the exploration – even if it means defying her parent’s wishes.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Lost on Mars - Part Two",
+                "description": "In part two of “Lost on Mars,” Gaia is in a race against time to save her family and robot TwoBit from a botched scientific expedition. She needs to get everyone back to base camp safely, but things go wrong at every turn. Her parents are unconscious, TwoBit is broken down, oxygen levels are dwindling and the rover’s battery is dying. With time and options running out, will Gaia be able to save them all?",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Music Will Take You Places",
+                "description": "Moving hasn’t been easy on Chloe. She feels out of place in her new home and upset that her dad is always working. As a peace offering, Chloe’s dad gives her his treasured record player, hoping that she’ll find escape and comfort through music. What she discovers instead is so much more in this magical journey of sound and imagination.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Hamster With All The Answers",
+                "description": "Ralphie prefers to practice his moves on the basketball court over studying for his upcoming tests, and it shows. If Ralphie doesn't start to improve his grades, his parents plan to pull him away from shooting hoops. Before his next exam, Ralphie discovers an unexpected shortcut that offers him all of the right answers but is it too good to be true?",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Aunt Prue, Super Sleuth",
+                "description": "When sisters Angeline and Emma are forced to spend the summer with their Aunt Prue, the girls are certain they’re going to have a miserable time. When they realize that Prue and her pet chicken Mildred are detectives, the summer takes an exciting turn full of mystery, museums, and stolen diamonds - not to mention chocolate cake for dinner!",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Inconstant Moon",
+                "description": "It’s the first day of Ramadan and Nabeel is ready, for the first time, to tackle the entire month of fasting. Ever since his father left, Nabeel has been helping out with his little sister and today he’s even going to get to lead the prayer in his house. But the absence of his father leaves an emptiness in his house. Will he still get to spend Eid with his father like they used to?",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Portal in the Pond - Part One",
+                "description": "Aidan and Amelia are brother and sister and their Grandmother has told them the same mystical bedtime story about the portal in the pond, for years now - but now that Aidan is a little older he’s convinced it’s actually true! When he decides to follow Grandma into the forest on one of her walks, Aidan discovers there is much more to the story than Grandma ever told him.",
+                "episode": 8,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Portal in the Pond - Part Two",
+                "description": "On the other side of the magical pond, Aidan sets off to find his Grandmother. Along the way he meets wonderful new creatures and learns that he must help them defeat an evil king. Far more than a walk in the woods, this second part of the story is a heroic act of imagination for Aidan. ",
+                "episode": 9,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "How Felix Found His Moxie - Part One",
+                "description": "When Ten-year old Felix gets his first cell phone he quickly makes friends with Moxie, a virtual assistant application on his phone. After a lightning storm causes a power outage during a system update, Moxie and Felix wake up in a body swap: Moxie has taken over Felix’s body (and voice!), while Felix is stuck inside his phone. It’s all fun and games until Moxie realizes that she likes being a real, living person and decides she wants to stay in Felix’s body permanently. Will Felix be trapped in his phone forever while an AI runs his life?",
+                "episode": 10,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 4,
+            "title": "Season 4",
+            "image": "https://content.production.cdn.art19.com/images/1e/74/fd/d4/1e74fdd4-78cf-40db-96df-2132bce7e286/755571ea75f982304b013333c026987825fea82152a0fbbdbd0d3992d956bf7d8e2abf741d541321c5c5727ad84ca076141ae7348269d871d7bb253d8aaecfd7.jpeg",
+            "episodes": [
+              {
+                "title": "Camilla the Indoor Pigeon",
+                "description": "Camilla is a pigeon that lives in Central Park. There’s plenty to eat and lots to do in the middle of New York City, but what Camilla loves the most is peeking into the building windows to see all the exciting stuff humans are doing- and all the different apartments! One day while strolling through Grand Central Station, Camilla decides that she wants to be an indoor pigeon. Despite the disapproval and judgement of her friends and family, Camilla embarks on an exciting journey to find her perfect indoor home...away from cats.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Nessie Needs a Friend",
+                "description": "Nessie, the Loch Ness Monster, lives in the center of a beautiful lake. She spends all day playing hide and seek with people who come to visit her. Nessie was the best hider, possibly in the entire world - no one had ever caught her! She loves her daily game but hates when everyone leaves at the end of the day. She gets sad and scared because she’s all alone and hears spooky noises coming from the woods surrounding the lake. Nessie will have to learn how to be brave and trust her instincts to seek out what’s scaring her and no longer hide from it.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Nessie and Bigfoot: BFFs",
+                "description": "Now that Nessie and Bigfoot are Best Friends Forever, they play games for hours. But then they realize that their friend The Captain hasn’t returned since going for a walk in the woods. Together, they decide to summon the courage to search for the Captain even though they’ve been hearing a scary sound coming from the other side of the forest. Along the way, they use teamwork and bravery to try and find their friend. And they even make a few new creature friends along the way.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Cloud Hotel - Part One",
+                "description": "Max doesn’t like hotels. The beds are unfamiliar, he can always hear people talking in other rooms and they can never make his oatmeal right. But when his older sister Clara wins a trip to visit The Cloud Hotel, his Mom says he has to go with her. When they arrive Max learns this isn’t just any old hotel: it’s a magic one with surprises around every corner.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Cloud Hotel - Part Two",
+                "description": "Floating people! Fire eaters! His sister disappearing! Max didn’t expect any of this when he agreed to take this trip. And the only thing Max likes less than hotels are surprises! Before he can get a ride to get back home though, the hotel owner promises him there’s one more magic trick he’s going to want to see. It’s one that will change his life.",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Maceo Master Chef",
+                "description": "When Maceo Clark wins the Child Chef World Stage Competition, his dreams come true. He’s about to be the youngest chef ever to cook in the world renowned Tagine restaurant in New York CIty. But trouble starts when the Sous Chef, Gary, gets jealous that there’s a rising star in his kitchen. What will happen when one of the foremost food critics comes to try Maceo’s cooking? Will it be two thumbs UP or two thumbs DOWN? ",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Best American Robot - Part One",
+                "description": "Vicky’s dad won’t let her watch her favorite tv show, Best American Robot until all the dishes are done. So she comes up with a plan that will let her watch tv whenever she wants: she’s going to turn their whole house into one giant robot that will do all of her chores! But when Vicky creates a robot that’s just a little too smart...things start to get out of hand. ",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Best American Robot - Part Two",
+                "description": "When Vicky’s new robot starts to take over their lives she knows she has to do something about it - and fast. She’s entered her machine into the Best American Robot Juniors competition and they want to see it in action. Will Vicky be able to repair the ‘bot or will she have to dismantle her greatest invention ever?",
+                "episode": 8,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Under the Water",
+                "description": "A father and daughter go fishing on the banks of the Mississippi and when they return home, the daughter has changed. Part myth and part mythology, this children’s story brings to light the importance of heritage, the mystery of lineage and the beauty of intergenerational communication.",
+                "episode": 9,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Herman & Petunia",
+                "description": "Carl and Ruby are twins. They do everything together, for better or for worse. When the duo misbehaves, their mother says that it’s like they turn into different children. She calls these alter-egos “Herman and Petunia.” One summer day, when the siblings are home alone, they find two children, who look exactly like them, making an enormous mess in the kitchen. The strange, uninvited guests have no manners and exhibit bad behavior. Surely, mom would disapprove. What ensues is a mad chase throughout the day for Carl and Ruby to try and contain these two bizarro versions of themselves.",
+                "episode": 10,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 5,
+            "title": "Season 5",
+            "image": "https://content.production.cdn.art19.com/images/1e/74/fd/d4/1e74fdd4-78cf-40db-96df-2132bce7e286/755571ea75f982304b013333c026987825fea82152a0fbbdbd0d3992d956bf7d8e2abf741d541321c5c5727ad84ca076141ae7348269d871d7bb253d8aaecfd7.jpeg",
+            "episodes": [
+              {
+                "title": "The Onion Who Made Everyone Cry",
+                "description": "Onion is a sweet, kind soul, who’d love more than anything to fit in and have friends in the garden. But his strong scent makes it impossible for others to be around him without bursting into tears! But all that’s about to change, when the onion enters the garden talent show to finally prove to everyone what he’s made of...",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Brave Adventures of Luka the Lamb",
+                "description": "Luka the Lamb is tired of his life in the pasture. He needs some adventure. So he sets out on his own to explore the amazing Mexican wilderness. But little Luka ends up getting much more adventure than he bargained for: wild animals, amazing people and a load of life lessons.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Encore: Music will Take you Places",
+                "description": "Moving hasn’t been easy on Chloe. She feels out of place in her new home and upset that her dad is always working. As a peace offering, Chloe’s dad gives her his treasured record player, hoping that she’ll find escape and comfort through music. What she discovers instead is so much more in this magical journey of sound and imagination.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Miles and his Extraordinary Ordinary Dog",
+                "description": "Miles doesn’t have much time for other kids. So that’s why his parents decided to get him… a dog! Ben would much rather read quietly in his room than play fetch with a smelly animal. But it won’t be long before this dog shows Miles that you can’t just be a dog by its pawprints!",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Playground Warriors",
+                "description": "Edward is the leader of all battle reenactment adventures in the playground. An enigmatic monitor to the toddlers, Edward helps out during breaktime to transform these toddlers into Lil’ Warriors, who partake in playground battles of epic proportions. But when playtime is threatened by the mighty Napp, will the disbanded rogues accept defeat, or will Edward manage to salvage their cherished playtime?",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Ghost-Cat of Haunted Hollow",
+                "description": "Andrew is a ghost-cat. Naturally, everyone in the superstitious town of Haunted Hollow stays away from him. They think ghost-cats are scary, unlucky, and bad. Andrew, however, just wants a family to haunt… and love. Join us on a spooky adventure as Andrew searches for the purrrfect home, and find out what happens when he meets Wanda the Witch of Haunted Hollow Forest!",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Zoe the Comedy Zombie",
+                "description": "Zoey is one of the funniest people out there, but it’s hard to have a career as a comedian when you’re also a zombie. Zoey does everything in her power to hide the fact that she’s a zombie while she performs, but it starts to get more and more difficult as she gets more and more famous. How do you stop your arm falling off mid-punchline? Find out in this spooky halloween tale. ",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Conchas Contigo (Day of the Dead)",
+                "description": "At the end of the Day of the Dead celebrations, Suzanna sneaks into the living room for a late-night snack. But before she can tip-toe back to her room, she’s caught by her Ancestor who’s back from the dead and hungry for the missing conchas! Follow Suzanna and her great-grandmother on an adventure to find the best conchas in town! And find out why Dia de los Muertos can be the most spectacular holiday of the year…",
+                "episode": 8,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Grandpa Gopi’s Magic Medicine",
+                "description": "Twins Ayush and Shalu are excited to celebrate the first day of Diwali, which honors Dhanvantri, the god of Indian medicine… but they can’t stop fighting! When they dare each other to taste the strange liquid from a peacock-shaped beaker, they are suddenly transported to an ancient village, filled with potion cures for jealousy, anger, cruelty and spite. How will they decide which cure to take home? And what will Grandpa Gopi say when he realizes what they’ve been up to?!",
+                "episode": 9,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Bina the Bouncy Elephant Ballerina",
+                "description": "Bina is a bouncy baby elephant with a spring in her step and a stomp in her heart. She’s late for everything, constantly forgetting things, and almost always misses her pottery classes, because she loves to sleep in! But when her herd embarks on a 300-mile trek through the Okavango Delta, she’ll discover how to survive in the wilderness, how to become a leader, and most importantly, why her name means “dance” in Sotho!",
+                "episode": 10,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 6,
+            "title": "Season 6",
+            "image": "https://content.production.cdn.art19.com/images/1e/74/fd/d4/1e74fdd4-78cf-40db-96df-2132bce7e286/755571ea75f982304b013333c026987825fea82152a0fbbdbd0d3992d956bf7d8e2abf741d541321c5c5727ad84ca076141ae7348269d871d7bb253d8aaecfd7.jpeg",
+            "episodes": [
+              {
+                "title": "The Tallest Christmas Tree in New York",
+                "description": "Penelope and her mom select a small Christmas tree from a sidewalk seller for their tiny apartment in Manhattan. But when they get it home, the tree starts to magically grow... Penelope gets to know her upstairs neighbors as the tree bursts through into the apartments above, until eventually, everyone is celebrating their different winter holidays together!",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Santa and the Magic Cookies",
+                "description": "Alison wants to make special Christmas cookies for Santa this year. She decides to make some delicious gingerbread cookies, all by herself. But when she takes them out of the oven: THEY COME ALIVE! And now they are determined to escape in the most elaborate of ways. How will Alison get the cookies back in time for Santa’s Christmas Eve visit? Find out... or eat crumbs!",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Great Escape at the North Pole",
+                "description": "Ren is a disaster on the drums. He’s worried about embarrassing himself at his winter concert, and wishes he could escape the holiday season. His wish backfires and lands him in The North Pole! To rediscover the magic of Christmas, Ren will need to find his courage, and discover the Christmas sparkle within!",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Blast the Shy Firework",
+                "description": "Blast comes from a long line of lively, confident fireworks. But unlike them, he’s actually pretty shy. Exploding in the sky in a whirlwind of colors isn’t as easy as it looks! But when Blast meets Bowie, an equally shy skywriting plane, the pair decide to team up, overcome their fears and create the most spectacular sky show of all time!",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Time-Traveling Goats: Snack to the Future",
+                "description": "When Barbara and Danny discover a time machine, they do what any pair of curious and hungry goats would do - they travel through time looking for snacks! But after rescuing a dinosaur egg and bringing it back to their farm, they soon realize that even the cutest dinosaur can make a BIG mess...",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Robo and Pop-Pop’s Guide to Human Friendship",
+                "description": "Robo, an optimistic robot, wants to become friends with real human kids. Together with his trusted pet, Pop-Pop, a talking toy car, they go on a journey to eat some burgers, blend some milkshakes, and see if they can make a real human friend!",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Animal Crackers Gone Wild",
+                "description": "Lion, Bear, Turtle, and Monkey are not your everyday wild animals… because they’re animal crackers! And to follow their dreams, they just need to escape from the top shelf of a bodega. However, standing in their way is one intimidating Bodega Cat... who, as it turns out, might not be so different from them after all!",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Stanley the Seal's Surf School",
+                "description": "Jake is sick of chickening out on surfing. One morning, he charges into the ocean. When things don’t go as planned, he’s rescued by Stanley, a magical seal with a secret underwater surf school. Will Stanley’s unique teaching methods give Jake enough confidence to surf in front of his brother? Dive in and find out!",
+                "episode": 8,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "How to Dance with a Tasmanian Devil",
+                "description": "Mia the Tasmanian Devil is grumpy, hairy, and stinky. But despite all that, she’s on a mission to change the way the world sees Tasmanian Devils. Together with her friend Keiko, she’ll enter a beauty pageant and star in a dance contest… and she’s gonna do it Tasmanian Devil style!",
+                "episode": 9,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Valentine’s Day Stinks: Superhero Edition!",
+                "description": "Valentine is a supervillain born on Valentine’s Day… and he absolutely hates it. Each year on his birthday, everyone talks about love and everything is pink. Yuck! This year, he plans to destroy Valentine’s Day, but that all changes when a new evil mastermind comes to town.",
+                "episode": 10,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 7,
+            "title": "Season 7",
+            "image": "https://content.production.cdn.art19.com/images/1e/74/fd/d4/1e74fdd4-78cf-40db-96df-2132bce7e286/755571ea75f982304b013333c026987825fea82152a0fbbdbd0d3992d956bf7d8e2abf741d541321c5c5727ad84ca076141ae7348269d871d7bb253d8aaecfd7.jpeg",
+            "episodes": [
+              {
+                "title": "How Potato Gorgonzola Got Her Name",
+                "description": "Potato Gorgonzola doesn't understand her funny-sounding name. And other kids think it's weird! But when Potato's parents sit her down and tell the mind-blowing story behind her name, Potato Gorgonzola wants to share it with the world!",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Mr. Singh and the Night Statues",
+                "description": "Mr. Singh is a lonely statue who spots a shooting star, and gets the chance to make a wish. When he comes to life one night, he discovers the quirky members of “The Society of Statues.” Later he meets Miss Peaches, the loneliest cat statue in the world. Will the statues be able to keep their friendship alive once the sun rises?",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Eddie and The Spaghetti Yeti",
+                "description": "Eddie is a very picky eater and there’s only one thing he likes – spaghetti! Today is his favorite day of school, Pasta Day, but when lunch is canceled after all the ingredients go missing, Eddie is determined to track down the mysterious culprit and put pasta back on the menu!",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Mark the Unicorn",
+                "description": "Mark was a unicorn unlike any other in Cloudtopia. Mark didn’t have a horn. Because of this, Mark was totally friendless and often the subject of bullying by the most popular unicorn in school, Sprinkle. One regular day, a very un-regular thing happens that changes Mark and Sprinkle’s relationship forever…",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "What Does Your Dad Do?",
+                "description": "Amelia is cool. Her dad… is not. He works in the sewers, which is totally embarrassing and gross. When her dad hears her lying to her friends about his job, he takes her on a sewer adventure. Maybe her dad is a little cooler than she first thought…",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Case of the Missing Chocolate Bunny!",
+                "description": "Every year Mr. Bunny throws his annual Easter egg hunt. But this year, things don't go according to plan. In the middle of his party, Mr. Bunny discovers his grand prize, a delicious chocolate bunny wrapped in beautiful gold foil, has been stolen! Which one of his guests could have taken it? Was it Mrs. White Whale? Or Mr. Green Iguana? Maybe it was Mrs. Peacock! It's up to Mr. Bunny to investigate. Can he solve the case of the missing chocolate bunny?",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Javi's Imaginary Adventures",
+                "description": "Javi is a kid with a WILD imagination that has been getting him into some trouble. Inspired by his exciting clothing, Javi’s mind takes him to places that no one else can see. But with a little guidance and some paint brushes, he’ll learn just how wonderful his imagination is when channeled the right way!",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Ramona the Bowling Ball",
+                "description": "Ramona the Bowling Ball is pretty good at her job, sailing down the lanes and knocking all those pins over. But she’s curious and wants to see the rest of the world, so she hops the rails and sails out the door, eager to see the city. It’s fun at first, but as night falls, Ramona’s on a race against time to return to the bowling alley before closing time, or else she’ll be trapped outside forever!",
+                "episode": 8,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Erin and the Extraterrestrials",
+                "description": "Everything about Erin's life is out-of-this-world. She lives near a swamp, her dad's name is The Swordfish King, and she's got a UFO-building workshop in her bedroom. Erin just needs to see a real UFO up-close... and her life would be complete!",
+                "episode": 9,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Space Adventures: Pluto's Big Problem",
+                "description": "All her life, Pluto has been a planet. Until suddenly, she’s not. But then...what IS she? The cutest little gumball in the galaxy sets off to find out! Outer space is full of interesting characters, and one of them has to have the answer she's looking for…",
+                "episode": 10,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 8,
+            "title": "Season 8",
+            "image": "https://content.production.cdn.art19.com/images/1e/74/fd/d4/1e74fdd4-78cf-40db-96df-2132bce7e286/755571ea75f982304b013333c026987825fea82152a0fbbdbd0d3992d956bf7d8e2abf741d541321c5c5727ad84ca076141ae7348269d871d7bb253d8aaecfd7.jpeg",
+            "episodes": [
+              {
+                "title": "My Sister… the Shapeshifter!",
+                "description": "One afternoon while Mateo Delgado is playing piano, he looks out the window to see his sister leaving for soccer practice. But is that really where she’s going? Because she just transformed into a 6-foot LIZARD WARRIOR! Eager to learn more about his sister’s secret life as a shapeshifter, Mateo investigates…",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Opi’s Magical Sleepover Club",
+                "description": "Tonight is the sleepover Opi has been waiting for. She brings her stuffed Whale and Giraffe along for the ride. But when darkness kicks in, and the bathroom is far, far away, Opi is going to need a little magic to help her through…",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Fourth of July Spy Heist!",
+                "description": "Briggs the Bald Eagle is the world's greatest treasure hunter. And this Fourth of July, he's planning his ultimate heist: to obtain George Washington's wig. With the help of his trusty sidekick, Trixie the Turkey, can Briggs pull off his biggest score yet? Or will he discover he's in over his head?",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Rocco vs. the Socktopus",
+                "description": "It’s springtime and Rocco must finish his spring cleaning before he can play outside. But when he discovers that none of his socks have a matching pair, Rocco sets out on an epic adventure, only to find his missing socks guarded by the mighty Socktopus…",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Ghostly Tales: The Haunting of Frostworth Lane",
+                "description": "Aisling the ghost girl is lonely. She’s tired of haunting the empty house at 15 Frostworth Lane. Every time somebody moves in, Arlogg — the house’s other ghost — scares them away. So when a new family moves in, Aisling will do anything to make them stay…",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Pepperoni Grand Prix",
+                "description": "Drag Race Day is Kwame’s favorite day – but he’s stuck with his mom working in her food truck. That is, until she takes him to an underground food truck rally! With a tricked out truck of high-tech gadgets, Kwame straps in for the ride of his life.",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Space Adventures: The Lost Pet",
+                "description": "Most asteroids love school. But Nelly isn’t most asteroids. When her first day gets off to a rocky start, she heads out on an adventure across the galaxy to set things right… and try not to get sucked into a black hole!",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Ice-Cream Investigation",
+                "description": "Melody is an aspiring investigative journalist — and an ice cream enthusiast. Good thing her mom works at the Sweet Tooth Ice Cream Factory! When her mom won’t take her to work for the secret flavor reveal, Melody takes matters into her own hands. Will she uncover the new flavor, or get caught sticky-handed?",
+                "episode": 8,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Mind-Melting Kingdom of Heavy Metal",
+                "description": "Cyrus loves playing classical guitar and taking lessons from his eccentric teacher, Raeya. But when Raeya goes missing, Cyrus’s search transports him to a land ruled by heavy metal music, where he’ll battle the evil troll Gremulon… and shred his socks off!",
+                "episode": 9,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Pembi the Night Hippo",
+                "description": "Pembi the hippo loves exploring the jungle at night. But when she gets caught in a poacher’s trap, she is forced to face the daylight. How will Pembi escape? Join us on the tiny Tiwai Island in Sierra Leone to discover the hidden creatures of the night!",
+                "episode": 10,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 9,
+            "title": "Season 9",
+            "image": "https://content.production.cdn.art19.com/images/1e/74/fd/d4/1e74fdd4-78cf-40db-96df-2132bce7e286/755571ea75f982304b013333c026987825fea82152a0fbbdbd0d3992d956bf7d8e2abf741d541321c5c5727ad84ca076141ae7348269d871d7bb253d8aaecfd7.jpeg",
+            "episodes": [
+              {
+                "title": "Daniela Vega reads… The Mystery of the Red Phoenix",
+                "description": "Daniela Vega, star of the Oscar-winning film “A Fantastic Woman,” tells the story of a Spanish girl whose family trip to Argentina turns into a mystical adventure. When Javiera is magically transported to the mountains of Patagonia, the only way to escape is with the help of furry, feathery and fabulous friends along the way!",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Oscar Nuñez reads… The Magic Zapatos",
+                "description": "“The Office” star Oscar Nuñez tells the story of Ana, a girl who’s terrified to perform at her upcoming dance recital — until her mom gives her a pair of enchanted shoes. The zapatos magicos take Ana on an amazing adventure that just might help her overcome her stage fright!",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Shawn Smitty and the Lost City",
+                "description": "It’s Shawn Smitty’s birthday and he is NOT in the mood to celebrate. But when he and his best friends discover a treasure map in the backyard, the birthday boy is determined to find the Lost City and finally become a real explorer!",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Most Boring Story You’ve Ever Heard",
+                "description": "*Listen to the end for a special Robbie Daymond surprise!* Olivia the Brown Bear is the most boring teenager in the entire forest. So boring, in fact, that her stories put people to sleep almost immediately! If you’re ready for a challenge, try listening to this entire story without falling asleep…",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "My Cousin Got STUCK… in a Video Game!",
+                "description": "Carlos and Sofia hate sharing their favorite video game, Lucha-Mania. However, on a dark and stormy night, lightning strikes and the kids are zapped into the game! Now transformed into masked luchadors, these bickering siblings will need to form a tag team and defeat the game’s final boss: El Gigante!",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Space Adventures: Cat Pirates… in Space!",
+                "description": "Captain Claws flies through space with his crew of pirate cats. From their spaceship, The Whisker's Revenge, the crew hunts out the tastiest cat treats in the galaxy. There’s just one problem on this voyage: an alien stowaway!",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Curse of the Halloween Candy",
+                "description": "Halloween means scary stories, candy, and sometimes… scary stories ABOUT candy! Join three pieces of candy on Halloween night as they try to avoid being eaten and give each other a fright, with tales from their haunted pasts!",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Ghostly Tales: My Secret Ghost Garden",
+                "description": "Delilah has the most beautiful ghost garden in the whole ghost world. But there’s a mischievous doggy in her haunted neighborhood, and it loves nothing more than to smash up all her flowers! One night, Delilah decides to follow the dog... and discovers the REAL secret behind his antics.",
+                "episode": 8,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Ketchup Challenge",
+                "description": "Welcome to America’s Next Top Condiment, the chaotic game show where the best sauces of Sauceville compete for the top spot. Ketchup is the competition's youngest ever entrant - does he have what it takes to beat Mustard, Mayo… and BBQ?!",
+                "episode": 9,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Princess of Honey Creek Falls",
+                "description": "When Leighaheleke is asked to create a family tree at school, it’s just another reminder that, unlike her best friend Cherry, she has barely any family at all. But when she takes an enchanted adventure through her Native American reservation, she gets a peek into her ancestral past — and generations of secrets are revealed!",
+                "episode": 10,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          }
+        ],
+        "image": "https://content.production.cdn.art19.com/images/1e/74/fd/d4/1e74fdd4-78cf-40db-96df-2132bce7e286/764385bb44ec1e4982cc6354e6c9ab721791b8fb24abe2ce209551ec4d33279182f249812d1ceb8efbedbe1f37b745c5d06f98ae5649e7c0c7cb0657ce0e5f05.png",
+        "genres": [
+          "All",
+          "Featured",
+          "Fiction",
+          "Kids and Family"
+        ],
+        "updated": "2022-11-01T07:01:00.000Z"
+      },
+
+      {
+        "id": "5964",
+        "title": "Man In The Window: The Golden State Killer",
+        "description": "In Man in the Window, Paige St. John, a Pulitzer Prize winning investigative reporter has uncovered never before revealed details about the man who would eventually become one of California's most deadly serial killers. From Wondery and the L.A. Times comes a new series that traces his path of devastation through his victims' eyes.",
+        "seasons": [
+          {
+            "season": 1,
+            "title": "Season 1",
+            "image": "https://content.production.cdn.art19.com/images/36/7d/69/27/367d6927-ff27-4a36-8140-c1a1af61886f/20646864b49d4c9b5e14a615ae7430ce3b71bbeca8039d12ecb0f95b6116d99197c864cd6071451713b7df9b66abae6cb788a63162846f88331aa6a5b194f844.jpeg",
+            "episodes": [
+              {
+                "title": "Phantom in the Fog",
+                "description": "Episode 1: A series of brutal dog killings in a small town in California is just the prelude to coming danger, and violence.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Victim Number One",
+                "description": "Episode 2: Police start to suspect there is a new serial rapist at large. They trace the attacks back to a small, one-story yellow house in Rancho Cordova.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Price of Silence",
+                "description": "Episode 3: A teenage girl sits down to play piano and is surprised by an intruder. As victims seek help, they find that the law and society are not always on their side.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Someone Else’s Problem",
+                "description": "Episode 4: Police believe they’ve identified the suspect. Then he ends up dead on a beach.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Bonnie and Joe",
+                "description": "Episode 5: Bonnie’s new boyfriend seems to take pleasure in scaring her. She decides not to marry him, and he turns on her. ",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "DNA Resurrection",
+                "description": "Episode 6: Even after technology can finally bring answers, precious evidence is headed to the trash bin. A surprising arrest brings back victims’ nightmares.",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Language of Rape",
+                "description": "Episode 7: Paige St. John sits down with fellow journalist Laura Beil to discuss why victims, police and the media struggle with how to talk about rape.",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Missing",
+                "description": "Episode 8: A group of victims finally break their silence. It begins with an early morning phone call.",
+                "episode": 8,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Many Faces of Joseph DeAngelo",
+                "description": "Police interrogators can’t pry answers from Joseph DeAngelo but hear him whispering when left alone. Is it all just an act? What is the true face of Joseph DeAngelo?",
+                "episode": 9,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Evil",
+                "description": "In court, Joseph DeAngelo looks like a broken shell of a man. The prosecution seeks to reveal a different man, one trying to manipulate the courts.. An explosive video shows what really happened in the interrogation room.",
+                "episode": 10,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          }
+        ],
+        "image": "https://content.production.cdn.art19.com/images/36/7d/69/27/367d6927-ff27-4a36-8140-c1a1af61886f/f3ca0ed80f92c424c2c833c880fe41a5a7791898fc61f1fd84e0cfb2c347ccf70d1fd11f0daa65d93ca86295cac86297eb6d8794968759934d4a2c6b7fbb11c3.jpeg",
+        "genres": [
+          "All",
+          "History",
+          "True Crime and Investigative Journalism"
+        ],
+        "updated": "2020-12-22T08:00:00.000Z"
+      },
+
+      {
+        "id": "9041",
+        "title": "Whose Amazing Life?",
+        "description": "You venture deep into the jungle to solve its greatest mysteries. You gaze at Earth from the surface of the moon. You write music that has the whole world humming along. WHOSE AMAZING LIFE? is the new series from the creators of Little Stories Everywhere and Adventures of Cairo. Walk in the shoes of the world’s most inspiring people, from Amelia Earhart to Lin-Manuel Miranda to Ariana Grande. Experience the challenges and triumphs they faced on their journeys — before everyone on the planet knew their names. Listen closely for clues, because we won’t reveal who the person is until the very end of each episode! Each week brings a new adventure where listeners of all ages can immerse themselves in the life of someone amazing. New episodes come out every Friday for free, with 1-week early access for Wondery+ Kids subscribers.",
+        "seasons": [
+          {
+            "season": 1,
+            "title": "Season 1",
+            "image": "https://content.production.cdn.art19.com/images/d3/74/3c/3f/d3743c3f-df43-43a6-8c6b-6e36c486b9af/3df851f9903d4112dfab28871c9c5cc6a1f90f7a4f36f2d14c5c3c173521ca30433661809dee3df677d160d5cb3dce7f1ea6391856253dcc36e9877fc546f657.jpeg",
+            "episodes": [
+              {
+                "title": "The Adventurer",
+                "description": "You long to go to Africa and have adventures like Tarzan. But everyone tells you girls aren’t supposed to do things like that. You’ll just have to prove them wrong. ",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Dancer",
+                "description": "You may be young, and small for your age. And you feel like no one takes you seriously—especially not your big sister. But that’s not going to stop you from becoming one of the greatest performers in the world. ",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Champion",
+                "description": "You’re passionate about the law, but in the 1960s and 1970s, the men around you don’t think women belong in a courtroom. But you’ll overcome sexism to show them that women belong wherever decisions are being made, and make a compelling case why gender inequality is wrong. ",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Songwriter",
+                "description": "You're a high school misfit with the wrong hair and wrong clothes. You feel like you'll never find anything you're good at, or anyone you can relate to. Then, you discover hip hop, and find a home in the theater. You’re determined to be a star on Broadway.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Speaker",
+                "description": "You have plenty of things to say. You just have trouble saying them. The letter “R” is your mortal enemy! But one day, your words are going to make people stand up and cheer.",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Astronaut",
+                "description": "You're used to relying on yourself to succeed in a man’s world — and you’ve proved yourself everywhere from the tennis court to Stanford University. But in the 1970s, there’s still one place no woman has gone before: outer space. ",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Activist",
+                "description": "You see the world differently from anyone else you know. Other kids confuse you — their games, their noise, even their facial expressions.",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 2,
+            "title": "Season 2",
+            "image": "https://content.production.cdn.art19.com/images/d3/74/3c/3f/d3743c3f-df43-43a6-8c6b-6e36c486b9af/3df851f9903d4112dfab28871c9c5cc6a1f90f7a4f36f2d14c5c3c173521ca30433661809dee3df677d160d5cb3dce7f1ea6391856253dcc36e9877fc546f657.jpeg",
+            "episodes": [
+              {
+                "title": "The Racer",
+                "description": "Life moves slow in your sleepy little hometown. You long to escape to someplace else, where life is fast, exciting, maybe even a little dangerous. ",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Kid",
+                "description": "You’ve always been wiser than your years, but not everyone is ready to let you grow up. You’d rather be watching scary movies than playing dress-up. ",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Hero",
+                "description": "You love asking questions wherever you go, especially “why.” Why is the world the way that it is? Why doesn’t everyone get along? Why can’t we all just be better people? ",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Thrill Seeker",
+                "description": "You like to test your limits and live life on the edge. That doesn’t always sit well with your mom, who just wants you to be safe and to keep your feet firmly planted on the ground.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Genius",
+                "description": "You dream of traveling through space and exploring the vast reaches of the solar system. Because in space, you don’t have to explain yourself. You get to explore the questions you want to ask. ",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Gymnast",
+                "description": "You’re always on the move. Not just moving from town to town — with your siblings and your foster parents — but moving your feet, your arms, and your hands. You love to feel your body in motion. But the way that you move isn’t always understood by grown-ups who think they know better.",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Planner",
+                "description": "You can’t help but dream about the big houses in the fancy neighborhood in your town. One day, that could be you. It’ll take hard work, focus, and a clear plan for how to accomplish your goals.",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 3,
+            "title": "Season 3",
+            "image": "https://content.production.cdn.art19.com/images/d3/74/3c/3f/d3743c3f-df43-43a6-8c6b-6e36c486b9af/3df851f9903d4112dfab28871c9c5cc6a1f90f7a4f36f2d14c5c3c173521ca30433661809dee3df677d160d5cb3dce7f1ea6391856253dcc36e9877fc546f657.jpeg",
+            "episodes": [
+              {
+                "title": "The Scribbler",
+                "description": "Ninth grade isn’t going as smoothly as you’d hoped. Your friendships are in turmoil and your crush barely knows you exist! But when you pour your feelings into a notebook, there's something about your words that makes magic.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Explorer",
+                "description": "Life on land won't cut it: You're determined to discover the underwater mysteries of the ocean. And when the technology you need doesn't already exist, you'll just have to invent it yourself.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Twin",
+                "description": "There's nothing better than being out on the soccer field with your twin sister. But when you receive the biggest opportunity of your life, stepping into the spotlight will have to be a solo adventure.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Reader",
+                "description": "You and your dad have never seen eye-to-eye. He's set in his ways, and he just doesn't \"get\" you. But with support from your mom and stepmom, you'll combine your super-smart brain with your compassionate heart to transform the world as we know it.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Teammate",
+                "description": "As a kid growing up without much money, you’ve always had to fend for yourself. But when your basketball skills make you a budding superstar, you have to decide whether the game is all about you — or all about family.",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Learner",
+                "description": "You’re an A-plus student, but leaders in your country want to make it illegal for girls to go to school. In order to make things right, you’ll have to go undercover with a secret online identity. ",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Connector",
+                "description": "You have endless thoughts and opinions, but it feels like nobody understands them. You communicate differently from most other people. But you're determined to connect with the world, and nobody's going to stop you.",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 4,
+            "title": "Season 4",
+            "image": "https://content.production.cdn.art19.com/images/d3/74/3c/3f/d3743c3f-df43-43a6-8c6b-6e36c486b9af/3df851f9903d4112dfab28871c9c5cc6a1f90f7a4f36f2d14c5c3c173521ca30433661809dee3df677d160d5cb3dce7f1ea6391856253dcc36e9877fc546f657.jpeg",
+            "episodes": [
+              {
+                "title": "The Dreamer",
+                "description": "You love drawing cartoons, and you're pretty sure the whole world would love them too — if Hollywood would just take you seriously. It's going to take more than just talent to make your dreams come true. ",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Band Nerd",
+                "description": "No doubt about it, you’re a band geek… and proud of it! Playing in the school marching band may not be popular, but little do your classmates know that you and your flute are destined for superstardom.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Marcher",
+                "description": "Life isn’t always fair, and you know that. But you’re tired of seeing people with less money get treated with less respect. You’re determined to fight back — and make things better for everyone.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Rebel",
+                "description": "Narrated by Netflix star Paola Nuñez! You and your mom couldn't be more different. She has strong opinions about how girls should spend their time... and you defy all of those expectations. With support from your dad, your friends, and an unexpected role model, you prove that no matter the obstacle, you're going to live YOUR way.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Pilot",
+                "description": "When you stare up at the sky, you see more than clouds and stars. You see new boundaries waiting to be broken. With focus, training, and a spirit of innovation, you take flight in ways nobody ever has before.",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Debater",
+                "description": "You've poured your heart and soul into drama club, but have never been tapped for a starring role. That's why, when you join the debate team, you make a promise to yourself: You're going to take center stage — and prove beyond a doubt that you deserve to be there.",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Hothead",
+                "description": "You tower over everyone else in school — even the teachers — and your attitude is just as big. Controlling your temper is an everyday battle. The football field is a good place to let out your aggression, but deep down, you know there's somewhere else you really belong.",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Storyteller",
+                "description": "Living on a farm is tough for you and your sisters. Luckily, you have a powerful imagination, and your stories bring joy to everyone around you. Maybe your gift for storytelling can be your ticket to the freedom you’ve always dreamed of.",
+                "episode": 8,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Small-Town Girl",
+                "description": "You're an incredible dancer, but your tiny hometown isn't exactly bursting with opportunities to see your name in lights. Is it possible to become a star... while still staying true to your roots? ",
+                "episode": 9,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Winner",
+                "description": "Narrated by Amber Ruffin (Late Night with Seth Meyers, The Amber Ruffin Show)! Your dream is to become the greatest tennis player in the world. But when you make that dream a reality, you realize that there’s still something missing in life — and you’re gonna figure out what it is.",
+                "episode": 10,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          }
+        ],
+        "image": "https://content.production.cdn.art19.com/images/d3/74/3c/3f/d3743c3f-df43-43a6-8c6b-6e36c486b9af/39ef2629bfa59d1345100c7bb7d43246c4c87f88daf74039c2e0ade35ed14acf3a861362b857a08940408f9d12179f2e4cd7bf31ddc3912442499fe35a0115de.png",
+        "updated": "2022-10-28T07:01:00.000Z"
+      },
+
+      {
+        "id": "5702",
+        "title": "Imagined Life",
+        "description": "What is it like to be famous before you’re famous? What is it like to walk in the shoes of another person? Each episode of Imagined Life takes you on an immersive journey into the life of a world-famous person. It’ll be someone you may think you know, even admire -- or maybe the opposite. You’ll get clues to your identity along the way. But only in the final moments will you find out who “you” really are. So sit back, let go, and -- imagine your life, with our hosts, Oscar nominated Virginia Madsen and celebrated voice actor Robbie Daymond. All episodes are available now. You can binge the series ad-free on Wondery+ or on Amazon Music with a Prime membership or Amazon Music Unlimited subscription.",
+        "seasons": [
+          {
+            "season": 1,
+            "title": "Season 1",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/f8/a8/9f/27/f8a89f27-cf1f-4523-8ecc-8094f42d21df/8a74f534ffd9df00b54ce90644620fac05285db2bdded223a2ada7aca7dc6e7570a0feb5aa9ab57a4fb98ad0e8e845bca0887a55bee3949ace7636a1099c64d8.jpeg",
+            "episodes": [
+              {
+                "title": "The Outsider",
+                "description": "You’ve been bullied and ignored for much of your childhood. You lose yourself in trances that can last for an hour. Your only escape is the books you love, the complex thoughts that bounce around inside your mind...and to get out of your father’s house. Hosted by Robbie Daymond.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Daydreamer",
+                "description": "You’ve always lived for what others want you to do: your college major, your first job. You have a dream, but before you achieve it, you’ll have to hit rock bottom first. Hosted by Virginia Madsen.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Performer",
+                "description": "It’s the eve of your wedding, and you fear you’ve made a huge mistake. Music is your passion, but you’re not sure your fiancée believes in your talent. There’s greatness in you, but it’s not even clear you’ll make it through the night. Hosted by Robbie Daymond.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Bride",
+                "description": "From the outside, it looks like you have it all. But on the inside, you’re alone and trapped. Hosted by Virginia Madsen.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Warrior",
+                "description": "You have a decision to make. On one side, everything you’ve ever worked for; on the other, everything you believe in. You can’t have both. Hosted by Robbie Daymond.",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Trailblazer",
+                "description": "You’re a successful woman in a man’s business, and yet you’re not sure you can do it alone. You’ve so worked hard to get here, and your marriage is on the rocks and you’re afraid of losing everything. Hosted by Virginia Madsen.",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Advocate",
+                "description": "You’ve experienced loss and pain, but now you’ve reached a pinnacle in your career. You should be happy but you’re not. You decide to risk it all to be truthful to yourself. Hosted by Robbie Daymond.",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Chameleon",
+                "description": "Hosted by Virginia Madsen",
+                "episode": 8,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Officer",
+                "description": "You’ve always dreamed of serving your country. Now you have a chance. But if you make the wrong decision it all ends here.",
+                "episode": 9,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Commoner",
+                "description": "You grow up in a small town yearning to make a difference, but you will have to travel 5,000 miles across the globe to find your true calling. You are prepared to put your life on the line to fight for what you believe. When your body breaks down, you find another another way to create change. Hosted by Robbie Daymond.",
+                "episode": 10,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 2,
+            "title": "Season 2",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/4e/ba/d2/f6/4ebad2f6-78ba-4d6e-a3e7-6bb04d10a91a/041948955b95a2eebb543ba9587ebc659f0de9a61df4ab8fdef9cf449fb180304d2e712fe69fcf4c84e1d41bf3c0301300373b0f3558718727cdf94fbe58042e.jpeg",
+            "episodes": [
+              {
+                "title": "The Lover",
+                "description": "You’ve spent your whole life building: a large family, a beautiful home, a successful career. But there's still something missing. And once you find it, you'll risk everything to keep it.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Ballerina",
+                "description": "You’re timid and awkward, a fish out of water. Dance brings you poise and self-assurance, but you can’t live in the ballet studio. You have to go out into the world. ",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Captive",
+                "description": "Your whole life, people have conspired to hold you back. They want you shackled, grounded. But you won’t let them. Not anymore. Now, you’re determined to escape.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Passenger",
+                "description": "On the road of life, some people are drivers, and others are not. You’ve been told you were born for the backseat, told to buckle and enjoy the ride, but now you’re all grown up. It’s time to take the wheel. ",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Troublemaker",
+                "description": "You’re driven by an inherent sense of right and wrong. A force so strong you can’t help but challenge every inconsistency, every injustice around you. You see yourself on the front lines of the fight against injustice; others just see you as obnoxious. ",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Reject",
+                "description": "You want to make something of yourself. But no matter how hard you try, the gatekeepers keep shutting you out. And what’s worse — you’re afraid they’re right. Maybe you really do belong with the losers. Hosted by Robbie Daymond",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Model",
+                "description": "A long time ago, you learned it was dangerous to be who you are, so mastered the art of being someone else. But now it seems there may be more danger in living a lie, than speaking your truth. ",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Eccentric",
+                "description": "You’re caught between two worlds -- your small hometown where you’ve never fit in, and the big city you escaped to. But home is what you make of it. ",
+                "episode": 8,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Loudmouth",
+                "description": "You don’t like being you. Other people don’t like you either — the kids at school, even your own family. But words give you power. They make you feel invincible. ",
+                "episode": 9,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Patron",
+                "description": "All around you, you see struggle and strife; rampant corruption and inequality. You know the system is stacked against you. So you work outside of it.",
+                "episode": 10,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 3,
+            "title": "Season 3",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/16/4b/62/e3/164b62e3-4a49-460b-8927-e01424d8667c/411331d649c5b097feda22d1a6b1964f72dc1676f55574807ef73ad7ae50c1aab6158f2417cb09c7cd83f73367394c1d437f292d6a38c5a966c32e27f426aa93.jpeg",
+            "episodes": [
+              {
+                "title": "The Workhorse",
+                "description": "Nothing makes you happier than having a job. It’s been that way since you were a kid, with holes in your shoes and socks. But to fulfill your dream, you’ll have to fight the demons of your past—and the present—to prove everyone wrong. Including yourself.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Survivor",
+                "description": "All you want is love. Sometimes, you choose men with your heart. Sometimes, with your head. But nothing sticks. Maybe you just don’t understand relationships… ",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Idealist",
+                "description": "You’ve discovered something huge. And now, you have to make a choice. You want to do what’s right, but doing so means you could lose the person you love most.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Exile",
+                "description": "You've lost the only thing that truly matters to you. It's bigger than friendship. Bigger than love. And now, you have to find a way to get it back.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Wanderer",
+                "description": "You spent your childhood bouncing between homes, with only the beats in your head to keep you company. Now, you have to choose between living the life you want and staying true to the life you’ve had. If only you could find a way to do both. ",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Fugitive",
+                "description": "You need to make a big change. And so you go underground—new city, new friends, new life. The question is, will you ever come back? ",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Encore: The Everyman",
+                "description": "You grew up alone and afraid. To protect yourself, you put up walls. You’re safe behind them… but here’s the thing about walls, they keep out the good stuff too. And you want to feel good.",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Caretaker",
+                "description": "You've been given a huge responsibility. A test you never expected. But to succeed, you'll have to win over all your doubters—and fend off your most vicious opponents.",
+                "episode": 8,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Dreamer",
+                "description": "You’re an artist. A visionary. But making your dreams a reality—well, that’s not so easy. Because first, you'll need to win over some powerful people. ",
+                "episode": 9,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Orphan",
+                "description": "You are going to fight tooth and nail until you're famous. But as you struggle for recognition, you’ll have to face something that's tormented you throughout your whole life.",
+                "episode": 10,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 4,
+            "title": "Season 4",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/54/37/cc/f5/5437ccf5-2c8b-4220-b5e2-a729e22998ca/784a81cf067872367fa9dc029ed47302f7a46a71f7ab507fdf904f42250cb5abfa1fcf7dfec416d1feddcecb3753ee8ec4d2e3471ef025d6fed16a11ea9d0f54.jpeg",
+            "episodes": [
+              {
+                "title": "The Phoenix",
+                "description": "You’ve made it to the top of the top in entertainment, and you’re only a teenager. But you’ve got some serious obstacles. Like your mom. And the machine known as Hollywood. You’ll fight to survive, but are you strong enough?",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Dishwasher",
+                "description": "Soon after your birth, a fortune teller promised you’d be someone special. But years later you’re far from home, sleeping on a park bench and taking menial jobs to scrape by. You know you’re meant for better things. You just have to make the world see it. ",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Imagined Life Family | The Adventurer",
+                "description": "In this week’s special episode for the whole family, you long to go to Africa and have adventures like Tarzan. But everyone tells you girls aren’t supposed to do things like that. You’ll just have to prove them wrong.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Pilgrim",
+                "description": "For you making art is holy, like a prayer. But one question keeps you up at night: What if artists are … like saints? What if you can’t choose to be one – you can only be chosen?",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Underdog",
+                "description": "You've always been awkward, a square. But that's not going to stop you from rising to the top of the top in America. Even if you have to wage a fierce battle when you get there. ",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Shark",
+                "description": "You’re ten years old, and your father’s just passed away. You decide, the only way to avoid your pain is to keep moving forward, no matter what. And your strategy works – until you start to feel less and less … human.",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Imagined Life Family | The Dancer",
+                "description": "In this week’s special episode for the whole family, you may be young, and small for your age. And you feel like no one takes you seriously—especially not your big sister. But that’s not going to stop you from becoming one of the greatest performers in the world. ",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Soldier",
+                "description": "You’ve always been the kind of man who won’t tolerate disrespect, who’s proud to go it alone. But when an important protocol is breached, you find yourself in a desperate situation.",
+                "episode": 8,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Reporter",
+                "description": "You’re determined to write about serious stories that matter—you just don’t see why that should mean ignoring half the population. But after someone you love dearly betrays you, you use your pen to write yourself a happy ending.",
+                "episode": 9,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Scientist",
+                "description": "To become the great scientist you want to be, you need to stay cool, collected, focused. But every time you sit down to study the mating rituals of eels, your mind drifts off to your own chances with the fairer sex.",
+                "episode": 10,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 5,
+            "title": "Season 5",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/25/a0/94/6c/25a0946c-f647-4764-8a28-756dc89b1e03/1080d1266159a6cea5af5dc646fb92d610efa0eb49e28f11564de8e469c04c7aced07bd2c5a3e4b6f623e5c2e4a9ec613d378a51174c3fd25d7dff606fd9c55b.jpeg",
+            "episodes": [
+              {
+                "title": "The Madman",
+                "description": "Your family has a history of mental illness. You’ve seen what it’s done to your brother, and you don’t want to wind up like him. But how long can you hide from your true self?",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Prisoner",
+                "description": "You're living the life you promised yourself you'd build. But now the dream feels more like a trap. To escape, you need to risk everything you’ve worked for, and one again bet on yourself.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Imagined Life Family | The Songwriter",
+                "description": "You're a high school misfit with the wrong hair and wrong clothes. You feel like you'll never find anything you're good at, or anyone you can relate to. Then, you discover hip-hop.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Prodigy",
+                "description": "All your life, you’ve held your tongue and done as you were told. Even as an adult, you dutifully fill the role that made you a child star. But you’re tired of playing by everyone else's rules.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Charmer",
+                "description": "Success came easily to you. You feel like the luckiest guy alive. But even the luckiest guy's luck runs out eventually.",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Hustler",
+                "description": "You’ve spent your whole life trying to be something you’re not. Now it’s time to stop pretending and speak your truth. ",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Imagined Life Family | The Speaker",
+                "description": "You have plenty of things to say. You just have trouble saying them. But one day, your words are going to make people stand up and cheer.",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Sensualist",
+                "description": "You want to show women how to live life to the fullest. But first, you have to learn how to lead by example.",
+                "episode": 8,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Coward",
+                "description": "You want to fight. You want to be a hero, like the ones you read about in books. But all you can think about is how scared you are.",
+                "episode": 9,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Imagined Life Family | The Astronaut",
+                "description": "You're used to relying on yourself to succeed in a man's world. But to make it in outer space, you're going to have to learn to be part of a team. ",
+                "episode": 10,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 6,
+            "title": "Season 6",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/39/a1/c7/7f/39a1c77f-f682-4f5f-a26f-6f0d0e86ff90/1f3693ad9b6203e2321d8a05902928ac38b1b1769892a8d1d2c246dce612f9bddee4d0e48c16067ca3c77b7a5e9937bf2971296a985b864278f679ea935eee91.jpeg",
+            "episodes": [
+              {
+                "title": "Imagined Life Family | The Racer",
+                "description": "Life moves slow in your sleepy little hometown. You long to escape to someplace else, where life is fast, exciting, maybe even a little dangerous. ",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Imagined Life Family | The Kid",
+                "description": "You’ve always been wiser than your years, but not everyone is ready to let you grow up. You’d rather be watching scary movies than playing dress-up. ",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Imagined Life Family | The Hero",
+                "description": "You love asking questions wherever you go, especially “why.” Why is the world the way that it is? Why doesn’t everyone get along? Why can’t we all just be better people? ",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Imagined Life Family | The Thrill Seeker",
+                "description": "You like to test your limits and live life on the edge. That doesn’t always sit well with your mom, who just wants you to be safe and to keep your feet firmly planted on the ground.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Imagined Life Family | The Genius",
+                "description": "You dream of traveling through space and exploring the vast reaches of the solar system. Because in space, you don’t have to explain yourself. You get to explore the questions you want to ask.",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Imagined Life Family | The Gymnast",
+                "description": "You’re always on the move. Not just moving from town to town — with your siblings and your foster parents — but moving your feet, your arms, and your hands. You love to feel your body in motion. But the way that you move isn’t always understood by grown-ups who think they know better.",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Imagined Life Family | The Planner",
+                "description": "You can’t help but dream about the big houses in the fancy neighborhood in your town. One day, that could be you. It’ll take hard work, focus, and a clear plan for how to accomplish your goals.",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          }
+        ],
+        "image": "https://content.production.cdn.art19.com/images/ee/af/79/a8/eeaf79a8-199e-438b-8a9c-56aeb3f6bd83/a17582304e222235b07b729c63d14fd2049cf1663699c50fd995314dc84fe51273a4638321c4d0e742d7fda87c587566c5dd54229849056e56e51c6a03e93831.png",
+        "genres": [
+          "All",
+          "Entertainment",
+          "Featured",
+          "History"
+        ],
+        "updated": "2021-10-15T07:00:00.000Z"
+      },
+
+      {
+        "id": "5320",
+        "title": "Felonious Florida",
+        "description": "Beyond the beaches, the theme parks, the palm trees and the warm breezes lies the dark side of the Sunshine State. Wondery and the South Florida Sun Sentinel present a true-crime podcast that bring you stories of some of Florida’s most notorious and stunning crimes. Hosted by EmmaKate Austin, Season 2 will take you through some of the darkest corners we’ve explored yet. New episodes are coming Oct. 2 and will be released every Tuesday. Visit FeloniousFlorida.com.",
+        "seasons": [
+          {
+            "season": 1,
+            "title": "Season 1",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/7a/08/06/e4/7a0806e4-24cc-4781-adc3-74c81badaa0d/bd4f5c5f70c7d67353740a2f88f14f343a500dca8ff195bb0a43c4a801b951854754397fd73bef96b8be50f12cc4192adcbe3ae56be1cfe13278f4743d85e5ed.jpeg",
+            "episodes": [
+              {
+                "title": "THE EXECUTIONS",
+                "description": "Casimir Sucharsky Jr. — or Butch Casey, as he's known — is the flashy, well-known owner of the popular South Florida nightclub Casey’s Nickelodeon. After a night out at his bar in June 1994, he invites two young, attractive women back to his house for an after-hours party. As they share a bottle of wine, two intruders with a machine gun burst into the house and slay all three. Police discover the crime has been caught on a remarkable, 22-minute surveillance video. What they see on the tape is brutal and terrifying — and sets investigators on a frantic chase for suspects. Subscribe today so you don’t miss an episode. Visit FeloniousFlorida.com.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "O.J. AND THE MOB",
+                "description": "Theories around the killing of Butch Casey and his female guests begin to spin around. The public is consumed by talk of a connection to the murders days earlier of Nicole Brown Simpson and Ronald Goldman — and the arrest of Butch’s long-time friend, O.J. Simpson. But police are looking elsewhere and probe possible connections to the mob. Then, a violent home invasion not far away in Miami-Dade County breaks the case open. Subscribe today so you don’t miss an episode. Visit FeloniousFlorida.com.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "THE FACES OF THE KILLERS",
+                "description": "Was Pablo Ibar the man who showed his face to a security camera during the murders of Butch, Sharon and Marie? Police think so and begin to gather a case against him. Meanwhile, their search for the second killer surfaces two names — Alex Hernandez and Seth Penalver. But as prosecutors bring their suspects to trial, the apparent mountain of evidence they gathered begins to break down. The case is in jeopardy. Subscribe today so you don’t miss an episode. Visit FeloniousFlorida.com.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "PABLO",
+                "description": "Seth Penalver is a free man, acquitted by a jury in the brutal 1994 Casey's Nickelodeon Murders after spending six years on Death Row. Pablo Ibar spent 16 years on Death Row before his conviction was thrown out. Soon, he'll get another chance to convince a jury of his innocence. Supporters in his father's native Spain have rallied to fund his defense, raising nearly $800,000. Can they overcome a solid eyewitness who says he saw Pablo driving away from the murder scene? And now there's new evidence: Pablo's DNA was found on a shirt left behind at Butch Casey's house, prosecutors say.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "THE KIDNAP KIT",
+                "description": "A mother and her 7-year-old daughter are kidnapped from a mall in Boca Raton, Florida, after an afternoon of Christmas shopping in December 2007. They’re found executed in the back seat of their SUV, still parked in the mall lot. As police piece together details of the shocking crime, they realize the unthinkable: This child killer has struck before — at the same mall, that same year. Only that time, the mom and son survived to tell about it. Subscribe today so you don’t miss an episode. Visit FeloniousFlorida.com.",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "RANDI",
+                "description": "The mom who survived the terrifying kidnapping at the Boca Raton mall is frustrated when police doubt her wild story. They think she may have made it up to make her boyfriend angry. Then, just two months later, Nancy Bochicchio and her 7-year-old daughter are kidnapped and shot to death at the same mall. And it gets worse: The crimes lead police back to another kidnapping and murder that happened earlier that same year — at the same mall. Now a terrified public wants to know: Is there a serial killer on the loose in South Florida? Subscribe today so you don’t miss an episode. Visit FeloniousFlorida.com.",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 2,
+            "title": "Season 2",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/db/f3/84/c4/dbf384c4-8a0f-4030-b1a4-b465d9738f30/c8164db01fb52861ee87bf79abd8e9409a3d2f1ba461d57f88525d03717fafd6e87fa7194d1b5a383d864d66c5173e9bcd50413cf7453321446400e70fd7b2bf.jpeg",
+            "episodes": [
+              {
+                "title": "The Encino Murders, Part 1",
+                "description": "On a warm summer night in August 2009, an intruder shot Camile Hamilton in the face inside a suburban Florida home. A staggering 14 hours after the attacker fled, Camile wakes up — barely alive and with a bullet still inside her neck. Three others, including Camile’s teenage daughter, are dead. The crime scene is brutal and complicated, and neighbors didn't see anything. The search is on for a killer.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Encino Murders, Part 2",
+                "description": "Camile Hamilton is starting to remember what happened to her that brutal night in August 2009. A tiny piece of evidence and a series of breaks leads the Encino Street triple murder investigation to a homeless man with a criminal history named Kevin Pratt. But our investigative reporter finds inconsistencies in Camile's recollections that lead to questions about how reliable they are. And there's one more major disappointment for investigators.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Encino Murders, Part 3",
+                "description": "In the conclusion of The Encino Murders, Camile Hamilton confronts Kevin Pratt after an in-person lineup — and the encounter is explosive. Kevin insists he didn’t kill anybody, but when the DNA evidence gets stronger he faces the death penalty. As the years go on, problems with the investigation are uncovered — and suddenly, the case against Kevin isn’t as strong as once thought.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Disappearance of Lisa Spence, Part 1",
+                "description": "The text came in to Paul Edwards’ cell phone from his girlfriend, Lisa Spence. “Just wait till I got better,” it said. But it wasn’t so much what the text said, but that it had been sent at all. A month earlier, in October 2009, Lisa had vanished after a night shift at a beauty supply store and hadn’t been seen again. When other friends and family start getting texts from Lisa, police begin to wonder if Lisa was actually the person sending the texts, or whether this case was more than a simply missing person.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Disappearance of Lisa Spence, Part 2",
+                "description": "Police looking into the disappearance of Lisa are convinced there's foul play involved. With nothing else to go on, they devise an unusual plan to crack the case. Within days, their text from the grave pays off — it leads them to a gruesome discovery in an empty field near Miami and to the man they say brutally murdered Lisa Spence.",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Killer Clown of Wellington, Part 1",
+                "description": "When Marlene Warren answered a morning knock on her front door on Memorial Day weekend in 1990, a clown delivering flowers and balloons was smiling back at her. But her delight instantly turned to horror when the clown pulled a gun and put a bullet in her face. Police jumped on the trail of the killer clown almost immediately, and our reporters found that the investigation led them into the darkest corners of the Sunshine State — from loansharking and drug smuggling to prostitution and seedy affairs. But as a mountain of circumstantial evidence piled up and two possible suspects emerged, the case went ice cold.",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Killer Clown of Wellington, Part 2",
+                "description": "The early days of the search for the killer clown focus on Marlene Warren's husband, Michael, and the repo woman who worked on his used car lot, Sheila Keen. There appeared to be motive: An insurance payout, investment properties, a lavish home and an affair. But there's little or no hard evidence. As Michael goes to prison for illegal activities on his lot, the investigation into his wife's murder goes ice cold. Until 27 years later, when the secret lives of a married Virginia couple are exposed, and the alleged killer clown is finally unmasked.",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          }
+        ],
+        "image": "https://content.production.cdn.art19.com/images/15/88/a1/71/1588a171-e383-4500-bc00-a540c3efa1bd/a4dc4fa5df62ce0485a96b9b9fcfa81f3a02fc372928d2f085abdb7df23a665c05da6b4d640284543a0ddf5c2ef58f17edf1dc76ced5bd11770ab393b0c65a53.jpeg",
+        "genres": [
+          "All",
+          "History",
+          "True Crime and Investigative Journalism"
+        ],
+        "updated": "2019-01-23T05:00:00.000Z"
+      },
+
+      {
+        "id": "6717",
+        "title": "WeCrashed",
+        "description": "Watch the Apple Original series  WeCrashed , starring Jared Leto and Anne Hathaway. Now streaming only on Apple TV+  https://apple.co/-WeCrashed The founders of WeWork thought they were on the brink of making history. The company was valued at $47 billion dollars, ready for a huge IPO, and its charismatic CEO Adam Neumann believed he was going to change the world. Adam and his wife Rebekah had a prophet-like vision—but did it ever match the company's reality? Now the inspiration for a new AppleTV+ series starring Jared Leto and Anne Hathaway, WeCrashed: The Director’s Cut is a complete refresh of our original six-part series. Hosted by David Brown of the hit podcast Business Wars, this six-part series includes new interviews and new discoveries about the rise and fall of WeWork. It’s a story of hope and hubris, big money and bigger screwups, and the lengths people will go to chase “unicorns\".",
+        "seasons": [
+          {
+            "season": 1,
+            "title": "The Director's Cut",
+            "image": "https://content.production.cdn.art19.com/images/15/85/3e/79/15853e79-7883-4cbe-a3c8-2cddba54da0a/11dff4739061d56c98e410a8050aa0b8026565e15520dead7c58ceebcb31a57abddb14c62f29b96b10655099cc4cac4f4278a2f7546bb3f968692843a1178629.jpeg",
+            "episodes": [
+              {
+                "title": "In the Beginning There Was Adam...",
+                "description": "Watch the Apple Original series WeCrashed, starring Jared Leto and Anne Hathaway. Now streaming only on Apple TV+",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Two Guys and a Guru",
+                "description": "Watch the Apple Original series WeCrashed, starring Jared Leto and Anne Hathaway. Now streaming only on Apple TV+",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Thank God It’s Monday",
+                "description": "Watch the Apple Original series WeCrashed, starring Jared Leto and Anne Hathaway. Now streaming only on Apple TV+",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Think Crazy",
+                "description": "Watch the Apple Original series WeCrashed, starring Jared Leto and Anne Hathaway. Now streaming only on Apple TV+",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The IPO",
+                "description": "Watch the Apple Original series WeCrashed, starring Jared Leto and Anne Hathaway. Now streaming only on Apple TV+",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Me Before We",
+                "description": "Watch the Apple Original series WeCrashed, starring Jared Leto and Anne Hathaway. Now streaming only on Apple TV+",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Interview: Unicorns on the Loose",
+                "description": "Stream the Apple Original series WeCrashed, starring Jared Leto and Anne Hathaway. Premieres March 18 only on Apple TV+ https://apple.co/-WeCrashed",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 2,
+            "title": "The Companion Podcast",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/c1/7e/50/88/c17e5088-7ef5-4e4c-b7b2-75ec134f9fe0/679f61557efb056adb25706316d07f331e423d21b899d666014ad0e8fbb2f40f9f157174212bf0abbfc78d2377cd302dca035563c0c92a1d85b85aefa8179c03.jpeg",
+            "episodes": [
+              {
+                "title": "The Companion Podcast | Episode 1 with the TV Series’ Co-Creators",
+                "description": "In this first episode, host Scott Galloway unpacks the series premiere, “This Is Where It Begins,” with the show’s co-creators and co-writers, Lee Eisenberg and Drew Crevello. They talk about adapting the real-life story and Wondery podcast for the screen, the relationship between Adam and Rebekah, and why WeWork’s original $15 million funding (and self-proclaimed $45 million valuation) was a major turning point. Plus, Scott shares his “Yoga babble moment of the week.” WeCrashed: The Companion Podcast is produced by Wondery, with support from Pineapple Street Studios.   ",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Companion Podcast | Episode 2 with “Billion Dollar Loser” author Reeves Wiedeman",
+                "description": "This week, host Scott Galloway unpacks episode two, “Masha, Masha, Masha,” with Reeves Wiedeman, the author of Billion Dollar Loser: The Epic Rise and Spectacular Fall of Adam Neumann and WeWork. They discuss the co-working company’s early rise, Adam’s boundless powers of persuasion, and what it was like for them to sit down with Adam in real life. Plus, Scott shares his “Yoga babble moment of the week.” WeCrashed: The Companion Podcast is produced by Wondery, with support from Pineapple Street Studios.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Companion Podcast | Episode 3 and the Real Work Culture of WeWork",
+                "description": "This week, host Scott Galloway unpacks episode three, “Summer Camp,” with New Yorker staff writer, Lizzie Widdicombe. They discuss the misogynistic culture of WeWork, Rebekah's public assertion that “a big part of being a woman is helping men manifest their calling in life,” and how WeWork ultimately seemed more like a cult than a company. Plus, Scott shares his “Yoga babble moment of the week.” WeCrashed: The Companion Podcast is produced by Wondery, with support from Pineapple Street Studios.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Companion Podcast | Episode 4 and the Venture Capitalists Behind WeWork",
+                "description": "This week, host Scott Galloway unpacks episode four with New Yorker journalist Charles Duhigg. They discuss WeWork’s financial enablers—specifically Masayoshi Son, the founder of the Japanese conglomerate SoftBank—and what the story ultimately says about venture capitalists. Plus, Scott shares his “Yoga babble moment of the week.” WeCrashed: The Companion Podcast is produced by Wondery, with support from Pineapple Street Studios. ",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Companion Podcast | Episode 5 and “The Cult of We” with author Maureen Farrell",
+                "description": "This week, host Scott Galloway unpacks episode five, “Hustle Harder,” with Maureen Farrell, co-author of The Cult of We: WeWork, Adam Neumann, and the Great Startup Delusion. They question why some of the smartest investment bankers in the world kept giving Adam money, and to what extent WeWork was a company or simply a delusion. Plus, Scott shares his “Yoga babble moment of the week.” WeCrashed: The Companion Podcast is produced by Wondery, with support from Pineapple Street Studios.",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Companion Podcast | Episode 6 with ‘WeCrashed’ star Kyle Marvin",
+                "description": "This week, host Scott Galloway sits down with actor Kyle Marvin (The Climb) who plays Adam’s cofounder Miguel McKelvey on the Apple TV+ series, WeCrashed. They discuss how Kyle prepared for the role by studying architecture— and why he says he sees the relationship between Kyle, Adam and Rebekah as “a love triangle.” Plus, Scott shares his “Yoga babble moment of the week.” WeCrashed: The Companion Podcast is produced by Wondery, with support from Pineapple Street Studios. ",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Companion Podcast | Episode 7 with Scott Galloway Talking to “Scott Galloway” (Kelly AuCoin)",
+                "description": "This week, host Scott Galloway sits down with actor Kelly AuCoin (Billions, The Americans) who plays Scott Galloway himself on WeCrashed. They discuss how Kelly prepared for the role of Professor G—and what really happened when Scott first read WeWork’s disastrous S-1 prospectus. Plus, Scott shares his “Yoga babble moment of the week.” WeCrashed: The Companion Podcast is produced by Wondery, with support from Pineapple Street Studios. ",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Companion Podcast: Episode 8 and Unpacking the Finale with Andrew Ross Sorkin",
+                "description": "This week, host Scott Galloway sits down with New York Times journalist Andrew Ross Sorkin (author Too Big To Fail, co-creator of Billions) to dig into the finale of WeCrashed. They discuss Adam Neumann’s last-ditch efforts to stay in control at WeWork, as well as Andrew’s own interviews with the real Adam. Plus, Scott shares his final “Yoga babble moment of the week.” WeCrashed: The Companion Podcast is produced by Wondery, with support from Pineapple Street Studios.",
+                "episode": 8,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          }
+        ],
+        "image": "https://content.production.cdn.art19.com/images/15/85/3e/79/15853e79-7883-4cbe-a3c8-2cddba54da0a/536a4c66a9e4f8aa145f5913bdfac6b2a849e202beb5add6aa7d13c7849f72bba52fffe2e19429287758815d4c9517b3d9bbdc5cc02e0f7edc0a0b04f008de31.png",
+        "genres": [
+          "All",
+          "Business",
+          "Featured",
+          "History"
+        ],
+        "updated": "2022-04-22T07:01:00.000Z"
+      },
+
+      {
+        "id": "5968",
+        "title": "1865",
+        "description": "All episodes are available for free, with ad-free episodes available for Wondery+ subscribers. April 15, 1865. President Lincoln is dead and the country in turmoil. Secretary of War Edwin Stanton takes control, determined to bring the assassin to justice—but the hunt for John Wilkes Booth isn’t all that grips Stanton. Lincoln’s successor, Vice President Andrew Johnson, is likely to bend to southern interests and undo the very progress for which Lincoln died. Edwin Stanton must employ every bit of political wile he can muster to secure the future of the freed slaves, and the nation. Consumed by his conviction, Stanton will betray his friends, his honor, and the very constitution he is sworn to protect, all to steer the country towards justice. *** 1865 is an Airship production. Support this show to get early, ad-free access to episodes and more.",
+        "seasons": [
+          {
+            "season": 1,
+            "title": "Season 1",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/ec/3b/a1/7a/ec3ba17a-7e3a-4ced-913b-3b13ecb1d3b8/f17fd8654df24c14989043e38adaeeed0e2a194abe0efd669261a98a12f5f4a63d831c4fb3391f2274ec882beebe77ca898209fab16bd28c513fd19f3c1fddad.jpeg",
+            "episodes": [
+              {
+                "title": "Sic Semper Tyrannis",
+                "description": "President Lincoln is mortally wounded. The nation is under attack. Secretary of War Edwin M. Stanton takes control and tries to protect Vice President Andrew Johnson.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Star of Washington City",
+                "description": "After the discovery of a mysterious note from Booth to Johnson, Stanton goes on a hunt for the truth.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Mars and Neptune",
+                "description": "With the manhunt for Booth underway and martial law secure, Stanton strikes a compromise to preserve Lincoln’s agenda, but a dark revelation threatens to upend his progress.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Senator’s Daughter",
+                "description": "Stanton sets out to learn the truth about Lucy Hale, and finds opportunity in adversity.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Author and Finisher",
+                "description": "As the hunt for Booth continues, Stanton has another problem on his hands: the last of the Rebel Generals wants terms of surrender.",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Skulduggery",
+                "description": "A startling revelation about Lucy Hale forces Stanton into a corner. The only way out is to convince Johnson to give him more power.",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "A Very Devil",
+                "description": "Stanton and Langston go to the mats with Johnson and Welles over the issue of reconstruction and the future of the Freedman.",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Little Stanton",
+                "description": "Secretary Seward is finally awake. Stanton’s old friend and ally proves to be a thorn in Stanton’s side.",
+                "episode": 8,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Trials and Tribulations",
+                "description": "The investigation into Booth’s conspirators leaves Stanton with a new challenge: prove the Rebels are behind the attack on Abraham Lincoln. With the trial of the conspirators underway, Johnson and Stanton go to war over the future of the country.",
+                "episode": 9,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "A Cost In Blood",
+                "description": "While Mary Surratt’s life hangs in the balance, Stanton struggles to find her son and prove his conspiracy.",
+                "episode": 10,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 2,
+            "title": "Season 2",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/27/ef/a0/19/27efa019-8ce6-4e39-ac16-641e77fed02e/c91ba93f8c6e9b15a3a9bea7e20cd6e67d2292983ef54390ba84eefcb43edcb9c6b5b34db6ce7f0e3e673183e64b7f5cc4cd69769f249aba8bfb9e5212d2c1af.jpeg",
+            "episodes": [
+              {
+                "title": "Prologue 1: The Man from Foggy Town",
+                "description": "Edwin Stanton sits down with a famous scribe to tell the story of the events that led to Johnson’s impeachment. ",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Prologue 2: Directing the Whirlwind",
+                "description": "General Ulysses S Grant finds himself caught in the middle of the struggle between Stanton and Johnson. ",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Prologue 3: The Second Front",
+                "description": "Listener note: this episode contains offensive racial language. Please be advised.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Peaceful Transfer",
+                "description": "Listener note: this episode contains offensive racial language. Please be advised.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Enforcement",
+                "description": "President Grant pushes congress for the power to protect the Freedmen's right to vote and to help install Joseph Rainey, the first black man elected to the House. He gets help from a black militia leader named Captain Jim Williams. ",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "In Plain Sight",
+                "description": "In the wake of Captain Williams’ murder, President Grant sends the K Troop cavalry to investigate the crime and take on the local chapter of the Ku Klux Klan.",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Justice",
+                "description": "When the situation below the Mason Dixon takes a turn for the worst, President Grant declares martial law, determined to stamp out the KKK.",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Enemy Within",
+                "description": "On the heels of the election of 1872, Grant launches a crusade to root out corruption. But his fight for good government is imperiled by the return of Andrew Johnson.",
+                "episode": 8,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Loyalty",
+                "description": "Grant’s presidency is imperiled when his newly appointed special prosecutor launches an investigation into Grant’s right-hand man, Orville Babcock. ",
+                "episode": 9,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Cincinnatus",
+                "description": "In this season finale, Grant’s decision to testify for Orville Babcock has disastrous consequences for the Freedmen.",
+                "episode": 10,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          }
+        ],
+        "image": "https://content.production.cdn.art19.com/images/34/c9/4a/20/34c94a20-0ed5-4ace-adb7-a85f196c29a0/430e76ab492de6da0698405c1df8fcde27a1018622d8e0a99c7a2e8da0d88794878d53c1c36d6bfd8b450c156fdc12dd1cb19b15b9139db37ff8ef526f19b012.png",
+        "updated": "2021-07-13T08:00:00.000Z"
+      },
+
+      {
+        "id": "8760",
+        "title": "Secret Sauce",
+        "description": "How do certain companies succeed where others have failed? What’s their “secret sauce”...and how can we get our hands on their recipes? From Wondery, the makers of the hit podcasts Business Wars and WeCrashed, comes SECRET SAUCE. Co-hosts Samuel Donner and John Frye take you behind the scenes of the most innovative leaders, trailblazing companies, and thriving cultures to learn what they have done to become a success. From how design guru Jony Ive worked with Steve Jobs to create some of Apple’s most iconic products, to how Warren Buffett invests better than just about anyone else. These are the unique recipes for what it takes to get to the top and stay there. Available ad-free on Wondery+ or on Amazon Music with a Prime membership or Amazon Music Unlimited subscription.",
+        "seasons": [
+          {
+            "season": 1,
+            "title": "The Secret Sauce of Airbnb",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/71/5f/7f/db/715f7fdb-f1ea-4f25-9cc9-6f37046bce93/2a28be2f15b09f47fe3e57f2172b942d17c1fc41147e55a9bb9b56f80b6fabac88f26367dda8b82c7f7f6b0044231770798f26293e1eac3600305253a35f7bf8.jpeg",
+            "episodes": [
+              {
+                "title": "The Secret Sauce of Airbnb | Ingredient #1: Shameless",
+                "description": "Imagine a world where you show up at a stranger’s house and ask to sleep on their bed in exchange for a few bucks. Strangely enough, millions of people around the globe have done just that with AirBnB. In this three-part series, Sam and John seek the recipe for how a couple of design students overcame the odds to create a billion-dollar tech “unicorn.” In this first episode, it all starts with two founders with an air mattress and a dream, who are rejected by just about every investor in Silicon Valley.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Secret Sauce of Airbnb | Ingredient #2: Trust",
+                "description": "Airbnb's website is live. People are just getting comfortable with the notion of booking lodgings from strangers when guests trash an AirBnB home. Brian Chesky and Joe Gebbia face their biggest crisis yet. If the business is going to grow, the experience must be safe and satisfying for everyone. Turns out their secret sauce is missing a few key ingredients. ",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Secret Sauce of Airbnb | Ingredient #3: Transparency",
+                "description": "Brian Chesky has become a superstar in Silicon Valley. Airbnb's cult of fans continues to book trips, but guests start to realize that their opportunity at landing a place to stay isn't necessarily created equally. As the team begins to deliver on their promise of an inclusive experience, a global disaster threatens their company's future. Airbnb must use what they've learned if they are going to survive a global crisis.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Secret Sauce of Airbnb | Interview with Katrina Brooker",
+                "description": "Airbnb has changed the way people live and travel. And yet, CEO and co-founder Brian Chesky is a highly unusual figure in Silicon Valley. He is a designer turned entrepreneur running a billion-dollar company. Business journalist Katrina Brooker has spent years covering Brian Chesky and his secret sauce. Katrina talks to hosts Samuel Donner and John Frye about Chesky’s “nice guy” persona, his connection to Walt Disney, and the challenges that lie ahead for his company. ",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 2,
+            "title": "The Secret Sauce of The NBA Bubble",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/12/a9/d4/70/12a9d470-9edb-4ea3-8563-f631f95a57a8/2a315994420ff2f548321139a2310c334e05359215a4ffceb16e8b23ea6cfeec88d89822ef11b5a3638d536323c089f347983266067e38f9c3f748878af3f0ee.jpeg",
+            "episodes": [
+              {
+                "title": "The Secret Sauce of The NBA Bubble | Ingredient #1: Authenticity",
+                "description": "An NBA game is canceled just moments before tip-off. As the thousands of fans file out of the stadium, It’s the first moment for many of the impact the global pandemic will have on the sports world. Enter NBA Commissioner Adam Silver, superstar LeBron James, and a group of problem solvers determined to keep the season alive safely. Will they succeed -- or will the coronavirus and massive social justice protests burst the NBA Bubble? The first of our three part series. ",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Secret Sauce of The NBA Bubble | Ingredient #2: Continuous Improvement",
+                "description": "The NBA is packing up their bags, jerseys in tow, and heading to the happiest place on Earth: Disney World. The NBA Bubble is about to commence with strict health protocols, but Lebron and the entire league are starting to feel the effects of isolation. There are no longer fans and family around to support and cheer the players on. Even worse, America’s long-overdue awakening on racism threatens to burst the bubble. NBA Commissioner Adam Silver, and his team of seasoned professionals, must find a way to boost morale and address the country's wounds if they want the season to continue. ",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Secret Sauce of The NBA Bubble | Ingredient #3: Culture Eats Strategy For Breakfast",
+                "description": "The NBA Bubble is on the brink of collapse as playoffs are set to begin. The NBA can no longer ignore the Black Lives Matter movement, and the players refuse to bench the conversation. Teams across the country are ready to take a stand and end the season early. Will players call it quits and walk off the court, or can the league come together to create a national stage for the movement?",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Secret Sauce of The NBA Bubble | Interview with Joe Vardon",
+                "description": "Very few people were allowed inside the NBA Bubble besides coaches and their players, but The Athletic's Joe Vardon had a front-row seat to the national science experiment turned sporting event of the year. Joe joins Secret Sauce to discuss the strict health protocols in Disney World and even a few of the shenanigans behind the scenes. ",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 3,
+            "title": "The Secret Sauce of Jony Ive",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/87/52/f9/13/8752f913-cb2a-4a46-a492-089b884706df/78fc2b52644a576579c568f0e34ab5c37df4afac0233b5a3ee0154988d6de1d631664a823ca884b4f1eff7f852836bbe76674c81ad2903b55b4d7f0e01c74eb5.jpeg",
+            "episodes": [
+              {
+                "title": "The Secret Sauce of Jony Ive | Ingredient #1: Fragile Ideas",
+                "description": "There might be no other product in the world more ubiquitous than one designed by Apple. Known for products with sleek features, classic design elements, and of course, their signature logo, Apple has a cult of fans that brandish their beloved purchases with a great deal of pride. The tech company's product line has evolved from computers to mobile devices to wearable technology and continues to set trends. Apple's success is undeniable. However, that wasn't always the case. In the 90s, Steve Jobs was ousted, sales were plummeting, and products weren't sexy. Luckily, there was a little-known design genius from across the pond ready to make his mark on the world and forever change the landscape of how people interact with products: enter Jony Ive, the creative genius who revolutionized modern design and functionality.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Secret Sauce of Jony Ive | Ingredient #2: Believe in Your F'ing Self",
+                "description": "There might be no other product in the world more ubiquitous than one designed by Apple. Known for products with sleek features, classic design elements, and of course, their signature logo, Apple has a cult of fans that brandish their beloved purchases with a great deal of pride. The tech company's product line has evolved from computers to mobile devices to wearable technology and continues to set trends. Apple's success is undeniable. However, that wasn't always the case. In the 90s, Steve Jobs was ousted, sales were plummeting, and products weren't sexy. Luckily, there was a little-known design genius from across the pond ready to make his mark on the world and forever change the landscape of how people interact with products: enter Jony Ive, the creative genius who revolutionized modern design and functionality.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Secret Sauce of Jony Ive | Ingredient #3: Legacy",
+                "description": "Apple has become a product goldmine with the success of the iMac and iPod, but Jony and Steve refuse to stop there. Jony Ive believes that he can do for phones what the iMac did for computers. And if he does that, it’ll secure the legacy of his collaboration with his best friend, Steve Jobs. The only problem is Jony's design requires materials that aren't on the marketplace, and Steve's health is declining rapidly. In his final act, Jony will have to find a way to honor Apple's vision — a vision that has changed how the world interacts with technology and that he helped design.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Secret Sauce of Jony Ive | Interview with Steven Levy",
+                "description": "When Steve Jobs returned to Apple as Interim CEO in 1997, the company was in need of a big win. Over the next decade, Apple and Jobs would launch some of the most innovative and successful products to have ever come out of Silicon Valley. But Jobs couldn’t have pulled off the iMac, iPod and iPhone without his young superstar designer Jony Ive. Few journalists have more insight into the legendary creative partnership of Ive and Jobs than WIRED Magazine’s Editor at Large, Steven Levy. Levy has covered technology for more than 30 years and got to know Ive and Jobs over several interviews spanning decades. He joins Secret Sauce to discuss what made the pair so successful, Ive’s legacy, and perhaps Ive’s last great gift to Apple: the design of its new headquarters, Apple Park.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 4,
+            "title": "The Secret Sauce of Warren Buffett",
+            "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/11/c1/be/f8/11c1bef8-d8fe-492b-95d6-3199b6d07c31/b0197ea0a66c10ca8d76fba9630ffa536fd6393e2eb1c406a6541cbd53b43c2f2510377f213ba21b5957de2ebcb2f0a582a9e90fd0908aff172a27fa0920ee31.jpeg",
+            "episodes": [
+              {
+                "title": "The Secret Sauce of Warren Buffett | Ingredient #1: Trusting Your Inner Scorecard",
+                "description": "Warren Buffett, like most hyper-successful business people, wasn't born a billionaire. Buffett was born during the Great Depression and watched his country suffer financially. At an early age, the business magnate begins studying financial trends and pinches pennies on his way to becoming one of the world’s wealthiest people. But his interest in the stock market doesn’t cement his success. Warren isn’t the best student, and he most certainly isn’t winning any popularity contest. To grow his own money, he must first find a way to get people to trust him and view him as a long-term investment.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Secret Sauce of Warren Buffett | Ingredient #2: Build Your Arsenal",
+                "description": "Warren Buffett’s hit the jackpot. He’s a millionaire at the ripe old age of 32. Warren’s built a name for himself through his honesty, and he’s learning how to bring his business values into his activism and vice versa. And although he’s become an altruistic and trustworthy money-handler, he’s still prone to spurts of anger and rash decisions. A business relationship gone awry leads to Warren making his biggest mistake yet - buying a failing textile company. To make the company profitable, Warren will need to create a business model no one has ever seen before.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Secret Sauce of Warren Buffett | Ingredient #3: Risk Everything",
+                "description": "By 1991, Warren Buffett’s the second richest man in America. In the years to follow, his wealth will continue to grow and affect the global economy. Warren has everything a person needs, but his relationship with his wife, the person he values the most, is fraught after years of neglect. His business has always come first. Warren will have to learn how to put other people’s needs first. As Warren works on his selflessness, he unlocks a key characteristic that has the power to change his legacy: a knack for generosity.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          }
+        ],
+        "image": "https://content.production.cdn.art19.com/images/db/ea/78/3d/dbea783d-82ee-430f-8db9-cb8409e3ae22/e58264bc3e60343216283d8ce23c35b4c077ac8e486b2fec393f121b24104d1b862b7084b11e2fa3ffea6404b668d5b03ddf4254552cb8d79af0ab5dff3e8e5b.png",
+        "genres": [
+          "All",
+          "Business",
+          "History"
+        ],
+        "updated": "2021-07-13T09:00:00.000Z"
       }
-
-
-
-   
-
-
-
 ]

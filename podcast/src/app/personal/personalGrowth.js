@@ -1116,5 +1116,167 @@ export default [
         "updated": "2022-10-25T07:01:00.000Z"
       },
 
-      
+      {
+        "id": "6756",
+        "title": "Dying For Sex",
+        "description": "When Molly's diagnosed with stage IV breast cancer, she decides to do something bold: she leaves her unhappy marriage and embarks on a series of sexual adventures to help her feel alive. She shares the funniest and most touching details with her closest friend, host Nikki Boyer. As they peel back the layers, we learn that Molly isn’t just grappling with breast cancer: she's also dealing with some trauma from her past. Along the journey, the friends explore bigger themes that affect us all -- like healing, forgiveness and what do we do with the time we have left. From Wondery, the makers of The Shrink Next Door and Imagined Life, Dying for Sex is a six-part series about friendship, sex and love, and overcoming adversity. Hosted by Nikki Boyer. All episodes are available ad-free on Wondery+ or on Amazon Music with a Prime membership or Amazon Music Unlimited subscription.",
+        "seasons": [
+          {
+            "season": 1,
+            "title": "Dying for Sex",
+            "image": "https://content.production.cdn.art19.com/images/1a/ad/4d/03/1aad4d03-1927-4b03-bf84-dd5ea15c954f/ee24f3831228fc828fdcde9f32d971a51a7d5c0b35af83d631eae0522eac7694242d5ebec108f4b2f0e76e2210af5c7db439ba46327776cc8bda6156b300742e.jpeg",
+            "episodes": [
+              {
+                "title": "Happy Endings",
+                "description": "Molly and Nikki are best friends, and they can laugh about anything — even cancer. They call it “gallows humor.” When Molly receives her diagnosis, she begins her sexual exploration by learning how to take a different kind of “selfie.” And she lets a massage go all the way.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Adventures in Dating",
+                "description": "Molly is ready to start dating in the real world. She’s balancing a life of extremes: harsh cancer treatments one moment, meeting with a new guy the next. Her first dates feel surprisingly like high school — including making out in the back seat of a car with “Toyota Guy.” And Nikki and Molly want to know what he thought about it.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "A Walk On The Wild Side",
+                "description": "As Molly and Nikki continue to grapple with Molly's health issues, Molly's appetite for sexual adventure escalates. She explores the world of fetishes and discovers her inner kink — everything from foot worship to “ballbusting.” How far is she willing to go?",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Coming Clean",
+                "description": "Molly has been open to many new experiences with men, but there’s a secret she hasn’t shared with any of them: her illness. She decides to come out publicly as a “cancer thriver” by walking the runway at New York’s Fashion Week. Nikki and her mom come out to support her, but going home is sometimes more difficult than it seems.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "The Love Letter",
+                "description": "Molly has a passionate encounter between the hospital sheets and Nikki has questions about it. And Molly begins writing a memoir that explores a secret from her past.  ",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Becoming Whole",
+                "description": "In the final episode, Molly and Nikki record from the hospital as Molly recovers from an emergency procedure. Molly’s determined to finish her book, and has an epiphany about where this journey is taking her.",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Interview with Host Nikki Boyer",
+                "description": "Liz Dolan (host of Satellite Sisters and Safe for Work) interviews host Nikki Boyer about the making of Dying for Sex. They discuss how the podcast came about, listener response, Nikki’s journey, and Molly’s legacy and impact.",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          },
+          {
+            "season": 2,
+            "title": "Living for Connection",
+            "image": "https://content.production.cdn.art19.com/images/1a/ad/4d/03/1aad4d03-1927-4b03-bf84-dd5ea15c954f/ee24f3831228fc828fdcde9f32d971a51a7d5c0b35af83d631eae0522eac7694242d5ebec108f4b2f0e76e2210af5c7db439ba46327776cc8bda6156b300742e.jpeg",
+            "episodes": [
+              {
+                "title": "Living for Connection: Dating",
+                "description": "Listeners share stories with Nikki about dating and looking for love in challenging times. From Car Alarm Scott who is connecting with women in a completely new way, to a woman who feels less alone when she meets a stranger next door, and a man’s attempt to mend his broken heart while keeping six-feet apart.",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Living for Connection: Partnership",
+                "description": "Nikki talks to people in relationships about how they are navigating the challenges of being at home together 24-7. From the sublime to the absurd — listeners share stories about falling in love, feeling trapped, and attempts to break free as they shelter-in-place with their partners.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Living for Connection: Community",
+                "description": "People who are finding new connections through community and redefining what family means. From a couple who scramble to catch the last flight out of Istanbul and a senior in high school who is redefining her last year to a man living alone who gets a new roommate and a family who falls in love with a city.",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Sponsored: Living For Connection | Soulmates",
+                "description": "In a special episode presented by AMC’s new series Soulmates, Host Nikki Boyer interviews Drs. John and Julie on the topic of finding “the one”. The Gottmans are clinical psychologists who have studied thousands of couples and can predict with 94% accuracy who will end in divorce together.",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          }
+        ],
+        "image": "https://content.production.cdn.art19.com/images/1a/ad/4d/03/1aad4d03-1927-4b03-bf84-dd5ea15c954f/742b684dcfbed627b344699b7279be3548e25c7aa640b127856e487f807dd80e7ff8a56071bbfb28b45434ad1f249e2148c75797b451aea0c6f93c6b914f17cb.jpeg",
+        "genres": [
+          "All",
+          "Entertainment",
+          "Personal Growth"
+        ],
+        "updated": "2022-03-17T07:01:00.000Z"
+      },
+
+      {
+        "id": "10660",
+        "title": "More Than A Feeling",
+        "description": "Most of us have gotten at least a little emotional at some point recently. It’s natural. But why do we have emotions and how much should we pay attention to them on any given day? Can we learn to skillfully choose which emotions to listen to and which ones to just let move on by? In More Than A Feeling , the latest podcast from Ten Percent Happier, host Saleem Reshamwala goes on a real life quest to find the answers to these questions. He’ll experiment with neuroscientists, dive into stories with historians and philosophers, and document how musicians, therapists, hairdressers and airplane pilots work with emotions.  Saleem sifts through the human condition to find stories and insights that will help us define our most fundamental relationships: our relationship to our own emotions, and to each other’s.",
+        "seasons": [
+          {
+            "season": 1,
+            "title": "Season 1",
+            "image": "https://content.production.cdn.art19.com/images/88/d5/9d/bd/88d59dbd-34b3-4588-b173-f2860a70ee4f/d39fe5e91a7538baf18d19f2a7509a995d8852a63972a84058634ab791aa67986d5d6b7e1a49143089d6ce72b9f28cd92088476f1b310be35dd436621123d1c0.jpeg",
+            "episodes": [
+              {
+                "title": "Vibe: A Distributed Emotion",
+                "description": "We hear a lot about “vibe” these days: Vibe check, a shift in the vibe, catching a vibe, don't kill the vibe. With the help of scholars and researchers Ellen Dissanayake, Connie Bainbridge, and Maria Witek we’ll define this feeling by drawing a fun, evolutionary line from the sweet sounds of baby talk and lullabies, all the way to adults vibing to the music they love. To put our findings to the test, musicians Phil Cook & Ally J help Saleem write a new lullaby, and DJ Zephyr Ann & DJ Rang demonstrate the power of experiencing “distributed emotion” through music. ",
+                "episode": 1,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Rage: I’m Not Mad",
+                "description": "This week, we investigate something that’s long been accepted as a fact about emotions without being put to a scientific test: the stereotype that women are more emotional than men. We meet Psychologist Dr. Adriene Beltz, who’s trying to close that research gap, hear an enraging story from Author Kate Moore about a 19th century woman whose husband commits her to an asylum for expressing her feelings, and talk with Therapist and Researcher Araya Baker about how expectations around emotions and gender impact everyone.",
+                "episode": 2,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Joy & Shame: The Wisdom of Fandom",
+                "description": "",
+                "episode": 3,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Nostalgia: The El Michels Affair Episode",
+                "description": "",
+                "episode": 4,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Jealousy: Friends & Lovers",
+                "description": "",
+                "episode": 5,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Acceptance: You’re Okay, I’m Okay",
+                "description": "",
+                "episode": 6,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Fear: Get Me Out of Here",
+                "description": "",
+                "episode": 7,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              },
+              {
+                "title": "Prologue: What’s More Than A Feeling?",
+                "description": "",
+                "episode": 8,
+                "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+              }
+            ]
+          }
+        ],
+        "image": "https://content.production.cdn.art19.com/images/88/d5/9d/bd/88d59dbd-34b3-4588-b173-f2860a70ee4f/067c26b8a612db644940641db4571613a41dd52888a5ce38e1b21c170bf73c3d97500fa010a2ad1849832e11089c6e997e6142e6a70be8dc4babbb6fdf2a8a6c.png",
+        "genres": [
+          "All",
+          "Personal Growth"
+        ],
+        "updated": "2022-08-02T15:14:11.000Z"
+      }
 ]
